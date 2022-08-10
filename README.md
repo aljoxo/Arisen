@@ -32,6 +32,7 @@
     - [Game Folder](#game-folder)
     - [Documentation](#documentation)
     - [BethINI](#bethini)
+    - [ENB](#enb)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
@@ -46,8 +47,9 @@
 
 ## Preamble
 
+Apotheosis is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, ﻿Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core.
 
-The full modlist can be viewed [here](LINK), a selection of screenshots can be viewed [here](LINK).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/apotheosis).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -103,12 +105,8 @@ Prior to installing Apotheosis, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside \Documents\My Games\.
-4. Reinstall Skyrim into a location that is not Program files. Somewhere like `C:\Games` is a good location.
-5. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
-6. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-7. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**
- #### __Step 3 and 4 are only necessary if you modded the game without a 'stock game' and cleaned the master files.__
+3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
+4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**_
 
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following. 
 
@@ -123,7 +121,7 @@ Prior to installing Apotheosis, please complete the following steps.
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing Apotheosis
 
@@ -141,7 +139,6 @@ Some files require loverslab for this list (none of them are nsfw).
 - [Nether's Follower Framework v2.7.9](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - [Tempered Skins for Males - SOS Light Version - part 2 of 2 v2.051](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 - [SOS - Schlongs of Skyrim - LightSE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
-- 
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
