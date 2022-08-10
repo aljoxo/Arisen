@@ -69,10 +69,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
 Space required: 
-- Approx XXXGB (Downloads included)
+- Approx 450GB (Downloads included)
 
 Size without downloads: 
-- Approx XXXGB
+- Approx 280GB
 
 ### Setting Up Pagefile
 
