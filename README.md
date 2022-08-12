@@ -32,7 +32,6 @@
     - [Game Folder](#game-folder)
     - [Documentation](#documentation)
     - [BethINI](#bethini)
-    - [ENB](#enb)
   - [Playing the List](#playing-the-list)
     - [Starting up the list](#starting-up-the-list)
     - [In Game MCM Options](#in-game-mcm-options)
