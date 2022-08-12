@@ -28,7 +28,7 @@
 
 ## Notable Mod Authors
 
-### This list uses animations from a significant amount of mod authors, I will try to include them all in this list. If one is missing I will update it as soon as I am informed. Also I will be linking some animators by their patreon, however please note that every animation used in this list was openly available either on the nexus or otherwise publicly shared. (Names are listed alphabetically).
+### This list uses animations from a significant amount of mod authors, I will try to include them all in this list. If one is missing I will update it as soon as I am informed. Also I will be linking some authors by their patreons (if applicable), however please note that every animation used in this list was openly available either on the nexus or otherwise publicly shared. (Names are listed alphabetically).
 
  - [ADRI](https://www.patreon.com/isADRI)
  - [attaricoaf](https://www.nexusmods.com/skyrimspecialedition/users/39867860)
