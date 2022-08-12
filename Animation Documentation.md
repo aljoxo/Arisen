@@ -70,7 +70,7 @@
  - [Smooth Random 1h Equip](https://www.nexusmods.com/skyrimspecialedition/mods/62735)
  - [Smooth Random 2h Equip](https://www.nexusmods.com/skyrimspecialedition/mods/62932)
  - [Smooth Random Idle Aniamtion](https://www.nexusmods.com/skyrimspecialedition/mods/72787)
- - [UNDERDOG (Sneak Animations)](https://www.nexusmods.com/skyrimspecialedition/mods/51811)
+ - [UNDERDOG (Sneak and Death Animations)](https://www.nexusmods.com/skyrimspecialedition/mods/51811)
  - [Jump Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36889)
  - [AC Valhalla Inspired Movement](https://www.nexusmods.com/skyrimspecialedition/mods/72966)
  - [Leviathan Two-Handed High Stance](https://www.nexusmods.com/skyrimspecialedition/mods/47092)
