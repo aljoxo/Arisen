@@ -147,6 +147,7 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [Olivier Kenjutsu Sword 1.1](https://drive.google.com/file/d/1A8ZQrzA675l1PcDJEOVe3j7rjcnHvp9q)
 - [OCPA 1.2](https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc)
 - [Tullfx Bloodstorm](https://drive.google.com/file/d/1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA)
+- [dint BDOR Hair pack](https://drive.google.com/file/d/16cEFQinG9utc-P5LvOJ3SFtOpfbX24M2)
 
 ##### Problems with installation
 
