@@ -1,12 +1,5 @@
 # Apotheosis
 
-
-
-<table stlyle="border: none;">
-<tr>
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/Animonculory-Visual-Overhaul/main/.github/WJIcon.png" width="64px" /></td>
-<td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>	
-
 </tr>
 </table>
 
