@@ -1,8 +1,5 @@
 # Apotheosis
 
-</tr>
-</table>
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
@@ -236,17 +233,16 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](LINK) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [N/A](LINK) discord for support.
-
-You are welcome to [contribute](LINK) to the list, however please check the [changelog](LINK) before you do.
+Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Uncreative Hacks](https://discord.gg/4WwqfK5yHg) discord for support.
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
-- Curly for allowing me to use his graphical baseline as the core of my list
+- Curly for allowing me to use his graphical baseline as the core of my list (check out Ascensio whenever it releases).
+- Bingus for tweaking the enb and providing some asset fixes
+- iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of my Facegen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding
-- JustThatKing for his (indirect) help with the graphics
-- Bingus, Curly, and iAmMe for helping me with the creation of the list
+- JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous
 - Noggog for Mutagen and the xEdit team for xEdit and their tools
 - Halgari and everyone the WJ Team
