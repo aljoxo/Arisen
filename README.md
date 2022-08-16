@@ -183,7 +183,8 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
     - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire, equipment, spells, and starting location.
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
- - Read over the [Control map](https://i.imgur.com/4wTrJ9A.png).
+ - Read over the Control map.
+![](https://i.imgur.com/4wTrJ9A.png)
 
 ### In-Game MCM options
 
@@ -201,6 +202,7 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
  - **Simplest Horses**: Change your *Horse Control hotkey* here.
  - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
+    - I suggest putting the "Widget Display Type" to *Alpha Based*
  - **Taunt Your Enemies**: Change you *Taunt* keybind here.
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: TBD
