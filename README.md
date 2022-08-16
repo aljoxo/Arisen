@@ -187,23 +187,23 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 
 ### In-Game MCM options
 
- - AGO: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
- - Better FaceLight Redux ENB: Disabled by default, enable the mod in the MCM.
- - Better Third Person Selection: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
- - Bow Charge Plus: Dodge Shot does not work with DMCO.
- - Dodge Framework: Change your *dodge* keybind here.
- - Dual Wield Block: Change your *Dual Wield Block* keybind here. **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
- - Hide Your Quests: Allows you to hide quests from your journal (not useful on startup, obviously).
- - Leveling Freedom: By default the list should use the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
- - Lucien: Can choose a name or nickname for Lucien to call you by (if available).
- - Optimal Potion Hotkey: Change your *Health potion hotkey*. Add a hotkey for stamina/magicka potions.
- - Seiro's Hotkeys: Set up additional hotkeys here.
- - Simplest Horses: Change your *Horse Control hotkey* here.
- - Static Skill Leveling: MCM menu does not work, if you wish to tweak this, do it in xedit.
- - SunHelm: Disabled by default, can be activated through the MCM or by sleeping in a bed.
- - Taunt Your Enemies: Change you *Taunt* keybind here.
- - True Directional Movement: Change your *Target Lock* keybind here.
- - Valhalla Combat: TBD
+ - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
+ - **Better FaceLight Redux ENB**: Disabled by default, enable the mod in the MCM.
+ - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
+ - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
+ - **Dodge Framework**: Change your *dodge* keybind here.
+ - **Dual Wield Block**: Change your *Dual Wield Block* keybind here. **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - **Hide Your Quests**: Allows you to hide quests from your journal (not useful on startup, obviously).
+ - **Leveling Freedom**: By default the list should use the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
+ - **Lucien**: Can choose a name or nickname for Lucien to call you by (if available).
+ - **Optimal Potion Hotkey**: Change your *Health potion hotkey*. Add a hotkey for stamina/magicka potions.
+ - **Seiro's Hotkeys**: Set up additional hotkeys here.
+ - **Simplest Horses**: Change your *Horse Control hotkey* here.
+ - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
+ - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
+ - **Taunt Your Enemies**: Change you *Taunt* keybind here.
+ - **True Directional Movement**: Change your *Target Lock* keybind here.
+ - **Valhalla Combat**: TBD
 
 ### Anniversary Edition
 
