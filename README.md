@@ -171,7 +171,7 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 ### Documentation
 
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
- - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation)
+ - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation.md)
 
 ## Playing the List
 
