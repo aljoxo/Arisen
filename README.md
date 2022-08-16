@@ -36,7 +36,7 @@
 
 ## Preamble
 
-Apotheosis is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, ﻿Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core.
+Apotheosis is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/apotheosis).
 
@@ -133,6 +133,7 @@ Some files require loverslab for this list (none of them are nsfw).
 - [SOS - Schlongs of Skyrim - LightSE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
 
 Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have included the links to the files that require them.
+- [High Poly Head](https://drive.google.com/file/d/15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq)
 - [Eskyrim Spear](https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw)
 - [Olivier Kenjutsu Battleaxe and Warhammer](https://drive.google.com/file/d/1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9)
 - [Olivier Kenjutsu Katana](https://drive.google.com/file/d/14cix5FZNgPiAJV8mfwB2Yfcqchkd1KqJ)
