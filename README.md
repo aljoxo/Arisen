@@ -208,7 +208,12 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
     - I suggest putting the "Widget Display Type" to *Alpha Based*
  - **Taunt Your Enemies**: Change you *Taunt* keybind here.
  - **True Directional Movement**: Change your *Target Lock* keybind here.
- - **Valhalla Combat**: TBD
+ - **Valhalla Combat**: The core of the combat balance in the list. 
+    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them.
+    - Timed Block: You can enable or disable the *Tackle* mechanic (default: enabled).
+    - Stun&Execution: By default the list does not bind an *Execution Key* and has *Execution On Hit* disabled, this is due to the fact that we found the ability to beat enemies by just spamming timed blocks and the occassional power attack to feel neither rewarding, nor balanced. If you wish to enable either of these features, do so here.
+    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
+      - If *TrueHUD API* or *Special Meter Control* do not say "Obtained" next to them, try updating TrueHUD and True Directional Movement (this should not be a problem unless you modify the list). If *Nemesis Stun Damage Patch* or *Nemesis NPC Counter Patch* do not say "Installed" next to them, please clear your Nemesis cache and rerun nemesis. 
 
 ### Anniversary Edition
 
