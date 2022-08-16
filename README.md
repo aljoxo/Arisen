@@ -46,14 +46,16 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ### Minimum Specifications for ~60 fps gameplay at 1920x1080
 
->  Please note these specs are the best idea of a baseline that I can provide at the current moment, as I only have one PC to play and test on, your mileage may vary depending on a variety of factors. In the future this will hopefully be updated to be more accurate.
+>  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
 | Spec Category | Default Profile |
 |     :---:    |     :---:     |
 | **CPU**   | R7 3700x / i5 10600k |  
-| **Video Card**    | RTX 3060 Ti / RTX 2080 / RX 6700 XT       |
-| **Ram**    | 32gb (2x16) DDR4 3200mhz RAM     |
+| **Video Card**    | RTX 3060 Ti / RTX 2070 / RX 6700 XT       |
+| **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
 | **Storage**    | SATA SSD     |
+
+>  Due to the age of Skyrim, it's hard to pinpoint exactly what specs you will need to run this list. Out of testers who I know the hardware for, one has a 9700k/2070/32gb RAM, one has a 9900k/2080/16gb RAM, and I have a 9700k/3080/32gb RAM. Out of the three of us, the one with the 9900k seems get the best performance. It is impossible to pinpoint every variable that can lead to good or bad performance, I will do my best to optimize the list so that it is playable on most ranges of hardware, this may include adding a performance profile in the future.
 
 >  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
@@ -65,7 +67,8 @@ Size without downloads:
 
 ### Setting Up Pagefile
 
-Due to the resources required to run modlists like these, you will need to configure the pagefile on your system in order to avoid crashes and bugs that may occur from running out of memory. I suggest a 40GB fixed-size pagefile for Apotheosis solely for safety, but it is very possible that you could get away with a 20GB (20480 instead of 40960 in the **Initial** and **Maximum Size** boxes). This step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
+Due to the resources required to run modlists like these, you will need to configure the pagefile on your system in order to avoid crashes and bugs that may occur from running out of memory. This step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
+  I suggest a 40GB fixed-size pagefile for Apotheosis solely for safety, but it is very possible that you could get away with a 20GB (20480 instead of 40960 in the **Initial** and **Maximum Size** boxes). While a 20GB pagefile may be usable, I do not plan on testing it any time soon, so do so at your own risk.
 
 To set up your pagefile:
 1. Press **Win Key + R**
@@ -149,7 +152,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - x is not a whitelisted download:
 
-	 - This will happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
+	 - This may happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
 
 - Wabbajack could not find my game folder:
 
@@ -162,31 +165,44 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Stock Game”. You don’t need to copy anything at all.
+Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ### Documentation
 
-For Documentation relating to the animations used within the list, please check out the [Animation Page](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
+ - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
+ - To know what graphic mods are used in the list, click [here](link)
 
 ## Playing the List
 
-### Starting up the list
-Open the installation folder and double click on the program called `ModOrganizer.exe`. 
+### Starting the Game
 
-Make sure the dropdown box on the right is set to `SKSE` and press the `Run` button. 
+ - Apotheosis comes with a start save by default, so when you load into the main menu, choose "Continue".
+ - For alternate start mods, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
+    - In order to start chargen hit **Enter** as soon as you load in
+    - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire, equipment, spells, and starting location.
+        - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
+     - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
+ - Read over the [Control map](https://i.imgur.com/4wTrJ9A.png).
 
 ### In-Game MCM options
 
-- This serves as a placeholder in case you want to use the Readme as some sort of template.
-
-### Starting the Game
-
-- By default, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
-- More relevant details...
-	
-## Adding mods to Apotheosis
-
-- WIP...
+ - AGO: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
+ - Better FaceLight Redux ENB: Disabled by default, enable the mod in the MCM.
+ - Better Third Person Selection: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
+ - Bow Charge Plus: Dodge Shot does not work with DMCO.
+ - Dodge Framework: Change your *dodge* keybind here.
+ - Dual Wield Block: Change your *Dual Wield Block* keybind here. **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - Hide Your Quests: Allows you to hide quests from your journal (not useful on startup, obviously).
+ - Leveling Freedom: By default the list should use the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
+ - Lucien: Can choose a name or nickname for Lucien to call you by (if available).
+ - Optimal Potion Hotkey: Change your *Health potion hotkey*. Add a hotkey for stamina/magicka potions.
+ - Seiro's Hotkeys: Set up additional hotkeys here.
+ - Simplest Horses: Change your *Horse Control hotkey* here.
+ - Static Skill Leveling: MCM menu does not work, if you wish to tweak this, do it in xedit.
+ - SunHelm: Disabled by default, can be activated through the MCM or by sleeping in a bed.
+ - Taunt Your Enemies: Change you *Taunt* keybind here.
+ - True Directional Movement: Change your *Target Lock* keybind here.
+ - Valhalla Combat: TBD
 
 ### Anniversary Edition
 
@@ -201,11 +217,12 @@ Before updating, please check the changelog and back up your saves. You may need
   - If the modlist is updated from 1.0.0 to 1.1.0, then this version is unlikely to be save safe, but it is possible depending on my consistency.
   - If the modlist is updated from 1.0.0 to 1.0.1, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To not have mods delete, add **[NoDelete]** at the beginning of said mod. 
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To not have mods delete, add **[NoDelete]** at the beginning of said mod.
+**ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. Please Please Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.
 
 ## FAQ
 
-WIP
+I will update this section as I see fit.
 
 ### Tweaking the Game Settings
 
@@ -240,9 +257,9 @@ Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on gi
 - _YOU_ for reading this.
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
 - Curly for allowing me to use his graphical baseline as the core of my list (check out Ascensio whenever it releases).
-- Bingus for tweaking the enb and providing some asset fixes
+- Bingus for helping me with ENB, testing, and tweaking some assets
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of my Facegen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous
 - Noggog for Mutagen and the xEdit team for xEdit and their tools
-- Halgari and everyone the WJ Team
+- Halgari and the WJ Team for this amazing platform
