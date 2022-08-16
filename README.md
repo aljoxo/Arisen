@@ -27,6 +27,7 @@
     - [In Game MCM Options](#in-game-mcm-options)
   - [Updating Apotheosis](#updating-the-modlist)
   - [FAQ](#faq)
+   - [Tweaking the Game Settings](#tweaking-the-game-settings)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
