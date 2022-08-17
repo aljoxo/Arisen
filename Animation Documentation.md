@@ -28,7 +28,7 @@
 
 ## Notable Mod Authors
 
-### This list uses animations from a significant amount of mod authors, I will try to include them all in this list. If one is missing I will update it as soon as I am informed. Also I will be linking some authors by their patreons (if applicable), however please note that every animation used in this list was openly available either on the nexus or otherwise publicly shared. (Names are listed alphabetically).
+### This list uses animations from a significant amount of mod authors, I will try to include them all in this list. If one is missing I will update it as soon as I am informed. Also I will be linking some animators by their patreon, however please note that every animation used in this list was openly available either on the nexus or otherwise publicly shared. (Names are listed alphabetically).
 
  - [ADRI](https://www.patreon.com/isADRI)
  - [attaricoaf](https://www.nexusmods.com/skyrimspecialedition/users/39867860)
@@ -69,7 +69,6 @@
  - [Smooth Random Magic Idle](https://www.nexusmods.com/skyrimspecialedition/mods/49853)
  - [Smooth Random 1h Equip](https://www.nexusmods.com/skyrimspecialedition/mods/62735)
  - [Smooth Random 2h Equip](https://www.nexusmods.com/skyrimspecialedition/mods/62932)
- - [Smooth Random Idle Aniamtion](https://www.nexusmods.com/skyrimspecialedition/mods/72787)
  - [UNDERDOG (Sneak and Death Animations)](https://www.nexusmods.com/skyrimspecialedition/mods/51811)
  - [Jump Behavior Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36889)
  - [AC Valhalla Inspired Movement](https://www.nexusmods.com/skyrimspecialedition/mods/72966)
@@ -77,6 +76,7 @@
  - [Conditional Armor Type Animations](https://www.nexusmods.com/skyrimspecialedition/mods/51507)
       - Includes the Leviathan, Vanargand, and Goetia Animations Packs
  - [EVG Animation Variance](https://www.nexusmods.com/skyrimspecialedition/mods/38534)
+ - [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006)
 
 
 
