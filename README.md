@@ -60,10 +60,12 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
 Space required: 
-- Approx 450GB (Downloads included)
+- Approx 380GB (WJ manifest says ~440GB) (Downloads included)
 
 Size without downloads: 
-- Approx 280GB
+- Approx 230GB (WJ manifest says 275GB)
+
+Why is there a discrepancy in what I list as the Approx space required and what the WJ manifest lists? I have no idea, the values I give originally are what my test compiles usually end up around.
 
 ### Setting Up Pagefile
 
