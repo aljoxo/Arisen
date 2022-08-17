@@ -195,7 +195,6 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 ### In-Game MCM options
 
  - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
- - **Better FaceLight Redux ENB**: Disabled by default, enable the mod in the MCM.
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
  - **Dodge Framework**: Change your *dodge* keybind here.
