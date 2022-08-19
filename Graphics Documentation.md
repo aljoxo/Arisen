@@ -138,7 +138,6 @@
  - Praedyth's [Staves](https://www.nexusmods.com/skyrimspecialedition/mods/65481)
  - JS's [Unique Utopia](https://www.nexusmods.com/skyrimspecialedition/mods/65394)
  - JDAnchor's [Sigils of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54108)
- - OperatorCactus' [Ebony Weapons 2017](https://www.nexusmods.com/skyrimspecialedition/mods/30029)
  - Erlioniel's [Elven Weapons For Silence](https://www.nexusmods.com/skyrimspecialedition/mods/27994)
  - Elsopa's [Quivers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/65921)
 
