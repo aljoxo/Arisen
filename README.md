@@ -1,4 +1,6 @@
 # Apotheosis
+![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/apotheosis%20placeholderv2.png)
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
