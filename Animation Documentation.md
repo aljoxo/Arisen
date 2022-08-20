@@ -146,7 +146,6 @@
 
  - [Unladen Warden Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/63038)
  - [JH Combat Animation Pack](https://www.nexusmods.com/skyrimspecialedition/mods/48500)
- - [Vindictus Fiona Counter](https://www.nexusmods.com/skyrimspecialedition/mods/65663)
  - [Sword and Shield Moveset](https://www.nexusmods.com/skyrimspecialedition/mods/61250)
 
 ### Rapiers
