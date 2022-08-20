@@ -189,7 +189,7 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
- 	![](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/alexa/Downloads/apotheosis-standard-keybinds%20%281%29.png?version%3D1660957341899)
+![](c:/Users/alexa/Downloads/apotheosis-standard-keybinds%20(1).png)
 
 ### In-Game MCM options
 
