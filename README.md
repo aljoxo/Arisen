@@ -195,6 +195,7 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 
 ### In-Game MCM options
 
+ - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off.
  - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
