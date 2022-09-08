@@ -28,33 +28,33 @@
 ### Removed
 
  - s6o6t LORE - Oblivion gates
-       - Reason: did not have proper object lods and the popping was a bit unsightly.
+        - Reason: did not have proper object lods and the popping was a bit unsightly.
  - Vanilla Rain and Snow Remake
-       - Reason: True Storms + ENB tweaking makes this redundant
+        - Reason: True Storms + ENB tweaking makes this redundant
  - IFrame Generator
-       - Reason: IFrame Generator RE Released
+        - Reason: IFrame Generator RE Released
  - Demoniac CBBE
-       - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
+        - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
  - Pride of Valhalla
-       - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
+        - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
  - Smooth Random Equip Animations
-       - Reason: Trying to reduce DAR Cache time, these animations did not feel fun to play with either. 
+        - Reason: Trying to reduce DAR Cache time, these animations did not feel fun to play with either. 
  - Realistic Combat AI
-       - Reason: Replaced it with Modern Combat AI
+        - Reason: Replaced it with Modern Combat AI
  - Heritage
-       - Reason: I wanted to cut down some bloat in my NPCs and LVL Lists, Hertiage 2 does a great job by itself as well.
+        - Reason: I wanted to cut down some bloat in my NPCs and LVL Lists, Hertiage 2 does a great job by itself as well.
  - Heritage - Reflexive Mysticism Patch
-       - Reason: Was a patch dependent on Heritage.
+        - Reason: Was a patch dependent on Heritage.
  - Cumulative fix for Eye Meshes
-       - Reason: Fixed eye issues with different mods
+        - Reason: Fixed eye issues with different mods
  - Player extra bright and glowing eyes fix
-       - Reason: Fixed eye issues with different mods
+        - Reason: Fixed eye issues with different mods
  - Taekwondo WTF
-       - Reason: Black released his Judge Eyes animation and it fits the role better for what we were trying to accomplish
+        - Reason: Black released his Judge Eyes animation and it fits the role better for what we were trying to accomplish
  - No Enchantment Restriction SKSE Remake
-       - Reason: Balancing
+        - Reason: Balancing
  - Archery Tweaks
-       - Reason: Mod was redundant and every function it had was already covered elsewhere.
+        - Reason: Mod was redundant and every function it had was already covered elsewhere.
 
 ### Added
 
