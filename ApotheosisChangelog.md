@@ -28,33 +28,33 @@
 ### Removed
 
  - s6o6t LORE - Oblivion gates
-        - Reason: did not have proper object lods and the popping was a bit unsightly.
+    - Reason: did not have proper object lods and the popping was a bit unsightly.
  - Vanilla Rain and Snow Remake
-        - Reason: True Storms + ENB tweaking makes this redundant
+    - Reason: True Storms + ENB tweaking makes this redundant
  - IFrame Generator
-        - Reason: IFrame Generator RE Released
+    - Reason: IFrame Generator RE Released
  - Demoniac CBBE
-        - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
+    - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
  - Pride of Valhalla
-        - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
+    - Reason: Swapped skin setup to Realore + PB's Crystal Clear Musclemaps
  - Smooth Random Equip Animations
-        - Reason: Trying to reduce DAR Cache time, these animations did not feel fun to play with either. 
+    - Reason: Trying to reduce DAR Cache time, these animations did not feel fun to play with either. 
  - Realistic Combat AI
-        - Reason: Replaced it with Modern Combat AI
+    - Reason: Replaced it with Modern Combat AI
  - Heritage
-        - Reason: I wanted to cut down some bloat in my NPCs and LVL Lists, Hertiage 2 does a great job by itself as well.
+    - Reason: I wanted to cut down some bloat in my NPCs and LVL Lists, Hertiage 2 does a great job by itself as well.
  - Heritage - Reflexive Mysticism Patch
-        - Reason: Was a patch dependent on Heritage.
+    - Reason: Was a patch dependent on Heritage.
  - Cumulative fix for Eye Meshes
-        - Reason: Fixed eye issues with different mods
+    - Reason: Fixed eye issues with different mods
  - Player extra bright and glowing eyes fix
-        - Reason: Fixed eye issues with different mods
+    - Reason: Fixed eye issues with different mods
  - Taekwondo WTF
-        - Reason: Black released his Judge Eyes animation and it fits the role better for what we were trying to accomplish
+    - Reason: Black released his Judge Eyes animation and it fits the role better for what we were trying to accomplish
  - No Enchantment Restriction SKSE Remake
-        - Reason: Balancing
+    - Reason: Balancing
  - Archery Tweaks
-        - Reason: Mod was redundant and every function it had was already covered elsewhere.
+    - Reason: Mod was redundant and every function it had was already covered elsewhere.
 
 ### Added
 
@@ -96,7 +96,7 @@
  - Universal Cured Serana Eye Fix
  - Project Cougar - Inge Six-FIngers
  - Heritage Hand to Hand Integration
-        - This mod was actually already in my patches collection of the list but now it's an actual mod...
+    - This mod was actually already in my patches collection of the list but now it's an actual mod...
  - Zim's Dragon Improvements
  - OnMagicEffectApplyReplacer
  - SUEMR SSE with Bijin AIO 2019 Support
@@ -118,7 +118,7 @@
  - Removed redundant OCPA mod to avoid confusion
  - Tweaked Projectiles on Concentration spells to be more like the ones from Distar's Projectile mod (Projectiles DXP), they are faster, but also dodgeable unlike previously.
  - Grass should be a bit denser in the tundra now
-        - Grass Density was increased by a bit this update, however the performance was similar as I only increased the density on grass in areas that seemed a bit too sparse
+    - Grass Density was increased by a bit this update, however the performance was similar as I only increased the density on grass in areas that seemed a bit too sparse
  - Lots of Ruvaak ENB Tweaks (thanks bingus)
  - Rebuilt Nemesis
  - Reran Synthesis
