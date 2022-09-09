@@ -1,5 +1,5 @@
 # Apotheosis
-![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/apotheosis%20placeholderv2.png)
+![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Banner_MAIN.png)
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -20,8 +20,10 @@
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Apotheosis](#downloading-and-installing-apotheosis)
       - [Problems with installation](#problems-with-installation)
-  - [Post-Installation](#post-installation)
+  - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
+    - [Widescreen Fixes](#widescreen-fixes)
+    - [Controller and Gamepad Support](#controller-and-gamepad-setup)
     - [Documentation](#documentation)
     - [BethINI](#bethini)
   - [Playing the List](#playing-the-list)
@@ -57,15 +59,15 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
 | **Storage**    | SATA SSD     |
 
->  Due to the age of Skyrim, it's hard to pinpoint exactly what specs you will need to run this list. Out of testers who I know the hardware for, one has a 9700k/2070/32gb RAM, one has a 9900k/2080/16gb RAM, and I have a 9700k/3080/32gb RAM. Out of the three of us, the one with the 9900k seems get the best performance. It is impossible to pinpoint every variable that can lead to good or bad performance, I will do my best to optimize the list so that it is playable on most ranges of hardware, this may include adding a performance profile in the future.
+>  Due to the age of Skyrim, it's hard to pinpoint exactly what specs you will need to run this list. Out of testers who I know the hardware for, one has a 9700k/2070/32gb RAM, one has a 9900k/2080/16gb RAM, and I have a 9700k/3080/32gb RAM. Based on feedback I have gotten the list runs very well with few problematic areas, however I will collect more data before attempting to update these system requirements as to not try and mislead people. 
 
 >  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
 Space required: 
-- Approx 380GB (WJ manifest says ~440GB) (Downloads included)
+- Approx 380GB (Downloads should be roughly 150GB)
 
 Size without downloads: 
-- Approx 230GB (WJ manifest says 275GB)
+- Approx 230GB
 
 Why is there a discrepancy in what I list as the Approx space required and what the WJ manifest lists? I have no idea, the values I give originally are what my test compiles usually end up around.
 
@@ -131,7 +133,7 @@ Downloading and installing Apotheosis can take a while depending on your interne
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
-Some files require loverslab for this list (none of them are nsfw).
+Some files require loverslab for this list (none of them are sex mods).
 - [Nether's Follower Framework v2.7.9](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - [Tempered Skins for Males - SOS Light Version - part 2 of 2 v2.051](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 - [SOS - Schlongs of Skyrim - LightSE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
@@ -146,6 +148,16 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [OCPA 1.2](https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc)
 - [Tullfx Bloodstorm](https://drive.google.com/file/d/1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA)
 - [dint BDOR Hair pack](https://drive.google.com/file/d/16cEFQinG9utc-P5LvOJ3SFtOpfbX24M2)
+- [ADXP/SCAR Sneak Fix](https://drive.google.com/file/d/14WLQgjMaExudmcExtXUAfESc0eV_8k6N)
+- [Cosmofujia's EldenRing Spears](https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX)
+- [full_inu Armor Pack](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k)
+
+Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
+- [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+- [DMCO](https://www.skyrim-guild.com/s/DMCO-095.7z)
+- [Vanguard](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
+- [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
+- [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 
 ##### Problems with installation
 
@@ -155,7 +167,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
 
 
-- x is not a whitelisted download:
+- **X** is not a whitelisted download:
 
 	 - This may happen when I update the modlist. Please check if there is a new update or wait until you see a release ping.
 
@@ -166,11 +178,37 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-## Post-Installation
+## Post-Installation and Optional Setup
 
 ### Game Folder
 
 Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+
+### Widescreen Fixes
+
+Apotheosis offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+
+**IN ORDER FOR THESE FIXES TO WORK YOU NEED TO DO THE FOLLOWING**
+ 1. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:
+    a. /interface/skyui/bottombar.swf
+    b. /interface/skyui/itemcard.swf
+ 2. Search for **Experience** in the left pane of MO2 and delete or hide the following files:
+    a. /interface/statsmenu.swf
+
+Failing to follow these instructions and asking in support channels how to make the Widescreen fixes work correctly will result in moderator action.
+
+### Controller and Gamepad Setup
+
+Apotheosis offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
+ 1. Under the **Gamepad Support** Separator in MO2, activate **Gamepad Controlmap Fixed**
+ 2. **(Optional)** To reduce chances of error, go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
+ 3. Search for **OCPA Custom for ADXPMCO** in the left pane of MO2
+ 4. Right Click the mod > Information > INI Files and click on *SKSE\Plugins\OneClickPowerAttack.ini*
+ 5. Change the following value(s):
+   a. **Keycode=47** to **Keycode=281**
+     - This will change the power attack bind to right trigger, if you wish to use a different key please refer to [this link](https://www.creationkit.com/index.php?title=Input_Script).
+
+Failing to follow these instructions and asking in support channels how to use a controller or gamepad correctly will result in moderator action.
 
 ### Documentation
 
@@ -182,7 +220,9 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 ### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. While cleaning up the folder setup to try and alleviate this issue is a long term goal for the list, please do realize that this issue is out of our control as it is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
 
 ### Starting the Game
-
+ - **(Optional)** For those of you with extreme arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
+    - At the current moment the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
+ - Launch the "Play Apotheosis!" Executable in MO2
  - Apotheosis comes with a start save by default, so when you load into the main menu, choose "Continue".
  - For alternate start mods, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
     - In order to start chargen hit **Enter** as soon as you load in
@@ -213,11 +253,12 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
  - **Taunt Your Enemies**: Change you *Taunt* keybind here.
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
-    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them.
+    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking.
     - Timed Block: You can enable or disable the *Tackle* mechanic (default: enabled).
-    - Stun&Execution: By default the list does not bind an *Execution Key* and has *Execution On Hit* disabled, this is due to the fact that we found the ability to beat enemies by just spamming timed blocks and the occassional power attack to feel neither rewarding, nor balanced. If you wish to enable either of these features, do so here.
+    - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
     - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
-      - If *TrueHUD API* or *Special Meter Control* do not say "Obtained" next to them, try updating TrueHUD and True Directional Movement (this should not be a problem unless you modify the list). 
+      - If *TrueHUD API* does not say "Obtained" next to them, try updating TrueHUD and True Directional Movement (this should not be a problem unless you modify the list). 
+      - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
 ### Anniversary Edition
 
@@ -227,7 +268,7 @@ Apotheosis is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/m
 
 ## Updating the modlist
 
-Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
+Before updating, please check the [changelog](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
   - If the modlist is updated from 1.0.0 to 2.0.0, then this version is absolutely, under no circumstances, save safe.
   - If the modlist is updated from 1.0.0 to 1.1.0, then this version is unlikely to be save safe, but it is possible depending on my consistency.
   - If the modlist is updated from 1.0.0 to 1.0.1, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
@@ -265,14 +306,14 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Uncreative Hacks](https://discord.gg/4WwqfK5yHg) discord for support.
+Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/4WwqfK5yHg) discord server for support.
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
 - Curly for allowing me to use his graphical baseline as the core of my list (check out Ascensio whenever it releases).
-- Bingus for helping me with ENB, testing, and tweaking some assets
+- Bingus for helping me with ENB, testing, and tweaking some assets (also many mod page screenshots and the logo/banner and MO2 splash)
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of my Facegen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous
