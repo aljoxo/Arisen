@@ -114,6 +114,7 @@ Prior to installing Apotheosis, please complete the following steps.
  4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
  5. Click **Apply** in the bottom right hand corner. 
  6. You may exit out of the application.
+![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
 ### Wabbajack Installation
 
