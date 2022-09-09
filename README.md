@@ -151,7 +151,6 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [dint BDOR Hair pack](https://drive.google.com/file/d/16cEFQinG9utc-P5LvOJ3SFtOpfbX24M2)
 - [ADXP/SCAR Sneak Fix](https://drive.google.com/file/d/14WLQgjMaExudmcExtXUAfESc0eV_8k6N)
 - [Cosmofujia's EldenRing Spears](https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX)
-- [full_inu Armor Pack](https://drive.google.com/file/d/12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
