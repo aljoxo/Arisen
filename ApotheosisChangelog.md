@@ -56,6 +56,10 @@
     - Reason: Balancing
  - Archery Tweaks
     - Reason: Mod was redundant and every function it had was already covered elsewhere.
+ - Alternate Conversation Camera Plus
+    - Reason: Superseded by Improved Alternate Conversation Camera
+ - Alternate Conversation Camera Plus Tweaks
+    - Reason: Superseded by Improved Alternate Conversation Camera
 
 ### Added
 
@@ -105,10 +109,11 @@
  - ADXP I MCO JUDGE EYES Crane
  - Jump Attacks
  - Precision Creatures
+ - Improved Alternate Conversation Camera
 
 ### Actually Important Notes
 
- - Lots of bug fixes
+ - **Lots** of bug fixes
  - Bloodskaal Blade enchantment fixed
  - Updated patches
  - Assorted mesh, texture, and cubemap fixes
@@ -124,3 +129,5 @@
  - Reran Synthesis
  - Rebuilt EasyNPC
  - Added (Possible) Ultrawide and Widescreen Support
+ - Cleaned up RaceMenu Presets
+ - Cleaned up Bodyslide Presets
