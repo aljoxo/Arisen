@@ -24,6 +24,7 @@
  - Better Chests
  - BnP Child Skin
  - NORDIC UI - Miscellaneous Patches
+ - Nemesis Creature Behaviour Compatibility
 
 ### Removed
 
@@ -74,7 +75,6 @@
  - Wait I know You - Forcegreet Tweak
  - Compass Navigation Overhaul
  - Infinity UI
- - [full_inu] Armor Pack 02
  - Smaller Potion of Blood
  - Creation Club - Gallows Hall - Daedric Shrines Vaermina
  - PB's Crystal Clear Musclemaps
