@@ -223,7 +223,8 @@ Failing to follow these instructions and asking in support channels how to use a
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
     - At the current moment the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
- ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
+ 	![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
+
  - Launch the "Play Apotheosis!" Executable in MO2
  - Apotheosis comes with a start save by default, so when you load into the main menu, choose "Continue".
  - For alternate start mods, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
