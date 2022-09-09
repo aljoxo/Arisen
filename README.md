@@ -69,8 +69,6 @@ Space required:
 Size without downloads: 
 - Approx 230GB
 
-Why is there a discrepancy in what I list as the Approx space required and what the WJ manifest lists? I have no idea, the values I give originally are what my test compiles usually end up around.
-
 ### Setting Up Pagefile
 
 Due to the resources required to run modlists like these, you will need to configure the pagefile on your system in order to avoid crashes and bugs that may occur from running out of memory. This step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
@@ -116,6 +114,9 @@ Prior to installing Apotheosis, please complete the following steps.
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
+5. Install Anniversary Addition (Creation Club) Content.
+
+
 ### Wabbajack Installation
 
 #### Installing Wabbajack
@@ -158,6 +159,7 @@ Sometimes the SkyrimGuild website also runs into issues so I suggest downloading
 - [Vanguard](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
+- [Creatures DXP](https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip)
 
 ##### Problems with installation
 
