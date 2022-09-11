@@ -217,6 +217,7 @@ Failing to follow these instructions and asking in support channels how to use a
 
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
  - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation.md)
+ - To know (the majority) of NPC Replacers used by this list, click [here](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/ApotheosisNPCReplacers.md)
 
 ## Playing the List
 
