@@ -31,8 +31,8 @@
 ### Important Stuff
 
  - Main Menu has been updated.
+ - Fixed an issue that caused Direction Power Attacks to occur with Jump Attack.
  - Fixed Katana's weapon being invisible.
- - Blacklisted Katana's Rifle from SynWeaponKeywords so this error doesn't occur again.
  - Fixed issue with Auri's facegen that caused crashes when entering her home/a cell with her.
  - Made some changes to the Valhalla Combat MCM setup (recommended by dTry) in an attempt to try and counter issues that may arise between Valhalla's feature system and Skyrim's NPC AI.
  - Fixed some Mod tags for WJ so there should be less issues downloading certain files and some mods that were not installed correctly will now be.
@@ -49,6 +49,7 @@
  - Fixed invisible furniture in the College of Winterhold.
  - Optimized some .nifs from Fluffworks - Skyrim Immersive Creatures Patch. 
  - Rebuilt Nemesis due to updating SCAR and Jumping Attack.
+ - Updated the Blacklist for some Synthesis Patchers to avoid rogue edits.
  - Reran Synthesis due to updating EasyNPC.
  - ENB Tweaks.
  - Remade Start Save.
