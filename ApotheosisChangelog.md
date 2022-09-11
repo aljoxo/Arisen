@@ -26,6 +26,7 @@
  - Blunderbuss Animations
  - Simple Pistol Shooting Animation by loop
  - Shiny ENB Eyebrows Begone
+ - Skyrim 3D Furniture SMIM Patch
 
 ### Important Stuff
 
@@ -44,6 +45,8 @@
  - Fixed issue with Vampire Eyes not being correctly given to the player.
  - Fixed issue with Vampire Lords and Werewolves being invisible upon transformation.
  - Fixed issue with unique dragons having their names overridden.
+ - Fixed Bound Weapon perks not being applied to Bound Weapons added by New Armoury.
+ - Fixed invisible furniture in the College of Winterhold.
  - Optimized some .nifs from Fluffworks - Skyrim Immersive Creatures Patch. 
  - Rebuilt Nemesis due to updating SCAR and Jumping Attack.
  - Reran Synthesis due to updating EasyNPC.
