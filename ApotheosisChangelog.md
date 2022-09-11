@@ -1,6 +1,54 @@
 # Changelog
 
+- [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.3.0.1
+
+### Updated
+
+ - Jumping Attack
+ - SCAR
+ - Borkel's Remiros' Ebony Blade
+
+### Removed
+
+ - Anthology Menus and Music
+ - Inferno - Fire Effects Redux
+    - Reason: Removing it provided more consistent Fire FX
+
+### Added
+
+ - AutoGibbon's CBPC Settings
+ - Glenmoril Throw Animation
+ - The Eyes of Beauty Vampire Eyes SE AI
+ - Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
+ - Blunderbuss Animations
+ - Simple Pistol Shooting Animation by loop
+
+### Important Stuff
+
+ - Main Menu has been updated.
+ - Fixed Katana's weapon being invisible.
+ - Blacklisted Katana's Rifle from SynWeaponKeywords so this error doesn't occur again.
+ - Fixed issue with Auri's facegen that caused crashes when entering her home/a cell with her.
+ - Made some changes to the Valhalla Combat MCM setup (recommended by dTry) in an attempt to try and counter issues that may arise between Valhalla's feature system and Skyrim's NPC AI.
+ - Fixed some Mod tags for WJ so there should be less issues downloading certain files and some mods that were not installed correctly will now be.
+ - Minor Separator reordering.
+ - Changed MO2 Separator colors because the Monkeys complained.
+ - Fixed a DAR condition error that caused a lack of diversity in Sword movesets for NPCs.
+ - Misc DAR folder and conditions optimization.
+ - Edits to Dialogue Camera to make it more consistent.
+ - Fixed issue with Killmoves.
+ - Fixed issue with Vampire Eyes not being correctly given to the player.
+ - Fixed issue with Vampire Lords and Werewolves being invisible upon transformation.
+ - Fixed issue with unique dragons having their names overridden.
+ - Optimized some .nifs from Fluffworks - Skyrim Immersive Creatures Patch. 
+ - Rebuilt Nemesis due to updating SCAR and Jumping Attack.
+ - Reran Synthesis due to updating EasyNPC.
+ - ENB Tweaks.
+ - Remade Start Save.
+ - **This Update SHOULD be save safe with the pre-release versions of 1.3.0, however I make no promises if your save corrupts for some weird reason.**
 
 ## 1.3.0
 
