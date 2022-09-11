@@ -25,6 +25,7 @@
  - Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
  - Blunderbuss Animations
  - Simple Pistol Shooting Animation by loop
+ - Shiny ENB Eyebrows Begone
 
 ### Important Stuff
 
