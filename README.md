@@ -203,7 +203,8 @@ Failing to follow these instructions and asking in support channels how to make 
 
 Apotheosis offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate **Gamepad Controlmap Fixed**
- 2. **(Optional)** To reduce chances of error, go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
+ 2. Go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
+   a. Alternatively you can reset your controlmap in-game.
  3. Search for **OCPA Custom for ADXPMCO** in the left pane of MO2
  4. Right Click the mod > Information > INI Files and click on *SKSE\Plugins\OneClickPowerAttack.ini*
  5. Change the following value(s):
