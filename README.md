@@ -241,7 +241,7 @@ Failing to follow these instructions and asking in support channels how to use a
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
 ![](https://github.com/aljoxo/Apotheosis/blob/main/apotheosis-standard-keybinds%20(1).png)
-![](https://github.com/aljoxo/Apotheosis/blob/main/controllermap.png)
+![](https://github.com/aljoxo/Apotheosis/blob/main/gamepadfixed.png)
 
 ### In-Game MCM options
 
