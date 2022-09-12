@@ -293,7 +293,9 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 Q: Should I be worried about the Form 43 Error in MO2?  
-A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.
+A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
+Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
+A: No, our projects are independent and completely unrelated.  
 
 
 ### Tweaking the Game Settings
