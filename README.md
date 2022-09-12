@@ -190,6 +190,10 @@ Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim instal
 
 Apotheosis offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
+Download [this mod](
+https://www.nexusmods.com/skyrimspecialedition/mods/53909) (choose the version for your resolution). And install it at the top of the **(Possible) Ultrawide Support** Separator in MO2. Then activate the other mods in the separator.
+> Note the extra mod will only be necessary in version 1.3.0.1, it will be added in future compiles.
+
 **IN ORDER FOR THESE FIXES TO WORK YOU NEED TO DO THE FOLLOWING**
  1. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:
     a. /interface/skyui/bottombar.swf
