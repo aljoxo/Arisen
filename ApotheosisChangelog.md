@@ -1,7 +1,30 @@
 # Changelog
 
+- [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.3.0.2
+
+### Removed
+
+ - Complete Widescreen Fix
+ - Experience - Widescreen Fix
+    - Reason: Issues were fixed by the Nordic UI Patches.
+ - Alternate Fire FX
+    - Reason: Caused issue with fire shaders for player.
+
+### Added
+
+ - Nordic UI 21:9 Patch
+ - Nordic UI 32:9 Patch
+
+### Important Stuff
+
+ - Fixed Bodyslide issue with Xtudo Drifter Gloves that caused them to make the wearer's hands invisible.
+ - Fixed shader effect when the player is on fire.
+ - Updated Instructions and Fixed mods for UW Fixes.
+ - Note: The main menu for UW is a bit off center, this will be fixed in a future update, for now it's a feature :).
 
 ## 1.3.0.1
 
