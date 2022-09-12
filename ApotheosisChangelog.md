@@ -21,7 +21,6 @@
 
 ### Important Stuff
 
- - Fixed Bodyslide issue with Xtudo Drifter Gloves that caused them to make the wearer's hands invisible.
  - Fixed shader effect when the player is on fire.
  - Updated Instructions and Fixed mods for UW Fixes.
  - Note: The main menu for UW is a bit off center, this will be fixed in a future update, for now it's a feature :).
