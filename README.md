@@ -230,6 +230,8 @@ Failing to follow these instructions and asking in support channels how to use a
 
  ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
 
+- The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored.
+
  
  - Launch the "Play Apotheosis!" Executable in MO2
  - Apotheosis comes with a start save by default, so when you load into the main menu, choose "Continue".
