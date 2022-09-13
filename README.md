@@ -22,6 +22,7 @@
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
+    - [Antivirus Exceptions](#antivirus-exceptions)
     - [Widescreen Fixes](#widescreen-fixes)
     - [Controller and Gamepad Support](#controller-and-gamepad-setup)
     - [Documentation](#documentation)
@@ -198,6 +199,21 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
+### Antivirus Exceptions
+
+Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. 
+
+If you use Windows Defender, it is advised that you set up an Exception for the modlist. To do this follow these steps.
+ 1. Press the Windows Key.
+ 2. Type "Windows Defender" in the search bar and select "Windows Security".
+ 3. Click on "Virus & threat protection" in the left pane.
+ 4. Click the "Manage settings" option under "Viruse & threat protection settings".
+ 5. Scroll down to "Exclusions" and click "Add or remove exclusions".
+ 6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
+ 7. Click the "Add an exclusion" button at the top and choose "Folder".
+ 8. Navigate to your Install folder for the list and click "Select Folder".
+ 9. **(OPTIONAL)** You can repeat these steps for the ModOrganizer.exe (`Path to Modlist`\ModOrganizer.exe), the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis (`Path to Modlist`\tools\Synthesis\Synthesis.exe)
+
 ### Widescreen Fixes
 
 Apotheosis offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
@@ -257,7 +273,7 @@ Failing to follow these instructions and asking in support channels how to use a
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
 ![](https://github.com/aljoxo/Apotheosis/blob/main/apotheosis-standard-keybinds%20(1).png)
-![](https://github.com/aljoxo/Apotheosis/blob/main/controllermap.png)
+![](https://github.com/aljoxo/Apotheosis/blob/main/gamepadfixed.png)
 
 ### In-Game MCM options
 
