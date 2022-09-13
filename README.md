@@ -116,6 +116,18 @@ Prior to installing Apotheosis, please complete the following steps.
 
 5. Install Anniversary Addition (Creation Club) Content.
 
+ If you have never installed the Creation Club Content before, please do the following.
+
+ 1. Purchase the *Skyrim Anniversary Edition* Upgrade from Steam. If you do not do this, you can not play the list. There is no work around for this and pirating this content will not work, and if pirate the content and come asking for assistance, you will be banned.
+ 2. Install the Anniversary Edition via Steam.
+ 3. Once you have the Anniversary Edition installed, do the following steps.
+ 4. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Local Files`. Click `Verify Integrity of Game Files` and wait.
+ 5. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
+ 6. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
+ 7. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+ 8. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
+ 9. Proceed with the rest of the installation.
+
 
 ### Wabbajack Installation
 
@@ -245,7 +257,7 @@ Failing to follow these instructions and asking in support channels how to use a
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
 ![](https://github.com/aljoxo/Apotheosis/blob/main/apotheosis-standard-keybinds%20(1).png)
-![](https://github.com/aljoxo/Apotheosis/blob/main/gamepadfixed.png)
+![](https://github.com/aljoxo/Apotheosis/blob/main/controllermap.png)
 
 ### In-Game MCM options
 
@@ -301,6 +313,9 @@ A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 #### Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
 A: Use a tanning rack.  
+
+#### Q: I can't level up, what do I do?  
+A: You likely have SunHelm enabled, go sleep in a bed.
 
 #### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
