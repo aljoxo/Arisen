@@ -293,16 +293,16 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
-Q: Should I be worried about the Form 43 Error in MO2?  
+### Q: Should I be worried about the Form 43 Error in MO2?  
 A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
 
-Q: How do I change the bodyslide on my character/on NPCs?  
+### Q: How do I change the bodyslide on my character/on NPCs?  
 A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321) instead of [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) to handle Bodyslide distributions and morphs. By default the keybind to open the AutoBody menu is `;`, but it can be changed in the AutoBody MCM menu.  
 
-Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
+### Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
 A: Use a tanning rack.  
 
-Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
+### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
    - A guild questline
    - Main Questline up to A Blade in the Dark
@@ -314,7 +314,10 @@ A: Currently (though this may change in the future), VIGILANT requires the playe
    - Main Questline through Dragonslayer (if not previously completed)
    - UNSLAAD  
 
-Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
+### Q: I don't like the physics.  
+A: This isn't a question. If you don't like the body physics preset included in the list, I suggest disabling `3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3` in MO2 (if you want a more "stiff" preset) or searching nexus for a new CBPC preset that is more "jello-like".  
+
+### Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
 A: No, our projects are independent and completely unrelated.  
 
 ### Tweaking the Game Settings
