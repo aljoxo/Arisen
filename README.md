@@ -251,6 +251,7 @@ Failing to follow these instructions and asking in support channels how to use a
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off.
  - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
+ - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
  - **Dodge Framework**: Change your *dodge* keybind here.
@@ -300,6 +301,18 @@ A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
 A: Use a tanning rack.  
+
+Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
+A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
+   - A guild questline
+   - Main Questline up to A Blade in the Dark
+   - Dawnguard DLC
+   - VIGILANT
+   - Main Questline up to at least Alduin's Bane
+   - Dragonborn DLC
+   - GLENMORIL
+   - Main Questline through Dragonslayer (if not previously completed)
+   - UNSLAAD  
 
 Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
 A: No, our projects are independent and completely unrelated.  
