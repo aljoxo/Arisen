@@ -292,6 +292,7 @@ Failing to follow these instructions and asking in support channels how to use a
  - **Simplest Horses**: Change your *Horse Control hotkey* here.
  - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
+    - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
     - I suggest putting the "Widget Display Type" to *Alpha Based*
  - **Taunt Your Enemies**: Change you *Taunt* keybind here.
  - **True Directional Movement**: Change your *Target Lock* keybind here.
