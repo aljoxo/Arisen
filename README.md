@@ -294,9 +294,15 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 Q: Should I be worried about the Form 43 Error in MO2?  
 A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
+
+Q: How do I change the bodyslide on my character/on NPCs?  
+A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321) instead of [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) to handle Bodyslide distributions and morphs. By default the keybind to open the AutoBody menu is `;`, but it can be changed in the AutoBody MCM menu.  
+
+Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
+A: Use a tanning rack.  
+
 Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
 A: No, our projects are independent and completely unrelated.  
-
 
 ### Tweaking the Game Settings
 
