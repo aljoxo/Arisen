@@ -193,6 +193,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
+	- This error means that there is an issue where Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#pre-installation), are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Wabbajack or Bethesda has messed up the hashing for these files. If this is the case, please wait for it to be resolved before continuing to download the list.
+
 ## Post-Installation and Optional Setup
 
 ### Game Folder
@@ -229,7 +232,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/53909) (choose the version f
  2. Search for **Experience** in the left pane of MO2 and delete or hide the following files:
     a. /interface/statsmenu.swf
 
-Failing to follow these instructions and asking in support channels how to make the Widescreen fixes work correctly will result in moderator action.
+Asking in support channels about how to get Ultrawide support working will show that you did not read the readme and you will be promptly ignored.
 
 ### Controller and Gamepad Setup
 
@@ -243,13 +246,13 @@ Apotheosis offers some mods to provide support for individuals who wish to play 
    a. **Keycode=47** to **Keycode=281**
      - This will change the power attack bind to right trigger, if you wish to use a different key please refer to [this link](https://www.creationkit.com/index.php?title=Input_Script).
 
-Failing to follow these instructions and asking in support channels how to use a controller or gamepad correctly will result in moderator action.
+Asking in support channels about how to get gamepad support working will show that you did not read the readme and you will be promptly ignored.
 
 ### Documentation
 
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
  - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation.md)
- - To know (the majority) of NPC Replacers used by this list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisNPCReplacers.md)
+ - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisNPCReplacers.md)
 
 ## Playing the List
 
@@ -268,7 +271,7 @@ Failing to follow these instructions and asking in support channels how to use a
  - For alternate start mods, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
     - In order to start chargen hit **Enter** as soon as you load in
         - If your character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
-    - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire, equipment, spells, and starting location.
+    - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location.
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
@@ -277,31 +280,31 @@ Failing to follow these instructions and asking in support channels how to use a
 
 ### In-Game MCM options
 
- - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off.
+ - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
  - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
  - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
- - **Dodge Framework**: Change your *dodge* keybind here.
- - **Dual Wield Block**: Change your *Dual Wield Block* keybind here. **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).
+ - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default `B`). **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
  - **Hide Your Quests**: Allows you to hide quests from your journal (not useful on startup, obviously).
- - **Leveling Freedom**: By default the list should use the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
+ - **Leveling Freedom**: By default the list uses the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
  - **Lucien**: Can choose a name or nickname for Lucien to call you by (if available).
- - **Optimal Potion Hotkey**: Change your *Health potion hotkey*. Add a hotkey for stamina/magicka potions.
+ - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `F`). Add a hotkey for stamina/magicka potions.
  - **Seiro's Hotkeys**: Set up additional hotkeys here.
- - **Simplest Horses**: Change your *Horse Control hotkey* here.
+ - **Simplest Horses**: Change your *Horse Control hotkey* here (Default `H`).
  - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
     - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
     - I suggest putting the "Widget Display Type" to *Alpha Based*
- - **Taunt Your Enemies**: Change you *Taunt* keybind here.
+ - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default `G`).
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
     - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking.
-    - Timed Block: You can enable or disable the *Tackle* mechanic (default: enabled).
+    - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
     - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
-    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
-      - If *TrueHUD API* does not say "Obtained" next to them, try updating TrueHUD and True Directional Movement (this should not be a problem unless you modify the list). 
+    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you previously changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
+      - *TrueHUD API* should say "Not Obtained" next to it, this is due to disabling the Stun System. 
       - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
 ### Anniversary Edition
@@ -313,9 +316,10 @@ Apotheosis is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/m
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
-  - If the modlist is updated from 1.0.0 to 2.0.0, then this version is absolutely, under no circumstances, save safe.
-  - If the modlist is updated from 1.0.0 to 1.1.0, then this version is unlikely to be save safe, but it is possible depending on my consistency.
-  - If the modlist is updated from 1.0.0 to 1.0.1, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
+  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is absolutely, under no circumstances, save safe.
+  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is unlikely to be save safe, but it is possible depending on my consistency.
+  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
+  - The [changelog](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisChangelog.md) will almost always have a note about whether or not the update is save safe, and whether or not there are any additional, precautionary steps you should take to ensure your saves do not have issues.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To not have mods delete, add **[NoDelete]** at the beginning of said mod.
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. Please Please Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.
@@ -334,6 +338,15 @@ A: Use a tanning rack.
 #### Q: I can't level up, what do I do?  
 A: You likely have SunHelm enabled, go sleep in a bed.
 
+#### Q: How do I start the main questline?  
+A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline, doing so will also lock you out of a fair amount of content in the list due to the way quest progression is setup.
+
+#### Q: When do dragons start spawning?  
+A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
+
+#### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
+A: You must complete The [Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
+
 #### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
    - A guild questline
@@ -345,6 +358,7 @@ A: Currently (though this may change in the future), VIGILANT requires the playe
    - GLENMORIL
    - Main Questline through Dragonslayer (if not previously completed)
    - UNSLAAD  
+Please note that there are other quest mods in the list, aswell as a lot of other content, so they should be filled in wherever to gain levels and experience. This is just a rough map of my ideal character and power progression.
 
 #### Q: I don't like the physics.  
 A: This isn't a question. If you don't like the body physics preset included in the list, I suggest disabling `3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3` in MO2 (if you want a more "stiff" preset) or searching nexus for a new CBPC preset that is more "jello-like".  
@@ -384,10 +398,10 @@ Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on gi
 
 - _YOU_ for reading this.
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
-- Curly for allowing me to use his graphical baseline as the core of my list (check out Ascensio whenever it releases).
-- Bingus for helping me with ENB, testing, and tweaking some assets (also many mod page screenshots and the logo/banner and MO2 splash)
-- iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of my Facegen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
-- [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding
-- JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous
-- Noggog for Mutagen and the xEdit team for xEdit and their tools
-- Halgari and the WJ Team for this amazing platform
+- Curly for allowing me to use his graphical baseline as the core of my list.
+- Bingus for helping me with ENB tweaking, playtesting testing, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
+- iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
+- [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding.
+- JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
+- Noggog for Mutagen and the xEdit team for xEdit and their tools.
+- Halgari and the WJ Team for this amazing platform.
