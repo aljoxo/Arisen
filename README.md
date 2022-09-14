@@ -378,7 +378,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/4WwqfK5yHg) discord server for support.
+Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
