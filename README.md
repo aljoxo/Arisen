@@ -286,18 +286,18 @@ Asking in support channels about how to get gamepad support working will show th
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
  - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).
- - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default `B`). **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`). **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
  - **Hide Your Quests**: Allows you to hide quests from your journal (not useful on startup, obviously).
  - **Leveling Freedom**: By default the list uses the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
  - **Lucien**: Can choose a name or nickname for Lucien to call you by (if available).
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `F`). Add a hotkey for stamina/magicka potions.
  - **Seiro's Hotkeys**: Set up additional hotkeys here.
- - **Simplest Horses**: Change your *Horse Control hotkey* here (Default `H`).
+ - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `H`).
  - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
     - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
     - I suggest putting the "Widget Display Type" to *Alpha Based*
- - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default `G`).
+ - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default: `G`).
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
     - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking.
