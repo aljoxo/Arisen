@@ -50,7 +50,7 @@
 
 ## Weather
 
-#### By default, Arisen uses NO weather mod. This choice was made for the soul purpose of using Dragens' Ruvaak Dahmaan ENB. If you wish to add a weather mod, please check out the pins of the #additions channel in the [discord](https://discord.gg/4WwqfK5yHg).
+#### By default, Arisen uses NO weather mod. This choice was made for the soul purpose of using Dragens' Ruvaak Dahmaan ENB. If you wish to add a weather mod, please check out the pins of the #additions channel in the [discord](https://discord.gg/WakingDreams).
 
 ## Environment
 
