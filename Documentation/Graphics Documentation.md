@@ -85,7 +85,7 @@
  - Dawnguard
    - ClearanceClarence's [Castle Volkihar Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/51071)
    - arrioch's [Snow Elf Ruins](https://www.nexusmods.com/skyrimspecialedition/mods/7292) 
-   - Praedyth's [Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/48217)
+   - Praedyth's [Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/48217) and [Soul Cairn](https://www.nexusmods.com/skyrimspecialedition/mods/66261)
  - Dragonborn
    - [Rally's AIO](https://www.nexusmods.com/skyrimspecialedition/mods/36893) was used for all settlments
 
