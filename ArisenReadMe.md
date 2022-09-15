@@ -1,5 +1,5 @@
 # Arisen
-![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Banner_MAIN.png)
+![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Media/Arisen_Banner_with_Logo.png)
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -10,34 +10,47 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-## Contents
+# <ins>**Arisen requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
+
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
-    - [Setting up Page File](#setting-up-pagefile)  
+    - [Minimum Specifications for ~60 fps gameplay at 1920x1080](#minimum-specifications-for-60-fps-gameplay-at-1920x1080)
+    - [Setting Up Pagefile](#setting-up-pagefile)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
+      - [Installing Prerequisite Plugins](#installing-prerequisite-plugins)
+      - [Setting Shader Cache](#setting-shader-cache)
+      - [Installing the Creation Club Content](#installing-the-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Arisen](#downloading-and-installing-arisen)
-      - [Problems with installation](#problems-with-installation)
+    - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Widescreen Fixes](#widescreen-fixes)
-    - [Controller and Gamepad Support](#controller-and-gamepad-setup)
+    - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
     - [Documentation](#documentation)
-    - [BethINI](#bethini)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [In Game MCM Options](#in-game-mcm-options)
-  - [Updating Arisen](#updating-the-modlist)
+    - [In-Game MCM options](#in-game-mcm-options)
+    - [Anniversary Edition](#anniversary-edition)
+  - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-   - [Tweaking the Game Settings](#tweaking-the-game-settings)
-   - [Removing the modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
+      - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
+      - [Q: How do I change the bodyslide on my character/on NPCs?](#q-how-do-i-change-the-bodyslide-on-my-characteron-npcs)
+      - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
+      - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
+      - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
+      - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
+      - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
+      - [Q: I don't like the physics.](#q-i-dont-like-the-physics)
+      - [Q: Wasn't this modlist originally named Apotheosis? Why the name change?](#q-wasnt-this-modlist-originally-named-apotheosis-why-the-name-change)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
+      - [BethINI](#bethini)
+  - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
-
-# <ins>**Arisen requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
+  - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
 
@@ -62,7 +75,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 >  Due to the age of Skyrim, it's hard to pinpoint exactly what specs you will need to run this list. Out of testers who I know the hardware for, one has a 9700k/2070/32gb RAM, one has a 9900k/2080/16gb RAM, and I have a 9700k/3080/32gb RAM. Based on feedback I have gotten the list runs very well with few problematic areas, however I will collect more data before attempting to update these system requirements as to not try and mislead people. 
 
->  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
+>  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded Skyrim with an ENB on at 60 frames.
 
 Space required: 
 - Approx 380GB (Downloads should be roughly 150GB)
@@ -100,11 +113,13 @@ Installing Arisen is relatively easy and, if you have Nexus Premium and a Lovers
 
 Prior to installing Arisen, please complete the following steps.
 
+#### Installing Prerequisite Plugins
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
 4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**_
 
+#### Setting Shader Cache
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following. 
 
  1. Right click on your desktop and select **NVIDIA Control Panel**
@@ -115,7 +130,7 @@ Prior to installing Arisen, please complete the following steps.
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
-5. Install Anniversary Addition (Creation Club) Content.
+#### Installing the Creation Club Content
 
  If you have never installed the Creation Club Content before, please do the following.
 
@@ -142,7 +157,7 @@ Downloading and installing Arisen can take a while depending on your internet co
 
 1. Download the Wabbajack Installer on this github,.
 2. Press the download button on Arisen and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Arisen. **Do not install it to your desktop, downloads folder, or Skyrim's Steam Folder.**
+3. Set the installation folder to be somewhere like C:\Games\Arisen. **Do not install it to User folders (such as the Desktop, Documents, or the Downloads folder), Skyrim's Steam Folder, or OneDrive.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -174,7 +189,7 @@ Sometimes the SkyrimGuild website also runs into issues so I suggest downloading
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 - [Creatures DXP](https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip)
 
-##### Problems with installation
+### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
@@ -250,9 +265,9 @@ Asking in support channels about how to get gamepad support working will show th
 
 ### Documentation
 
- - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
- - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation.md)
- - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisNPCReplacers.md)
+ - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Documentation/Animation%20Documentation.md).
+ - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Documentation/Graphics%20Documentation.md)
+ - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Documentation/Arisen%20NPC%20Replacers.md)
 
 ## Playing the List
 
@@ -263,10 +278,10 @@ Asking in support channels about how to get gamepad support working will show th
     - At the current moment the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
- ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
+ ![](https://cdn.discordapp.com/attachments/808181425680810007/1019791691663806515/RegistryKey.PNG)
 
  
- - Launch the "Play Arisen!" Executable in MO2
+ - Launch the "Arise My Champion!" executable in MO2
  - Arisen comes with a start save by default, so when you load into the main menu, choose "Continue".
  - For alternate start mods, Arisen uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
     - In order to start chargen hit **Enter** as soon as you load in
@@ -275,8 +290,8 @@ Asking in support channels about how to get gamepad support working will show th
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
-![](https://github.com/aljoxo/Apotheosis/blob/main/apotheosis-standard-keybinds%20(1).png)
-![](https://github.com/aljoxo/Apotheosis/blob/main/gamepadfixed.png)
+![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Media/Arisen-standard-keybinds%20(1).png)
+![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Media/Arisen_Gamepad_Keymap.png)
 
 ### In-Game MCM options
 
