@@ -123,7 +123,8 @@
 
  - Gamwich's [Rustic Amulets](https://www.nexusmods.com/skyrimspecialedition/mods/35485) and [Clothing](https://www.nexusmods.com/skyrimspecialedition/mods/4703)
  - Ave's wonderful [Jewlery Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/39154)
- - [Modular Armory](https://www.nexusmods.com/skyrimspecialedition/mods/49771) as a baseline for many armors
+ - NordWarrUA's Armor Collection (Legion, Unplayable Factions, and Vanilla Armor Replacer)
+ - [Modular Armory](https://www.nexusmods.com/skyrimspecialedition/mods/49771) to cover armors not covered by NordWarrUA's collection
  - FrankFamily's [Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/19699), [Dragonbone and Dragonscale](https://www.nexusmods.com/skyrimspecialedition/mods/25110), [Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/19663), [Nightingale](https://www.nexusmods.com/skyrimspecialedition/mods/18560), [Imperial](https://www.nexusmods.com/skyrimspecialedition/mods/20848), & [Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/19953)
  - 4thUnknown's [Dark Brotherhood Armor](https://www.nexusmods.com/skyrimspecialedition/mods/57539)
  - cuyima's [Dovah Sonaak](https://www.nexusmods.com/skyrimspecialedition/mods/23251)
