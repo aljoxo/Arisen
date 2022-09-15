@@ -19,10 +19,10 @@
 
 ## Preamble
 
-#### The Graphical Baseline used by Apotheosis is based on [Ascensio](https://github.com/Curly0208/Ascensio) by Curly. I also stole this documentation from him :).
+#### The Graphical Baseline used by Arisen is based on [Ascensio](https://github.com/Curly0208/Ascensio) by Curly. I also stole this documentation from him :).
 ## Graphical Baseline
 
-#### A combination of mods have been used for Apotheosis graphical baseline for maximum quality (or because Curly chose them and I did not change them).
+#### A combination of mods have been used for Arisen's graphical baseline for maximum quality (or because Curly chose them and I did not change them).
 
 #### These include: 
 - [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrimspecialedition/mods/659) Obviously
@@ -33,7 +33,7 @@
 
 ## Notable Mod Authors 
 
-#### Apotheosis' Graphical Baseline has hundreds of mod authors' work, though there were a few authors that I used more than just a couple mods from that I'd like to highlight.
+#### Arisen's Graphical Baseline has hundreds of mod authors' work, though there were a few authors that I used more than just a couple mods from that I'd like to highlight.
  - [Windedave](https://www.nexusmods.com/skyrimspecialedition/users/52194591?tab=user+files)
  - [Skyking](https://www.nexusmods.com/skyrimspecialedition/users/841133?tab=user+files)
  - [Mathy](https://www.nexusmods.com/skyrimspecialedition/users/12770808?tab=user+files)
@@ -46,11 +46,11 @@
 
 ## Lighting 
 
-#### Apotheosis comes with a fully patched [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095), & [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588). This was decided after careful consideration of many other lighting mods. Other mods that were considered included [Window Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/37831), [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424), [ELE](https://www.nexusmods.com/skyrimspecialedition/mods/1377), & [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586). I decided that Lux was not only the best looking, but created the most realistic simulation of interior lighting out of all the mods I tried out.
+#### Arisen comes with a fully patched [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158), [Lux Orbis](https://www.nexusmods.com/skyrimspecialedition/mods/56095), & [Lux Via](https://www.nexusmods.com/skyrimspecialedition/mods/63588). This was decided after careful consideration of many other lighting mods. Other mods that were considered included [Window Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/37831), [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424), [ELE](https://www.nexusmods.com/skyrimspecialedition/mods/1377), & [Relighting Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/8586). I decided that Lux was not only the best looking, but created the most realistic simulation of interior lighting out of all the mods I tried out.
 
 ## Weather
 
-#### By Default, Apotheosis uses NO weather mod. This choice was made for the soul purpose of using Dragens' Ruvaak Dahmaan ENB. If you wish to add a weather mod, please check out the #additions channel in the [discord](https://discord.gg/4WwqfK5yHg).
+#### By default, Arisen uses NO weather mod. This choice was made for the soul purpose of using Dragens' Ruvaak Dahmaan ENB. If you wish to add a weather mod, please check out the pins of the #additions channel in the [discord](https://discord.gg/4WwqfK5yHg).
 
 ## Environment
 
@@ -143,7 +143,7 @@
 
 ## Skin, Body, and Head
 
- #### Apotheosis uses [CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/30174) and [HIMBO Lite](https://www.nexusmods.com/skyrimspecialedition/mods/63107) as the core body mods in the list. This is mostly for compatibility reasons and for the fact that most newer armors and bodyslide presets seem to be made for these body types in mind.
+ #### Arisen uses [CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/30174) and [HIMBO Lite](https://www.nexusmods.com/skyrimspecialedition/mods/63107) as the core body mods in the list. This is mostly for compatibility reasons and for the fact that most newer armors and bodyslide presets seem to be made for these body types in mind.
 
  - VectorPlexus' High Poly Head
  - [Pride of Valhalla](https://www.nexusmods.com/skyrimspecialedition/mods/682) is used for the female skin diffuse and specs. The list provides both the Asgard (8k) and Midgard (4k) versions, by default the 8k skin is active, but if you need the extra performance, feel free to swap.
@@ -155,7 +155,7 @@
 
 ## NPC Replacers
 
-### Apotheosis uses a lot of NPC replacers (about 65 different ones), due to this it's very difficult to easily list them all out. They can be seen in the load order library by viewing disabled mods under the "EasyNPC" Separator. Here are some notable mod authors:
+### Arisen uses a lot of NPC replacers (about 65 different ones), due to this it's very difficult to easily list them all out. They can be seen in the load order library by viewing disabled mods under the "EasyNPC" Separator. Here are some notable mod authors:
 
  - [rxkx22's Bijin Series](https://www.nexusmods.com/skyrimspecialedition/users/2650523?tab=user+files)
  - [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925?tab=user+files)
