@@ -147,8 +147,8 @@
  #### Arisen uses [CBBE 3BA](https://www.nexusmods.com/skyrimspecialedition/mods/30174) and [HIMBO Lite](https://www.nexusmods.com/skyrimspecialedition/mods/63107) as the core body mods in the list. This is mostly for compatibility reasons and for the fact that most newer armors and bodyslide presets seem to be made for these body types in mind.
 
  - VectorPlexus' High Poly Head
- - [Pride of Valhalla](https://www.nexusmods.com/skyrimspecialedition/mods/682) is used for the female skin diffuse and specs. The list provides both the Asgard (8k) and Midgard (4k) versions, by default the 8k skin is active, but if you need the extra performance, feel free to swap.
- - [Demoniac](https://www.nexusmods.com/skyrimspecialedition/mods/29114) is used for the female skin normal maps.
+ - [Realore Skin Ultima V2](https://www.nexusmods.com/skyrimspecialedition/mods/65577) is used for the female skin diffuse and specs.
+ - [PB's Crystal Clear Muscle Maps](https://www.nexusmods.com/skyrimspecialedition/mods/74284) is used for the female skin normal maps.
  - [Tempered Skin for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902) & [REALORE](https://www.nexusmods.com/skyrimspecialedition/mods/67029) are used for male skin.
  - MONSTERaider's [Masculine](https://www.nexusmods.com/skyrimspecialedition/mods/186) and [Feminine](https://www.nexusmods.com/skyrimspecialedition/mods/183) Khajiit textures are used.
  - [Big Stupid Lizards](https://www.nexusmods.com/skyrimspecialedition/mods/43770) and [Feminine Argonian textures](https://www.nexusmods.com/skyrimspecialedition/mods/184) are used to cover our scalies.
@@ -156,14 +156,4 @@
 
 ## NPC Replacers
 
-### Arisen uses a lot of NPC replacers (about 65 different ones), due to this it's very difficult to easily list them all out. They can be seen in the load order library by viewing disabled mods under the "EasyNPC" Separator. Here are some notable mod authors:
-
- - [rxkx22's Bijin Series](https://www.nexusmods.com/skyrimspecialedition/users/2650523?tab=user+files)
- - [Pandorable](https://www.nexusmods.com/skyrimspecialedition/users/41216925?tab=user+files)
- - [eeekief](https://www.nexusmods.com/skyrimspecialedition/users/65663546?tab=user+files)
- - [froztee's Re-Imagined Series](https://www.nexusmods.com/skyrimspecialedition/users/4847587?tab=user+files)
-     - Serana comes from [here](https://www.nexusmods.com/skyrimspecialedition/mods/43430)
- - [CoralineKoralina](https://www.nexusmods.com/skyrimspecialedition/users/54963327?tab=user+files)
- - [Southpaw's Northbourne Series](https://www.nexusmods.com/skyrimspecialedition/users/33336625?tab=user+files)
- - [GLAMbazoonga](https://www.nexusmods.com/skyrimspecialedition/users/83662418?tab=user+files)
- - [Modpocalypse Gaming](https://www.nexusmods.com/skyrimspecialedition/users/122442783?tab=user+files) for generic NPCs
+### See the NPC Replacer Documentation [here](https://github.com/aljoxo/Apotheosis/blob/main/Documentation/Arisen%20NPC%20Replacers.md).
