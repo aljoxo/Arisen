@@ -156,4 +156,4 @@
 
 ## NPC Replacers
 
-### See the NPC Replacer Documentation [here](https://github.com/aljoxo/Apotheosis/blob/main/Documentation/Arisen%20NPC%20Replacers.md).
+### See the NPC Replacer Documentation [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md).

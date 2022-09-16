@@ -63,7 +63,7 @@
  - Inferno (again lol)
  - NPCs Use Potions
  - Conditional Expressions Extended
-    - Reason: Hopefully this fixes some of the script lag and bloat from the original CE for NPCs mod. if this still causes issues then CE will just be nuked in 1.4
+    - Reason: Hopefully this fixes some of the script lag and bloat from the original CE for NPCs mod. If this still causes issues then CE will just be nuked in 1.4
  - STUsBON - Man's Got Cake
  - Immersive Sleep to Save
 

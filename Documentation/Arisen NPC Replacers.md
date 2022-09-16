@@ -1,7 +1,22 @@
 # NPC Documentation
 
 
-
+## Table of Contents
+  - [Haafingar](#haafingar)
+  - [The Rift](#the-rift)
+  - [The Reach](#the-reach)
+  - [Hjaalmarch](#hjaalmarch)
+  - [The Pale](#the-pale)
+  - [Falkreath](#falkreath)
+  - [Eastmarch](#eastmarch)
+  - [Whiterun Hold](#whiterun-hold)
+  - [Winterhold](#winterhold)
+  - [Sovngarde](#sovngarde)
+  - [Misc](#misc)
+  - [Dawnguard](#dawnguard)
+  - [Hearthfires](#hearthfires)
+  - [Dragonborn](#dragonborn)
+  - [Added Followers](#added-followers)
 ## Haafingar
 
 | NPC               | NPC Replacer      |
