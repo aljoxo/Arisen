@@ -37,6 +37,8 @@
     - Reason: Better version exists.
  - Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader
     - Reason: Required Smart NPC Potions
+ - OnMagicEffectApply Replacer
+    - Reason: Redundant.
 
 ### Added
 
