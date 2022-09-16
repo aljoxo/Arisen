@@ -46,16 +46,7 @@
  - DAR Optimizations and SCAR fixes for some movesets.
  - Fixed the Quick Draw perk causing bows to draw at 20% speed rather than 120% speed.
  - Fixed load order issues that were brought up.
- - **IF YOU PLAN ON CONTINUING A SAVE, PLEASE FOLLOW THESE STEPS FOR SAFETY:**
-    1. Before updating, go into a cell with no NPCs and make a save (Heimskr's House in Whiterun works pretty well).
-       - No NPCs means you also need to dismiss your followers or tell them to wait outside of the cell.
-    2. Update the list
-    3. Load your save, make a new save, and quit the game
-    4. Load your save up in ReSaver and clean any unattached scripts and unidentified references.
-    5. When you load/continue your save, you will get a missing plugins warning. Ignore it.
-    6. Upon loading into your character, stare at a wall for 10-15 minutes to allow any stuck scripts to clean themselves up.
-    7. Go into the `Honed Metal` MCM menu and set `Material Cost Multiplier` to `1.0` (Default: `1.5`).
-    8. After following these steps you should safely be able to continue your save.
+ - **THIS UPDATE IS NOT SAVE SAFE**
 
 ## 1.3.0.2
 
