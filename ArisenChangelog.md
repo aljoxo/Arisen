@@ -84,6 +84,7 @@
  - Lowered the default difficulty from Master to Expert.
  - Removed interior fog because it was ugly and caused some visibility issues.
  - Added a new item to Enthir's wares.
+ - **THIS UPDATE REQUIRES THE NEW SKYRIM AE UPDATE BECAUSE BETHESDA CHANGED THE HASH FOR CC CONTENT**
  - **THIS UPDATE IS NOT SAVE SAFE**
 
 ## 1.3.0.2
