@@ -1,4 +1,4 @@
-# Apotheosis
+# Arisen
 ![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Banner_MAIN.png)
 
 
@@ -18,7 +18,7 @@
     - [Pre-Installation](#pre-installation)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Apotheosis](#downloading-and-installing-apotheosis)
+      - [Downloading and Installing Arisen](#downloading-and-installing-arisen)
       - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -30,18 +30,18 @@
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [In Game MCM Options](#in-game-mcm-options)
-  - [Updating Apotheosis](#updating-the-modlist)
+  - [Updating Arisen](#updating-the-modlist)
   - [FAQ](#faq)
    - [Tweaking the Game Settings](#tweaking-the-game-settings)
    - [Removing the modlist](#removing-the-modlist)
   - [Credits and Thanks](#credits-and-thanks)
   - [Contact](#contact)
 
-# <ins>**Apotheosis requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
+# <ins>**Arisen requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
 
 ## Preamble
 
-Apotheosis is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core.
+Arisen is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core. The list also has many hand placed weapons and armor to maintain a fresh experience and sense of wonder while exploring.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/apotheosis).
 
@@ -73,7 +73,7 @@ Size without downloads:
 ### Setting Up Pagefile
 
 Due to the resources required to run modlists like these, you will need to configure the pagefile on your system in order to avoid crashes and bugs that may occur from running out of memory. This step is **NOT** optional, I do not care how much RAM or VRAM you have, please do this step.
-  I suggest a 40GB fixed-size pagefile for Apotheosis solely for safety, but it is very possible that you could get away with a 20GB (20480 instead of 40960 in the **Initial** and **Maximum Size** boxes). While a 20GB pagefile may be usable, I do not plan on testing it any time soon, so do so at your own risk.
+  I suggest a 40GB fixed-size pagefile for Arisen solely for safety, but it is very possible that you could get away with a 20GB (20480 instead of 40960 in the **Initial** and **Maximum Size** boxes). While a 20GB pagefile may be usable, I do not plan on testing it any time soon, so do so at your own risk.
 
 To set up your pagefile:
 1. Press **Win Key + R**
@@ -94,11 +94,11 @@ To set up your pagefile:
 
 ## Installation
 
-Installing Apotheosis is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing Arisen is relatively easy and, if you have Nexus Premium and a LoversLab account, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
-Prior to installing Apotheosis, please complete the following steps.
+Prior to installing Arisen, please complete the following steps.
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -136,13 +136,13 @@ Prior to installing Apotheosis, please complete the following steps.
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing Apotheosis
+#### Downloading and Installing Arisen
 
-Downloading and installing Apotheosis can take a while depending on your internet connection and computer. To install Apotheosis, complete the following steps.
+Downloading and installing Arisen can take a while depending on your internet connection and computer. To install Arisen, complete the following steps.
 
 1. Download the Wabbajack Installer on this github,.
-2. Press the download button on Apotheosis and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Apotheosis. **Do not install it to your desktop, downloads folder, or Skyrim's Steam Folder.**
+2. Press the download button on Arisen and wait for it to download.
+3. Set the installation folder to be somewhere like C:\Games\Arisen. **Do not install it to your desktop, downloads folder, or Skyrim's Steam Folder.**
 4. The download location does not need to be on a SSD but it makes installing a bit faster
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
@@ -200,7 +200,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Apotheosis uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+Arisen uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ### Antivirus Exceptions
 
@@ -219,7 +219,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-Apotheosis offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+Arisen offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
 Download [this mod](
 https://www.nexusmods.com/skyrimspecialedition/mods/53909) (choose the version for your resolution). And install it at the top of the **(Possible) Ultrawide Support** Separator in MO2. Then activate the other mods in the separator.
@@ -236,7 +236,7 @@ Asking in support channels about how to get Ultrawide support working will show 
 
 ### Controller and Gamepad Setup
 
-Apotheosis offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
+Arisen offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
  1. Under the **Gamepad Support** Separator in MO2, activate **Gamepad Controlmap Fixed**
  2. Go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
    a. Alternatively you can reset your controlmap in-game.
@@ -266,9 +266,9 @@ Asking in support channels about how to get gamepad support working will show th
  ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
 
  
- - Launch the "Play Apotheosis!" Executable in MO2
- - Apotheosis comes with a start save by default, so when you load into the main menu, choose "Continue".
- - For alternate start mods, Apotheosis uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
+ - Launch the "Arise My Champion!" Executable in MO2
+ - Arisen comes with a start save by default, so when you load into the main menu, choose "Continue".
+ - For alternate start mods, Arisen uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
     - In order to start chargen hit **Enter** as soon as you load in
         - If your character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
     - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location.
@@ -281,7 +281,7 @@ Asking in support channels about how to get gamepad support working will show th
 ### In-Game MCM options
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
- - **AGO**: By default Apotheosis disables many features of AGO, if you wish to re-enable them then do so here
+ - **AGO**: By default Arisen disables many features of AGO, if you wish to re-enable them then do so here
  - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
@@ -293,7 +293,8 @@ Asking in support channels about how to get gamepad support working will show th
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `F`). Add a hotkey for stamina/magicka potions.
  - **Seiro's Hotkeys**: Set up additional hotkeys here.
  - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `H`).
- - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xedit.
+ - **SmoothCam**: By default the list uses a modified version of dTry's [Raven's Gaze](https://www.nexusmods.com/skyrimspecialedition/mods/63887) SmoothCam preset. The list also includes [Loki's Souls-Like](https://www.nexusmods.com/skyrimspecialedition/mods/41413) Preset and [SynHC's SynErgy Preset](https://www.nexusmods.com/skyrimspecialedition/mods/46655). You can change your shoulder swap keybind here. (Default: `Mouse4`).
+ - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xEdit. By default you get 10 skill points per level and every skill increase requires 1 point.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
     - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
     - I suggest putting the "Widget Display Type" to *Alpha Based*
@@ -309,7 +310,7 @@ Asking in support channels about how to get gamepad support working will show th
 
 ### Anniversary Edition
 
-Apotheosis is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/mods/57618) version (1.5.97) of Skyrim. As stated at the top of this document, it **does require** the paid update.
+Arisen is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/mods/57618) version (1.5.97) of Skyrim. As stated at the top of this document, it **does require** the paid update.
 
 
 
@@ -345,7 +346,7 @@ A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then 
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
 
 #### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
-A: You must complete The [Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be avialable.
+A: You must complete The [Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
 
 #### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
@@ -363,8 +364,11 @@ Please note that there are other quest mods in the list, aswell as a lot of othe
 #### Q: I don't like the physics.  
 A: This isn't a question. If you don't like the body physics preset included in the list, I suggest disabling `3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3` in MO2 (if you want a more "stiff" preset) or searching nexus for a new CBPC preset that is more "jello-like".  
 
-#### Q: I thought Apotheosis was a quest mod? Are you associated with the Apotheosis Team that is making that mod?  
-A: No, our projects are independent and completely unrelated.  
+#### Q: How do I enable my crosshair?
+A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Separator in MO2.
+
+#### Q: Wasn't this modlist originally named Apotheosis? Why the name change? 
+A: There were some conversations over the name and it was decided that the name would be changed to minimize any long term drama or problems that would have arisen from it.  
 
 ### Tweaking the Game Settings
 
