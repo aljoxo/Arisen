@@ -16,6 +16,7 @@
     - [Setting up Page File](#setting-up-pagefile)  
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
+      - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Arisen](#downloading-and-installing-arisen)
@@ -118,6 +119,7 @@ Prior to installing Arisen, please complete the following steps.
 
 5. Install Anniversary Addition (Creation Club) Content.
 
+#### Installing Creation Club Content
  If you have never installed the Creation Club Content before, please do the following.
 
  1. Purchase the *Skyrim Anniversary Edition* Upgrade from Steam. If you do not do this, you can not play the list. There is no work around for this and pirating this content will not work, and if pirate the content and come asking for assistance, you will be banned.
@@ -201,7 +203,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 - Unable to download `Data_ccXXXXX - *.bsa` or `*.esp`:
-	- This error means that there is an issue where Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#pre-installation), are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Wabbajack or Bethesda has messed up the hashing for these files. If this is the case, please wait for it to be resolved before continuing to download the list.
+	- This error means that there is an issue where Wabbajack is unable to hash your Creation Club Content. If you have followed the steps outlined under [Pre-Installation](#installing-creation-club-content), are not on a pirated copy of the game, and have verified your steam files, then it is very likely that Wabbajack or Bethesda has messed up the hashing for these files. If this is the case, please wait for it to be resolved before continuing to download the list.
 
 ## Post-Installation and Optional Setup
 
