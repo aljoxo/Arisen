@@ -1,5 +1,5 @@
 # Arisen
-![](https://raw.githubusercontent.com/aljoxo/Apotheosis/main/Apotheosis_Banner_MAIN.png)
+![](https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_with_Logo.png)
 
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -250,9 +250,9 @@ Asking in support channels about how to get gamepad support working will show th
 
 ### Documentation
 
- - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Animation%20Documentation.md).
- - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/Graphics%20Documentation.md)
- - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisNPCReplacers.md)
+ - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Animation%20Documentation.md).
+ - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Graphics%20Documentation.md)
+ - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md)
 
 ## Playing the List
 
@@ -275,8 +275,8 @@ Asking in support channels about how to get gamepad support working will show th
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
-![](https://github.com/aljoxo/Apotheosis/blob/main/apotheosis-standard-keybinds%20(1).png)
-![](https://github.com/aljoxo/Apotheosis/blob/main/gamepadfixed.png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen-standard-keybinds%20(1).png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png)
 
 ### In-Game MCM options
 
@@ -316,11 +316,11 @@ Arisen is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/mods/
 
 ## Updating the modlist
 
-Before updating, please check the [changelog](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
+Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
   - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is absolutely, under no circumstances, save safe.
   - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is unlikely to be save safe, but it is possible depending on my consistency.
   - If the modlist is updated from `1.0.0` to `1.0.1`, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
-  - The [changelog](https://github.com/aljoxo/Apotheosis/blob/main/ApotheosisChangelog.md) will almost always have a note about whether or not the update is save safe, and whether or not there are any additional, precautionary steps you should take to ensure your saves do not have issues.
+  - The [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) will almost always have a note about whether or not the update is save safe, and whether or not there are any additional, precautionary steps you should take to ensure your saves do not have issues.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To not have mods delete, add **[NoDelete]** at the beginning of said mod.
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. Please Please Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.
@@ -396,7 +396,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Apotheosis/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
