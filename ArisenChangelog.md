@@ -1,8 +1,90 @@
 # Changelog
 
 - [1.3.1](#131)
+- [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.3.1
+
+### Updated
+
+ - Inconvenient Dungeons
+ - Wash That Blood Off 2
+ - Inconvenient Dungeons
+ - Animation Motion Revolution
+
+### Removed 
+
+ - CLOUDS
+    - Reason: Skybox seams.
+ - Dwemer Gates No Relock
+    - Reason: Redundant mod.
+ - Sharpen Other Swords
+    - Reason: Redundant mod.
+ - Sacrilege
+    - Reason: There was a bug with Skyrim Unbound and Sacrilege in which choosing to become a vampire via the Skyrim Unbound MCM menu had a chance of breaking the Sacrilege VampirePlayerQuest script, causing Vampiric Drain (and other Vampire abilities) to not work correctly.
+ - Growl
+    - Reason: Due to the removal of Sacrilege in favor of Scion, I believed it was only fair, and sensical from a balance POV, to also replace Growl with Simon's version.
+ - Sacrilege - Remove Auspex Sound
+    - Reason: Requires Sacrilege
+ - Cover Your Head - Sacrilege
+    - Reason: Requires Sacrilege
+ - Conditional Expressions for NPCs
+    - Reason: Caused massive script lag/bloat.
+ - Vanguard
+    - Reason: This mod caused some animation bugs and it was determined that it would be better if we removed it.
+ - Smart NPC Potions
+    - Reason: Better version exists.
+ - Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader
+    - Reason: Required Smart NPC Potions
+
+### Added
+
+ - Tru Torches
+ - ETHEREAL CLOUDS
+ - AnimObject Swapper
+ - Sahrotaar Must Die (for LOTD)
+ - Inconvenient Dungeons - LOTD Patch
+ - Inconvenient Dungeons - Forgotten Seasons
+ - Inconvenient Dungeons - USSEP Patch
+ - Inconvenient Dungeons - Spawns On The Way Back
+ - Sharpen Other Swords 2
+ - Poise Staggerlock Prevention
+ - Scion
+ - Manbeast
+ - Simple Werewolf Favourite Howls Menu
+ - Cover Your Head - Scion
+ - Skyrim's Paraglider - Stamina Drain
+ - Dark Souls Undressed
+ - SunHelm Magical Heat Sources
+ - SunHelm Auto Eat and Drink
+ - Song of the Green (Auri Follower) - Enhanced Voice
+ - Inferno (again lol)
+ - NPCs Use Potions
+ - Conditional Expressions Extended
+    - Reason: Hopefully this fixes some of the script lag and bloat from the original CE for NPCs mod. if this still causes issues then CE will just be nuked in 1.4
+ - STUsBON - Man's Got Cake
+ - Immersive Sleep to Save
+
+### Dev Notes
+
+ - Changed the name of the list for reasons.
+ - Remade Start Save to get rid of the "Missing plugin" error from [1.3.0.2](#1302).
+ - Added NFF Ignore tokens to some followers to disincetivize people from importing certain followers. 
+ - Fixed Skybox seams.
+ - Fixed "blocky" torches.
+ - Fixed an incorrect value in the Experience.ini.
+ - Fixed the lighting in Snapleg Cave, Tolvald's Crossing, Kolbjorn Barrow, and Ironbind Barrow.
+ - DAR Optimizations and SCAR fixes for some movesets.
+ - Fixed the Quick Draw perk causing bows to draw at 20% speed rather than 120% speed.
+ - Fixed load order issues that were brought up.
+ - Added an **Optional** SFW separator for those who wish to make the list more family-friendly.
+ - Ultrawide users still have the "feature" of a misaligned main menu screen.
+ - Lowered the default difficulty from Master to Expert.
+ - Removed interior fog because it was ugly and caused some visibility issues.
+ - Added a new item to Enthir's wares.
+ - **THIS UPDATE IS NOT SAVE SAFE**
 
 ## 1.3.0.2
 
