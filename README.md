@@ -175,6 +175,12 @@ Sometimes the SkyrimGuild website also runs into issues so I suggest downloading
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 - [Creatures DXP](https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip)
 
+Patreon downloads incase they give problems.
+- [Cosmofujia Elden Ring Twinblades](https://www.patreon.com/file?h=69418463&i=11393448)
+- [Eskyrim Fomod v1.1](https://www.patreon.com/file?h=65532242&i=10998255)
+- [Eskyrim Fomod v1.2](https://www.patreon.com/file?h=68233071&i=11449877)
+- [Eskyrim Sprint](https://www.patreon.com/file?h=68233071&i=11449874)
+
 ##### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
