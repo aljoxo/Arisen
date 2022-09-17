@@ -266,6 +266,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
 ### Documentation
 
+ - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/wiki/Gameplay-Guide).
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Animation%20Documentation.md).
  - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Graphics%20Documentation.md)
  - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md)
@@ -277,7 +278,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 ### Starting the Game
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
     - At the current moment the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
- - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+ - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to the "Arise My Champion!" executable by selecting it in the dropdown box and then hitting the run button.
 
  ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
 
@@ -381,7 +382,7 @@ A: Currently (though this may change in the future), VIGILANT requires the playe
    - GLENMORIL
    - Main Questline through Dragonslayer (if not previously completed)
    - UNSLAAD  
-Please note that there are other quest mods in the list, aswell as a lot of other content, so they should be filled in wherever to gain levels and experience. This is just a rough map of my ideal character and power progression.
+Please note that there are other quest mods in the list, aswell as a lot of other content, so they should be filled in wherever to gain levels and experience. This is just a rough map of my ideal character and power progression.  
 
 #### Q: I don't like the physics.  
 A: This isn't a question. If you don't like the body physics preset included in the list, I suggest disabling `3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3` in MO2 (if you want a more "stiff" preset) or searching nexus for a new CBPC preset that is more "jello-like".  
