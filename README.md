@@ -10,40 +10,53 @@
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+# <ins>**Arisen requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
+
 ## Contents
   - [Preamble](#preamble)
   - [System Requirements](#system-requirements)
-    - [Setting up Page File](#setting-up-pagefile)  
+    - [Minimum Specifications for ~60 fps gameplay at 1920x1080](#minimum-specifications-for-60-fps-gameplay-at-1920x1080)
+    - [Setting Up Pagefile](#setting-up-pagefile)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
+      - [Setting Shader Cache Size](#setting-shader-cache-size)
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
       - [Downloading and Installing Arisen](#downloading-and-installing-arisen)
-      - [Problems with installation](#problems-with-installation)
+    - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
     - [Widescreen Fixes](#widescreen-fixes)
-    - [Controller and Gamepad Support](#controller-and-gamepad-setup)
-    - [Removing Nudity from the List](#removing-nudity-from-the-list)
+    - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
+    - [Removing Nudity from the list](#removing-nudity-from-the-list)
     - [Documentation](#documentation)
-    - [BethINI](#bethini)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [In Game MCM Options](#in-game-mcm-options)
-  - [Updating Arisen](#updating-the-modlist)
+    - [In-Game MCM options](#in-game-mcm-options)
+    - [Anniversary Edition](#anniversary-edition)
+  - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
-   - [Tweaking the Game Settings](#tweaking-the-game-settings)
-   - [Removing the modlist](#removing-the-modlist)
-  - [Credits and Thanks](#credits-and-thanks)
+      - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
+      - [Q: How do I change the bodyslide on my character/on NPCs?](#q-how-do-i-change-the-bodyslide-on-my-characteron-npcs)
+      - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
+      - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
+      - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
+      - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
+      - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
+      - [Q: I don't like the physics.](#q-i-dont-like-the-physics)
+      - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
+      - [Q: Wasn't this modlist originally named Apotheosis? Why the name change?](#q-wasnt-this-modlist-originally-named-apotheosis-why-the-name-change)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
+      - [BethINI](#bethini)
+  - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
-
-# <ins>**Arisen requires the *full* AE upgrade, which means you must *purchase* the AE edition of the game for the list to function.**<ins>
+  - [Credits and Thanks](#credits-and-thanks)
 
 ## Preamble
 
-Arisen is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a mix of SimonMagus' and EnaiSiaion's mods to offer balanced and interesting paths of progression for the player, they are also tweaked to ensure compatibility with the aforementioned combat core. The list also has many hand placed weapons and armor to maintain a fresh experience and sense of wonder while exploring.
+Arisen is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a tweaked Simonrim setup of mods to offer balanced and interesting paths of progression for the player, tuned finely to ensure compatibility with the aforementioned combat core. The list also has many hand-placed weapons and armor to maintain a fresh experience and sense of wonder while exploring.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/apotheosis).
 
@@ -66,10 +79,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 >  I will **not** be supporting any AMD GPUs from before or from the Polaris Series (RX 500) and any NVIDIA GPUs from before or from the Maxwell Series (GTX 700/900), the only exception for this is the GTX 980 Ti, which is relateively equivelent to a 1660 Ti. These GPUs are simply not powerful enough to handle modded skyrim with an ENB on at 60 frames.
 
-Space required: 
-- Approx 380GB (Downloads should be roughly 150GB)
-
-Size without downloads: 
+Total size of modlist (with downloads): 
+- Approx 380GB (downloads should be roughly 150GB)
+  
+Total size of modlist (without downloads): 
 - Approx 230GB
 
 ### Setting Up Pagefile
@@ -105,11 +118,12 @@ Prior to installing Arisen, please complete the following steps.
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v6 desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Right click on Skyrim SE and click on properties, untick the "Enable Steam Overlay while in-game."
-4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**_
+4. You also need to start the games to the main menu in order to download all the creations. **DO NOT SKIP THIS STEP, IF YOU DO SO WABBAJACK WILL FAIL**
 
+#### Setting Shader Cache Size
  Additionally, if you have an NVIDIA GeForce Graphics Card, please do the following. 
 
- 1. Right click on your desktop and select **NVIDIA Control Panel**
+ 1. Right-click on your desktop and select **NVIDIA Control Panel**
  2. Navigate and click on **Manage 3D settings**. It is the 2nd one to the top.
  3. Scroll down in Global Settings until you see **Shader Cache Size**
  4. Double Click **Driver Default** to the right of Shader Cache Size and select **10 GB**
@@ -117,36 +131,35 @@ Prior to installing Arisen, please complete the following steps.
  6. You may exit out of the application.
 ![](https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/ShaderCache.png)
 
-5. Install Anniversary Addition (Creation Club) Content.
-
 #### Installing Creation Club Content
  If you have never installed the Creation Club Content before, please do the following.
 
- 1. Purchase the *Skyrim Anniversary Edition* Upgrade from Steam. If you do not do this, you can not play the list. There is no work around for this and pirating this content will not work, and if pirate the content and come asking for assistance, you will be banned.
- 2. Install the Anniversary Edition via Steam.
- 3. Once you have the Anniversary Edition installed, do the following steps.
- 4. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Local Files`. Click `Verify Integrity of Game Files` and wait.
- 5. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
- 6. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
- 7. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
- 8. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
- 9. Proceed with the rest of the installation.
+ 1. Purchase the *Skyrim Anniversary Edition* Upgrade from Steam. If you do not do this, you can not install or play the list. 
+   > **There is no work around for this and pirating this content will not work. If you pirate the content and come asking for assistance, you will be banned.**
+ 2. Once you have the Anniversary Edition bought, do the following steps below.
+ 3. In your Steam Library, right-click on the menu entry for Skyrim, select `Properties` and then select `Local Files`. Click `Verify Integrity of Game Files` and wait.
+ 4. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
+ 5. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
+ 6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+ 7. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
+ 8.  Proceed with the rest of the installation.
 
 
 ### Wabbajack Installation
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**. I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing Arisen
 
 Downloading and installing Arisen can take a while depending on your internet connection and computer. To install Arisen, complete the following steps.
 
-1. Download the Wabbajack Installer on this github,.
-2. Press the download button on Arisen and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Arisen. **Do not install it to your desktop, downloads folder, or Skyrim's Steam Folder.**
-4. The download location does not need to be on a SSD but it makes installing a bit faster
+1. Open Wabbajack and click `Browse Modlists`
+2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
+3. Press the download button on Arisen and wait for it to download.
+4. Set the installation folder to be somewhere like C:\Games\Arisen. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+> The download location does not need to be on a SSD, but it makes installing faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
@@ -182,13 +195,12 @@ Patreon downloads incase they give problems.
 - [Eskyrim Fomod v1.2](https://www.patreon.com/file?h=68233071&i=11449877)
 - [Eskyrim Sprint](https://www.patreon.com/file?h=68233071&i=11449874)
 
-##### Problems with installation
+### Problems with installation
 
 It is possible that you may encounter an error with Wabbajack when installing. Some common issues are listed below.
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-
 
 - **X** is not a whitelisted download:
 
@@ -242,7 +254,6 @@ Arisen offers some mods to provide (potential) Ultrawide and Widescreen Support.
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
-Asking in support channels about how to get Ultrawide support working will show that you did not read the readme and you will be promptly ignored.
 
 ### Controller and Gamepad Setup
 
@@ -256,7 +267,6 @@ Arisen offers some mods to provide support for individuals who wish to play with
    a. **Keycode=47** to **Keycode=281**
      - This will change the power attack bind to right trigger, if you wish to use a different key please refer to [this link](https://www.creationkit.com/index.php?title=Input_Script).
 
-Asking in support channels about how to get gamepad support working will show that you did not read the readme and you will be promptly ignored.
 
 ### Removing Nudity from the list
 
@@ -278,15 +288,15 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
 ### Starting the Game
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
-    - At the current moment the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
- - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to the "Arise My Champion!" executable by selecting it in the dropdown box and then hitting the run button.
+    - At the current moment, the patch only affects spiders (so chaurus and similar will still be present, tho if requested I could make another version of this patch that also removes those mobs).
+ - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it. If a message Registry Key does not match appear, press Yes. Once it's launched, there will be a dropdown box on the top right and a big run button next to it.
 
- ![](https://cdn.discordapp.com/attachments/1008055989532110918/1017837505078378497/unknown.png)
+ ![](https://cdn.discordapp.com/attachments/1008052853002219683/1020222827938463764/RegistryKey.png)
 
  
  - Launch the "Arise My Champion!" Executable in MO2
  - Arisen comes with a start save by default, so when you load into the main menu, choose "Continue".
- - For alternate start mods, Arisen uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962).
+ - Arisen uses [Skyrim Unbound](https://www.nexusmods.com/skyrimspecialedition/mods/27962) as our alternate start mod.
     - In order to start chargen hit **Enter** as soon as you load in
         - If your character seems to be frozen during RaceMenu, just swap race or gender and swap back, it should unfreeze them. This is an issue with DAR Cacheing.
     - Once you are finished with chargen, feel free to open up the **Skyrim Unbound** MCM menu and customize your Standing Stone, whether or not you're a vampire/werewolf, equipment, spells, and starting location.
@@ -298,7 +308,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
 ### In-Game MCM options
 
- - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
+ - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
      - Dragons by default are set to appear after 7 to 21 days, and will appear at word walls before appearing in the wild. If you wish to make them spawn faster/slower/instantly or want to make them spawn based on level instead, you can change it here.
  - **AGO**: By default Arisen disables many features of AGO, if you wish to re-enable them then do so here
  - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
@@ -306,7 +316,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
  - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
  - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).
- - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`). **REMEBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`). **REMEMBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
  - **Favourite Howls Menu**: Customize which powers will be in your favorites menu (for werewolves).
  - **Hide Your Quests**: Allows you to hide quests from your journal (not useful on startup, obviously).
  - **Improved Alternate Conversation Camera**: Tweak the dialogue camera here.
@@ -334,9 +344,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
 ### Anniversary Edition
 
-Arisen is on a [downgraded](https://www.nexusmods.com/skyrimspecialedition/mods/57618) version (1.5.97) of Skyrim. As stated at the top of this document, it **does require** the paid update.
-
-
+Wabbajack [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618) your install for you to version (1.5.97) of Skyrim. Please **do not** downgrade your steam install or the modlist yourself, but as stated at the top of this document, it **does require** the paid update.
 
 ## Updating the modlist
 
@@ -344,10 +352,13 @@ Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/b
   - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is absolutely, under no circumstances, save safe.
   - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is unlikely to be save safe, but it is possible depending on my consistency.
   - If the modlist is updated from `1.0.0` to `1.0.1`, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
-  - The [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) will almost always have a note about whether or not the update is save safe, and whether or not there are any additional, precautionary steps you should take to ensure your saves do not have issues.
+  - The [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) will almost always have a note about whether the update is save safe, and whether there are any additional, precautionary steps you should take to ensure your saves do not have issues.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To not have mods delete, add **[NoDelete]** at the beginning of said mod.
-**ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. Please Please Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
+
+**ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
+
+*Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
 ## FAQ
 
@@ -356,9 +367,6 @@ A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/85378545660932
 
 #### Q: How do I change the bodyslide on my character/on NPCs?  
 A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321) instead of [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) to handle Bodyslide distributions and morphs. By default the keybind to open the AutoBody menu is `;`, but it can be changed in the AutoBody MCM menu.  
-
-#### Q: I have a weapon stuck to my face in first person, what do I do? I'm stuck in an animation, what do I do?  
-A: Use a tanning rack.  
 
 #### Q: I can't level up, what do I do?  
 A: You likely have SunHelm enabled, go sleep in a bed.
@@ -370,7 +378,7 @@ A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then 
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
 
 #### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
-A: You must complete The [Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
+A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
 
 #### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
@@ -420,14 +428,14 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github first if you have any issues. PLEASE DO NOT DM ME ON DISCORD. If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
 - Curly for allowing me to use his graphical baseline as the core of my list.
-- Bingus for helping me with ENB tweaking, playtesting testing, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
+- Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding.
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
