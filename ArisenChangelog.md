@@ -1,21 +1,50 @@
 # Changelog
 
+- [1.3.1.2](#1312)
 - [1.3.1.1](#1311)
 - [1.3.1](#131)
 - [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
 
+## 1.3.1.2
+
+### Updated
+
+ - Staggerlock Prevention for Poise
+ - Adamant
+ - Mysticism
+
+### Added
+
+ - Goetia Animations - Sneak Magic
+ - Skyrim Skill Uncapper(fixed)
+
+### Dev Notes
+
+ - Reinstalled Nordic UI and selected the Skill Menu option in the FOMOD, should fix the weird blue overlay.
+ - Updated Ultrawide instructions in the ReadMe.
+ - Updated Gamepad Image in the ReadMe.
+ - Misc. Balance for certain unique, enchanted armors.
+ - Nerfed the Thaumaturgy Reflect enchant by 50%.
+ - Fixed error that caused all hits to stagger enemies.
+ - Fixed annotation on Player Sword and Board animation, causing light attacks to consume no stamina.
+ - Fixed an oversight in the loki_POISE.ini that gave NPCs too much Poise resistance while spell casting.
+ - Some minor ENB Tweaks for Skybox lighting inside of Caves, Dungeons, and Ruins.
+ - Activated Perks from Questing.... this mod was in the list but I forgot to actually activate it, sorry!
+ - **Fixed an error with Synthesis Patches not correctly forwarding records.**
+ - **Note**: Fists of Fury quest seems to be broken, and will probably be removed next major update. Don't want to remove it now due to the cell edits it does.
+ - Save safe with 1.3.1+
+
 ## 1.3.1.1
-`This update is save safe`
+
 ### Dev Notes
 
  - Quick stealth update to fix the start save.
+ - Save safe with 1.3.1+
 
 ## 1.3.1
-**`THIS UPDATE IS NOT SAVE SAFE`**
 
-**THIS UPDATE REQUIRES THE NEW SKYRIM AE UPDATE BECAUSE BETHESDA CHANGED THE HASH FOR CC CONTENT**
 ### Updated
 
  - Inconvenient Dungeons
@@ -94,9 +123,11 @@
  - Removed interior fog because it was ugly and caused some visibility issues.
  - Added a new item to Enthir's wares.
  - Misc. Nerfs and Balancing.
+ - **THIS UPDATE REQUIRES THE NEW SKYRIM AE UPDATE BECAUSE BETHESDA CHANGED THE HASH FOR CC CONTENT**
+ - **THIS UPDATE IS NOT SAVE SAFE**
 
 ## 1.3.0.2
-`This update is save safe`
+
 ### Removed
 
  - Complete Widescreen Fix
@@ -117,7 +148,6 @@
  - Note: The main menu for UW is a bit off center, this will be fixed in a future update, for now it's a feature :).
 
 ## 1.3.0.1
-`This update should be save safe, but we cannot make promises.`
 
 ### Updated
 
@@ -167,9 +197,9 @@
  - Reran Synthesis due to updating EasyNPC.
  - ENB Tweaks.
  - Remade Start Save.
+ - **This Update SHOULD be save safe with the pre-release versions of 1.3.0, however I make no promises if your save corrupts for some weird reason.**
 
 ## 1.3.0
-`Initial Release`
 
 ### Updated
 
