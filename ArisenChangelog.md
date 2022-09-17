@@ -19,6 +19,8 @@
 
  - Goetia Animations - Sneak Magic
  - Skyrim Skill Uncapper(fixed)
+ - Zxlice's Ultimate Potion Animation - Alternative slowdown effect Patch
+ - Arisen RaceMenu Presets (by fray)
 
 ### Dev Notes
 
@@ -31,7 +33,8 @@
  - Fixed annotation on Player Sword and Board animation, causing light attacks to consume no stamina.
  - Fixed an oversight in the loki_POISE.ini that gave NPCs too much Poise resistance while spell casting.
  - Some minor ENB Tweaks for Skybox lighting inside of Caves, Dungeons, and Ruins.
- - Activated Perks from Questing.... this mod was in the list but I forgot to actually activate it, sorry!
+ - Edited ZUPA .ini file.
+ - Activated Perks from Questing.... this mod was in the list but I forgot to actually activate it, sorry! It will add perks retroactively for those who have completed the quests that the mod touches.
  - **Fixed an error with Synthesis Patches not correctly forwarding records.**
  - **Note**: Fists of Fury quest seems to be broken, and will probably be removed next major update. Don't want to remove it now due to the cell edits it does.
  - Save safe with 1.3.1+
