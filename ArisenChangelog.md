@@ -7,13 +7,15 @@
 - [1.3.0](#130)
 
 ## 1.3.1.1
-
+`This update is save safe`
 ### Dev Notes
 
  - Quick stealth update to fix the start save.
 
 ## 1.3.1
+**`THIS UPDATE IS NOT SAVE SAFE`**
 
+**THIS UPDATE REQUIRES THE NEW SKYRIM AE UPDATE BECAUSE BETHESDA CHANGED THE HASH FOR CC CONTENT**
 ### Updated
 
  - Inconvenient Dungeons
@@ -92,11 +94,9 @@
  - Removed interior fog because it was ugly and caused some visibility issues.
  - Added a new item to Enthir's wares.
  - Misc. Nerfs and Balancing.
- - **THIS UPDATE REQUIRES THE NEW SKYRIM AE UPDATE BECAUSE BETHESDA CHANGED THE HASH FOR CC CONTENT**
- - **THIS UPDATE IS NOT SAVE SAFE**
 
 ## 1.3.0.2
-
+`This update is save safe`
 ### Removed
 
  - Complete Widescreen Fix
@@ -117,6 +117,7 @@
  - Note: The main menu for UW is a bit off center, this will be fixed in a future update, for now it's a feature :).
 
 ## 1.3.0.1
+`This update should be save safe, but we cannot make promises.`
 
 ### Updated
 
@@ -166,9 +167,9 @@
  - Reran Synthesis due to updating EasyNPC.
  - ENB Tweaks.
  - Remade Start Save.
- - **This Update SHOULD be save safe with the pre-release versions of 1.3.0, however I make no promises if your save corrupts for some weird reason.**
 
 ## 1.3.0
+`Initial Release`
 
 ### Updated
 
