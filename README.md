@@ -172,7 +172,6 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
 - [DMCO](https://www.skyrim-guild.com/s/DMCO-095.7z)
-- [Vanguard](https://www.skyrim-guild.com/s/Vanguard-2_2.rar)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 - [Creatures DXP](https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip)
