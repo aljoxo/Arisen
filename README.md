@@ -242,15 +242,17 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 Arisen offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
 **IN ORDER FOR THESE FIXES TO WORK YOU NEED TO DO THE FOLLOWING**
- 1. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:  
+ 1. Search for **Nordic UI XXX Patch** (XXX being the "21 by 9" or "32 by 9" depending on your screen resolution) in the left pane of MO2 and delete or hide the following files:  
+    a. /interface/tweenmenu.swf  
+ 2. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:  
     a. /interface/skyui/bottombar.swf  
     b. /interface/skyui/itemcard.swf  
- 2. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+ 3. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
     a. /interface/statsmenu.swf  
- 3. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+ 4. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
- 4. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+ 5. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
