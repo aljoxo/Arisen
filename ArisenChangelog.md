@@ -32,6 +32,7 @@
  - Fixed an MCM option that was left over from my Dev build. (this won't cause any issues if you don't have it).
  - Reverted some bosses that were incorrectly set to be Dragon Priests.
  - Fixed anvil texture.
+ - Fixed issue that caused actors to stagger off any hit.
  - Remade start save so people wouldn't get the missing esp error from the removed mod.
  - This update is save safe with version 1.3.1+ .... unless you have a spell from the removed mod, then it probably isn't.
 
