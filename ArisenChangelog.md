@@ -7,6 +7,33 @@
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
 
+## 1.3.1.3
+
+### Updated
+ 
+ - Lux main plugin
+
+### Added
+
+ - Talina RaceMenu Preset (from Arkay)
+
+### Removed
+
+ - Better Telekinesis  
+    - Reason: Caused issues with Vampire transformations.  
+
+### Dev Notes
+
+ - Fixed Vampire transformation crashes.
+ - Edited `aljo's Wacky CR` and `Synthesis3`. Because this is a critical error, these edited files will be hosted in the discord for those who already downloaded 1.3.1.2 so they do not have to fully redownload the list.
+ - Fixed Karliah's Face. I love EasyNPC failing to properly pack textures.
+ - Fixed Lux lighting. (Due to the sheer amount of patches I had to fix here, I'm not going to be hosting these)
+ - Fixed an MCM option that was left over from my Dev build. (this won't cause any issues if you don't have it).
+ - Reverted some bosses that were incorrectly set to be Dragon Priests.
+ - Fixed anvil texture.
+ - Remade start save so people wouldn't get the missing esp error from the removed mod.
+ - This update is save safe with version 1.3.1+ .... unless you have a spell from the removed mod, then it probably isn't.
+
 ## 1.3.1.2
 
 ### Updated
@@ -20,20 +47,20 @@
  - Goetia Animations - Sneak Magic
  - Skyrim Skill Uncapper(fixed)
  - Zxlice's Ultimate Potion Animation - Alternative slowdown effect Patch
- - Arisen RaceMenu Presets (by fray)
+ - Arisen RaceMenu Presets
 
 ### Dev Notes
 
  - Reinstalled Nordic UI and selected the Skill Menu option in the FOMOD, should fix the weird blue overlay.
  - Updated Ultrawide instructions in the ReadMe.
  - Updated Gamepad Image in the ReadMe.
- - Misc. Balance for certain unique, enchanted armors.
+ - Misc. Balance for certain unique, enchanted armors. 
  - Nerfed the Thaumaturgy Reflect enchant by 50%.
  - Fixed error that caused all hits to stagger enemies.
  - Fixed annotation on Player Sword and Board animation, causing light attacks to consume no stamina.
  - Fixed an oversight in the loki_POISE.ini that gave NPCs too much Poise resistance while spell casting.
  - Some minor ENB Tweaks for Skybox lighting inside of Caves, Dungeons, and Ruins.
- - Edited ZUPA .ini file.
+ - Edited ZUPA .ini file (Certain crashes should hopefully not occur anymore).
  - Activated Perks from Questing.... this mod was in the list but I forgot to actually activate it, sorry! It will add perks retroactively for those who have completed the quests that the mod touches.
  - **Fixed an error with Synthesis Patches not correctly forwarding records.**
  - **Note**: Fists of Fury quest seems to be broken, and will probably be removed next major update. Don't want to remove it now due to the cell edits it does.
