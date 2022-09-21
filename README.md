@@ -351,9 +351,10 @@ Wabbajack [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618
 ## Updating the modlist
 
 Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
-  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is absolutely, under no circumstances, save safe.
-  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is unlikely to be save safe, but it is possible depending on my consistency.
-  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version should only contain bug fixes and other miscellaneous tweaks that should have no affect on saves.
+  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
+  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is **not** save safe.
+  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version is unlikely to be save safe, **unless** the changelog specifically says so. In cases where the update **is** save safe, you will need to perform additional steps to maintain the health of your save.  
+  - If the modlist is updated from `1.0.0.0` to `1.0.0.1`, then this version is a hotfix and 100% save safe.
   - The [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) will almost always have a note about whether the update is save safe, and whether there are any additional, precautionary steps you should take to ensure your saves do not have issues.
 
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
