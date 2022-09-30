@@ -447,6 +447,7 @@ Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github
 - Curly for allowing me to use his graphical baseline as the core of my list.
 - Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you're looking for a VR list).
+- Chanka and fray for help with playtesting and documentation.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding.
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
