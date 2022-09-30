@@ -45,7 +45,9 @@
       - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
       - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
       - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
+      - [Q: Why won't Lucien talk to me?](#q-why-wont-lucien-talk-to-me)
       - [Q: I don't like the physics.](#q-i-dont-like-the-physics)
+      - [Q: How do I add a Bodyslide to the list?](#q-how-do-i-add-a-bodyslide-to-the-list)
       - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
       - [Q: Wasn't this modlist originally named Apotheosis? Why the name change?](#q-wasnt-this-modlist-originally-named-apotheosis-why-the-name-change)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -165,7 +167,6 @@ Downloading and installing Arisen can take a while depending on your internet co
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 Some files require loverslab for this list (none of them are sex mods).
-- [Nether's Follower Framework v2.7.9](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - [Tempered Skins for Males - SOS Light Version - part 2 of 2 v2.051](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
 - [SOS - Schlongs of Skyrim - LightSE](https://www.loverslab.com/files/file/3705-schlongs-of-skyrim-light-se/)
 
@@ -279,7 +280,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
 ### Documentation
 
- - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/wiki/Gameplay-Guide).
+ - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md).
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Animation%20Documentation.md).
  - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Graphics%20Documentation.md)
  - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md)
@@ -312,7 +313,6 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
 
  - **Skyrim Unbound**: Choose your Standing Stone, starting location, starting equipment, starting wealth, etc. By default, the player is set to become Dragonborn, so if you do not want that for some reason, turn it off. **I highly suggest against choosing to not become Dragonborn, as it will lock you out of a lot of content within the list.**
      - Dragons by default are set to appear after 7 to 21 days, and will appear at word walls before appearing in the wild. If you wish to make them spawn faster/slower/instantly or want to make them spawn based on level instead, you can change it here.
- - **AGO**: By default Arisen disables many features of AGO, if you wish to re-enable them then do so here
  - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
  - **AutoBody AE**: Change your *AutoBody Menu* keybind here. (Default: `;`)
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
@@ -326,6 +326,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
  - **Leveling Freedom**: By default the list uses the "Recommended" settings. Feel free to choose another preset or make your own to customize the leveling curve.
  - **Lucien**: Can choose a name or nickname for Lucien to call you by (if available).
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `F`). Add a hotkey for stamina/magicka potions.
+ - **Pronouns**: If you selected They/Them, you must go into the MCM and set up Fallback pronouns. If you set Multiple, you can select the % chance of pronouns.
  - **Seiro's Hotkeys**: Set up additional hotkeys here.
  - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `H`).
  - **SmoothCam**: By default the list uses a modified version of dTry's [Raven's Gaze](https://www.nexusmods.com/skyrimspecialedition/mods/63887) SmoothCam preset. The list also includes [Loki's Souls-Like](https://www.nexusmods.com/skyrimspecialedition/mods/41413) Preset and [SynHC's SynErgy Preset](https://www.nexusmods.com/skyrimspecialedition/mods/46655). You can change your shoulder swap keybind here. (Default: `Mouse4`).
@@ -337,7 +338,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
  - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default: `G`).
  - **True Directional Movement**: Change your *Target Lock* keybind here.
  - **Valhalla Combat**: The core of the combat balance in the list. 
-    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking.
+    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
     - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
     - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
     - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you previously changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
@@ -385,19 +386,25 @@ A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:T
 
 #### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 A: Currently (though this may change in the future), VIGILANT requires the player be level 25, completed House of Horrors, and completed Kindred Judgement (the final quest of Dawnguard DLC). This is because my ideal progression curve for quests should go something like:
-   - A guild questline
-   - Main Questline up to A Blade in the Dark
-   - Dawnguard DLC
-   - VIGILANT
-   - Main Questline up to at least Alduin's Bane
-   - Dragonborn DLC
-   - GLENMORIL
-   - Main Questline through Dragonslayer (if not previously completed)
+   - A guild questline  
+   - Main Questline up to A Blade in the Dark  
+   - Dawnguard DLC (recommended level: 15-25)  
+   - VIGILANT  
+   - Main Questline up to at least Alduin's Bane  
+   - Dragonborn DLC (minimum level requirement: 40)  
+   - GLENMORIL  
+   - Main Questline through Dragonslayer (if not previously completed)  
    - UNSLAAD  
 Please note that there are other quest mods in the list, aswell as a lot of other content, so they should be filled in wherever to gain levels and experience. This is just a rough map of my ideal character and power progression.  
 
+#### Q: Why won't Lucien talk to me?
+A: You selected They/Them pronouns. Go into the Pronouns MCM, select She/Her or He/Him, then speak to Lucien again. After you have gotten him as a follower, you are free to switch back to They/Them.
+
 #### Q: I don't like the physics.  
 A: This isn't a question. If you don't like the body physics preset included in the list, I suggest disabling `3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3` in MO2 (if you want a more "stiff" preset) or searching nexus for a new CBPC preset that is more "jello-like".  
+
+#### Q: How do I add a bodyslide to the list?
+A: You have two ways to go about this. The way I would suggest is to open the following file `[Path to Modlist]\mods\AutoBody AE - Configurable Randomized Bodies\autoBody\Config\morphs.ini` and add the bodyslide's `.xml` name to the end of the `All|Female|(InsertRace)=` line. Alternatively, if you do hate the way bodyslide presets are distributed in the list, you can either delete the entire `morphs.ini` file or (more reasonably) delete all of the lines in the file that are `All|Female|(InsertRace)`. Please note that you **do not** need to build the bodyslide preset in Bodyslie as all armors are already built and Zeroed Sliders to support AutoBody (which functions like OBody).
 
 #### Q: How do I enable my crosshair?
 A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Separator in MO2.
@@ -439,7 +446,7 @@ Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github
 - Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
 - Curly for allowing me to use his graphical baseline as the core of my list.
 - Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
-- iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you have a VR headset).
+- iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you're looking for a VR list).
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding.
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
