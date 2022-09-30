@@ -30,7 +30,7 @@
 | Bolgeir Bearclaw        | Northbourne NPCs of Haafingar      |
 | Bryling                 | Pandorable's NPCs                  |
 | Corpulus Vinius         | Northbourne NPCs of Haafingar      |
-| Safia                   | Northbourne NPCs of Haafingar      |
+| Safia                   | Kalilies NPCs                      |
 | Deeja                   | Modpocalypse                       |
 | Elenwen                 | GLAM Elenwen                       |
 | Elisif the Fair         | Jarls ReImagined                   |
@@ -48,7 +48,7 @@
 | General Tullius         | Northbourne NPCs of Haafingar      |
 | Giraud Gemane           | Pandorable's NPCs                  |
 | Gisli                   | Northbourne NPCs of Haafingar      |
-| Greta                   | Northbourne NPCs of Haafingar      |
+| Greta                   | Kalilies NPCs                      |
 | GulumEi                 | Modpocalypse                       |
 | Guthrum                 | Modpocalypse                       |
 | Heimvar                 | Northbourne NPCs of Haafingar      |
@@ -57,26 +57,26 @@
 | Illdi                   | A Rose in the Snow                 |
 | Inge Six Fingers        | Project Cougar                     |
 | Irnskar Ironhand        | Beards of Power                    |
-| Jala                    | Northbourne NPCs of Haafingar      |
+| Jala                    | Kalilies NPCs                      |
 | JareeRa                 | Modpocalypse                       |
 | Jawanan                 | Modpocalypse                       |
 | Jorn                    | Northbourne NPCs of Haafingar      |
-| Katla                   | Northbourne NPCs of Haafingar      |
+| Katla                   | Kalilies NPCs                      |
 | Kharag groShurkul       | Northbourne NPCs of Haafingar      |
 | Kjar                    | Northbourne NPCs of Haafingar      |
 | Ataf                    | Northbourne NPCs of Haafingar      |
 | Captain Wayfinder       | Modpocalypse                       |
-| Lisette                 | Bijin NPCs                         |
-| Ma'zaka                 | Modpocalypse                       |
+| Lisette                 | DIbella's Blessing - Solitude      |
+| Ma'zaka                 | Project ja-Kha'jay                 |
 | Melaran                 | Northbourne NPCs of Haafingar      |
 | Sayma                   | Northbourne NPCs of Haafingar      |
 | Noster EagleEye         | Northbourne NPCs of Haafingar      |
 | Octieve San             | Beards of Power                    |
 | Odar                    | Northbourne NPCs of Haafingar      |
 | Pantea Ateia            | Northbourne NPCs of Haafingar      |
-| Legate Rikke            | Shield Sisters ReImagined          |
+| Legate Rikke            | DIbella's Blessing - Solitude      |
 | Rorlund                 | Northbourne NPCs of Haafingar      |
-| Sabine Nytte            | Northbourne NPCs of Haafingar      |
+| Sabine Nytte            | DIbella's Blessing - Solitude      |
 | Dalan Merchad           | Modpocalypse                       |
 | Silana Petreia          | Pandorable's NPCs                  |
 | Snilling                | Northbourne NPCs of Haafingar      |
@@ -87,7 +87,7 @@
 | Una                     | Pandorable's NPCs                  |
 | Viarmo                  | Pandorable's NPCs                  |
 | Vivienne Onis           | The Ordinary Women                 |
-| Adelaisa Vendicci       | Pandorable's Warrior Women         |
+| Adelaisa Vendicci       | DIbella's Blessing - Windhelm      |
 | Horgeir                 | Northbourne NPCs of Haafingar      |
 | Olda                    | Northbourne NPCs of Haafingar      |
 | Lodvar                  | Northbourne NPCs of Haafingar      |
@@ -103,14 +103,14 @@
 | Julienne Lylvieve       | Pandorable's NPCs                  |
 | Sheogorath              | Elevated NPCs                      |
 | Pelagius the Mad        | Modpocalypse                       |
-| Tsavani                 | Modpocalypse                       |
+| Tsavani                 | Project ja-Kha'jay                 |
 | Malborn                 | Northbourne NPCs of Haafingar      |
 | Razelan                 | Northbourne NPCs of Haafingar      |
 | Rulindil                | Northbourne NPCs of Haafingar      |
 | Gissur                  | Modpocalypse                       |
 | Captain Aldis           | Northbourne NPCs of Haafingar      |
 | Gaius Maro              | Northbourne NPCs of Haafingar      |
-| Gianna                  | Northbourne NPCs of Haafingar      |
+| Gianna                  | Kalilies NPCs                      |
 | Alexia Vici             | Northbourne NPCs of Haafingar      |
 | Brelas                  | Northbourne NPCs of Haafingar      |
 | Snorreid                | Northbourne NPCs of Haafingar      |
@@ -119,7 +119,7 @@
 | Jordis the Sword-Maiden | Yvette Follower or Jordis Replacer |
 | Roggvir                 | Northbourne NPCs of Haafingar      |
 | Jolf                    | Northbourne NPCs of Haafingar      |
-| Eris                    | Pandorable's NPCs                  |
+| Eris                    | Northbourne NPCs of Haafingar      |
 | Xander                  | Northbourne NPCs of Haafingar      |
 | Dorian                  | Northbourne NPCs of Haafingar      |
 | Belrand                 | Northbourne NPCs of Haafingar      |
@@ -131,7 +131,7 @@
 | NPC               | NPC Replacer      |
 |----------------------|--------------------------------------|
 | Aerin                | Northbourne NPCs of the Rift         |
-| Alessandra           | Northbourne NPCs of the Rift         |
+| Alessandra           | DIbella's Blessing - Riften          |
 | Anuriel              | Pandorable's NPCs                    |
 | Aringoth             | Northbourne NPCs of the Rift         |
 | Asgeir SnowShod      | Northbourne NPCs of the Rift         |
@@ -149,22 +149,22 @@
 | Esbern               | Northbourne NPCs of the Rift         |
 | FromDeepestFathoms   | Modpocalypse                         |
 | Maramal              | Northbourne NPCs of the Rift         |
-| Grelod the Kind      | A Rose in the Snow                   |
+| Grelod the Kind      | DIbella's Blessing - Riften          |
 | Haelga               | GLAM Haelga                          |
 | Hafjorg              | Northbourne NPCs of the Rift         |
 | Harrald              | Northbourne NPCs of the Rift         |
 | Hemming BlackBriar   | Pandorable's NPCs                    |
-| Ingun BlackBriar     | Northbourne NPCs of the Rift         |
+| Ingun BlackBriar     | DIbella's Blessing - Riften          |
 | Keerava              | Modpocalypse                         |
 | Laila LawGiver       | Elevated NPCs                        |
-| Threki the Innocent  | Northbourne NPCs of the Rift         |
+| Threki the Innocent  | Kalilies NPCs                        |
 | Louis Letrush        | Pandorable's NPCs                    |
 | Marise Aravel        | Northbourne NPCs of the Rift         |
 | Maven BlackBriar     | Elevated NPCs                        |
-| Mjoll the Lioness    | Pandorable's Warrior Women           |
+| Mjoll the Lioness    | DIbella's Blessing - Riften          |
 | Molgrom TwiceKilled  | Northbourne NPCs of the Rift         |
 | Dirge                | Northbourne NPCs of the Rift         |
-| Niluva Hlaalu        | Northbourne NPCs of the Rift         |
+| Niluva Hlaalu        | Kalilies NPCs                        |
 | Nivenor              | Pandorable's NPCs                    |
 | Indaryn              | Beards of Power                      |
 | Shadr                | Northbourne NPCs of the Rift         |
@@ -173,7 +173,7 @@
 | Remlyn Dreth         | Pandorable's NPCs                    |
 | Saerlund             | Pandorable's NPCs                    |
 | Sibbi BlackBriar     | Pandorable's NPCs                    |
-| Svana FarShield      | Pandorable's NPCs                    |
+| Svana FarShield      | DIbella's Blessing - Riften          |
 | Tythis Ulen          | Northbourne NPCs of the Rift         |
 | Ungrien              | Northbourne NPCs of the Rift         |
 | Valindor             | Northbourne NPCs of the Rift         |
@@ -181,7 +181,7 @@
 | Vulwulf SnowShod     | Northbourne NPCs of the Rift         |
 | Wujeeta              | Modpocalypse                         |
 | Wilhelm              | Beards of Power                      |
-| Lynly StarSung       | Northbourne NPCs of the Rift         |
+| Lynly StarSung       | Kalilies NPCs                        |
 | Jofthor              | Northbourne NPCs of the Rift         |
 | Boti                 | Northbourne NPCs of the Rift         |
 | Fastred              | Northbourne NPCs of the Rift         |
@@ -190,13 +190,13 @@
 | Klimmek              | Northbourne NPCs of the Rift         |
 | Filnjar              | Beards of Power                      |
 | Odfel                | Northbourne NPCs of the Rift         |
-| Grelka               | The Ordinary Women                   |
+| Grelka               | DIbella's Blessing - Riften          |
 | Grogmar groBurzag    | Northbourne NPCs of the Rift         |
 | Froki WhettedBlade   | Northbourne NPCs of the Rift         |
 | Aduri Sarethi        | Pandorable's NPCs                    |
-| Grosta               | Northbourne NPCs of the Rift         |
+| Grosta               | Kalilies NPCs                        |
 | Addvild              | Northbourne NPCs of the Rift         |
-| Wylandriah           | Pandorable's NPCs                    |
+| Wylandriah           | DIbella's Blessing - Riften          |
 | Asbjorn FireTamer    | Northbourne NPCs of the Rift         |
 | Atub                 | Metalsabers Beautiful Orcs of Skyrim |
 | Ugor                 | Shield Sisters ReImagined            |
@@ -222,7 +222,7 @@
 | Leonara Arius        | A Rose in the Snow                   |
 | Etienne Rarnis       | Pandorable's NPCs                    |
 | Chief Yamarz         | Beards of Power                      |
-| Medresi Dran         | A Rose in the Snow                   |
+| Medresi Dran         | Kalilies NPCs                        |
 | Illia                | Shield Sisters ReImagined            |
 | Silvia               | Northbourne NPCs of the Rift         |
 | Breya                | Modpocalypse                         |
@@ -231,7 +231,7 @@
 | Briehl               | Northbourne NPCs of the Rift         |
 | Temba WideArm        | Elevated NPCs                        |
 | Gwilin               | Northbourne NPCs of the Rift         |
-| Shavari              | Modpocalypse                         |
+| Shavari              | Project ja-Kha'jay                   |
 | Vald                 | Modpocalypse                         |
 | Captain Valmir       | Modpocalypse                         |
 | Fasendil             | Northbourne NPCs of the Rift         |
@@ -247,79 +247,81 @@
 | Garthar              | Northbourne NPCs of the Rift         |
 | Ravyn Imyan          | Northbourne NPCs of the Rift         |
 | Sigar                | Northbourne NPCs of the Rift         |
-| Tonilia              | The Ordinary Women                   |
+| Tonilia              | DIbella's Blessing - Riften          |
 | Marcurio             | Pandorable's NPCs                    |
-| Synda Llanith        | Northbourne NPCs of the Rift         |
+| Synda Llanith        | Kalilies NPCs                        |
 | Sylgja               | Bijin Wives                          |
 | Thrynn               | Pandorable's NPCs                    |
 | Rune                 | Pandorable's NPCs                    |
 | Gian the Fist        | Northbourne NPCs of the Rift         |
+| Sapphire             | DIbella's Blessing - Riften          |
+| Nocturnal            | Kalilies NPCs                        |                 
 
 ## The Reach
 
 | NPC               | NPC Replacer      |
 |-------------------------|--------------------------------------|
-| Anwen                   | Pandorable's NPCs                    |
+| Anwen                   | DIbella's Blessing - Markarth        |
 | Anton Virane            | Beards of Power                      |
-| Betrid SilverBlood      | Modpocalypse                         |
+| Betrid Silver-Blood     | Kalilies NPCs                        |
 | Braig                   | Modpocalypse                         |
 | Borkul the Beast        | Pandorable's NPCs                    |
-| Bothela                 | A Rose in the Snow                   |
-| Brother Verulus         | Modpocalypse                         |
+| Bothela                 | DIbella's Blessing - Markarth        |
+| Brother Verulus         | Markarth Side Refine                 |
 | Calcelmo                | Elevated NPCs                        |
-| Cedran                  | Modpocalypse                         |
+| Cedran                  | Markarth Side Refine                 |
 | Cosnach                 | Tragedian's Fabulous Followers       |
-| Daighre                 | Modpocalypse                         |
-| Degaine                 | Modpocalypse                         |
+| Daighre                 | Markarth Side Refine                 |
+| Degaine                 | Markarth Side Refine                 |
 | Duach                   | Modpocalypse                         |
-| Eltrys                  | Modpocalypse                         |
+| Eltrys                  | Markarth Side Refine                 |
 | Endon                   | Pandorable's NPCs                    |
-| Ennoc                   | Modpocalypse                         |
-| Faleen                  | Pandorable's NPCs                    |
-| Frabbi                  | The Ordinary Women                   |
-| Ghorza graBagol         | Metalsabers Beautiful Orcs of Skyrim |
+| Ennoc                   | Markarth Side Refine                 |
+| Faleen                  | DIbella's Blessing - Markarth        |
+| Frabbi                  | DIbella's Blessing - Markarth        |
+| Ghorza gra-Bagol        | DIbella's Blessing - Markarth        |
 | Grisvar the Unlucky     | Modpocalypse                         |
 | Hathrasil               | Beards of Power                      |
 | Hreinn                  | Beards of Power                      |
-| Hroki                   | The Ordinary Women                   |
+| Hroki                   | DIbella's Blessing - Markarth        |
 | Igmund                  | Elevated NPCs                        |
 | Nana Ildene             | A Rose in the Snow                   |
-| Imedhnain               | Modpocalypse                         |
+| Imedhnain               | Markarth Side Refine                 |
 | Kerah                   | Pandorable's NPCs                    |
-| Kleppr                  | Modpocalypse                         |
-| Lisbet                  | The Ordinary Women                   |
+| Kleppr                  | Markarth Side Refine                 |
+| Lisbet                  | DIbella's Blessing - Markarth        |
 | Logrolf the Willful     | Modpocalypse                         |
 | Madanach                | Elevated NPCs                        |
-| Mulush groShugurz       | Modpocalypse                         |
+| Mulush gro-Shugurz      | Modpocalypse                         |
 | Nepos the Nose          | Modpocalypse                         |
 | Odvan                   | Modpocalypse                         |
 | Ogmund                  | Beards of Power                      |
-| Omluag                  | Modpocalypse                         |
+| Omluag                  | Markarth Side Refine                 |
 | Ondolemar               | Pandorable's NPCs                    |
-| Orla                    | GLAM Orla                            |
+| Orla                    | DIbella's Blessing - Markarth        |
 | Pavo Attius             | Beards of Power                      |
 | Raerek                  | Modpocalypse                         |
-| Reburrus Quintilius     | Modpocalypse                         |
-| Rhiada                  | Modpocalypse                         |
+| Reburrus Quintilius     | Markarth Side Refine                 |
+| Rhiada                  | Markarth Side Refine                 |
 | Rogatus Salvius         | Modpocalypse                         |
 | Rondach                 | Modpocalypse                         |
 | Senna                   | GLAM Senna                           |
-| Skaggi ScarFace         | Pandorable's NPCs                    |
-| Sosia Tremellia         | Modpocalypse                         |
-| Thonar SilverBlood      | Pandorable's NPCs                    |
-| Thongvor SilverBlood    | Jarls ReImagined                     |
-| Uaile                   | A Rose in the Snow                   |
+| Skaggi Scar-Face        | Pandorable's NPCs                    |
+| Sosia Tremellia         | Kalilies NPCs                        |
+| Thonar Silver-Blood     | Pandorable's NPCs                    |
+| Thongvor Silver-Blood   | Jarls ReImagined                     |
+| Uaile                   | DIbella's Blessing - Markarth        |
 | Uraccen                 | Modpocalypse                         |
-| Urzoga graShugurz       | Metalsabers Beautiful Orcs of Skyrim |
+| Urzoga gra-Shugurz      | Metalsabers Beautiful Orcs of Skyrim |
 | Vigdis Salvius          | A Rose in the Snow                   |
-| Voada                   | A Rose in the Snow                   |
+| Voada                   | DIbella's Blessing - Markarth        |
 | Yngvar the Singer       | Pandorable's NPCs                    |
 | Ainethach               | Beards of Power                      |
 | Ragnar                  | Modpocalypse                         |
 | Belchimac               | Modpocalypse                         |
 | Enmon                   | Pandorable's NPCs                    |
-| Mena                    | Modpocalypse                         |
-| Lash graDushnikh        | Metalsabers Beautiful Orcs of Skyrim |
+| Mena                    | Kalilies NPCs                        |
+| Lash gra-Dushnikh       | Metalsabers Beautiful Orcs of Skyrim |
 | Leontius Salvius        | Pandorable's NPCs                    |
 | Eydis                   | A Rose in the Snow                   |
 | Chief Burguk            | Beards of Power                      |
@@ -334,7 +336,7 @@
 | Tacitus Sallustius      | Pandorable's NPCs                    |
 | Aicantar                | Elevated NPCs                        |
 | Muiri                   | Bijin Wives                          |
-| Eola                    | Eola Reimagined                      |
+| Eola                    | DIbella's Blessing - Markarth        |
 | Chief Larak             | Pandorable's NPCs                    |
 | Sharamph                | Metalsabers Beautiful Orcs of Skyrim |
 | Bagrak                  | Metalsabers Beautiful Orcs of Skyrim |
@@ -343,21 +345,21 @@
 | Olur                    | Modpocalypse                         |
 | Perth                   | Modpocalypse                         |
 | Tuthul                  | Modpocalypse                         |
-| Gat groShargakh         | Pandorable's NPCs                    |
-| Hamal                   | Modpocalypse                         |
-| Hogni RedArm            | Modpocalypse                         |
+| Gat gro-Shargakh        | Pandorable's NPCs                    |
+| Hamal                   | Kalilies NPCs                        |
+| Hogni Red-Arm           | Markarth Side Refine                 |
 | Orchendor               | Modpocalypse                         |
 | Kaie                    | A Rose in the Snow                   |
-| Moth groBagol           | Pandorable's NPCs                    |
+| Moth gro-Bagol          | Pandorable's NPCs                    |
 | Atar                    | Modpocalypse                         |
-| Adeber                  | Modpocalypse                         |
-| Willem                  | Modpocalypse                         |
+| Adeber                  | Markarth Side Refine                 |
+| Willem                  | Markarth Side Refine                 |
 | Emmanuel Admand         | Modpocalypse                         |
-| Kottir RedShoal         | Modpocalypse                         |
-| Kesh the Clean          | Modpocalypse                         |
-| Banning                 | Modpocalypse                         |
-| Margret                 | A Rose in the Snow                   |
-| Weylin                  | Modpocalypse                         |
+| Kottir Red-Shoal        | Modpocalypse                         |
+| Kesh the Clean          | Project ja-Kha'jay                   |
+| Banning                 | Markarth Side Refine                 |
+| Margret                 | Kalilies NPCs                        |
+| Weylin                  | Markarth Side Refine                 |
 | Argis the Bulwark       | Tragedian's Fabulous Followers       |
 | Vigilant Tyranus        | Modpocalypse                         |
 | Vorstag                 | Pandorable's NPCs                    |
@@ -368,12 +370,14 @@
 | Ghamorz                 | Modpocalypse                         |
 | Mogdurz                 | Metalsabers Beautiful Orcs of Skyrim |
 | Bor                     | Metalsabers Beautiful Orcs of Skyrim |
-| Cairine                 | Modpocalypse                         |
-| Garvery                 | Modpocalypse                         |
-| Dryston                 | Modpocalypse                         |
-| Tynan                   | Modpocalypse                         |
-| Morven                  | Modpocalypse                         |
+| Cairine                 | DIbella's Blessing - Markarth        |
+| Garvery                 | Markarth Side Refine                 |
+| Dryston                 | Markarth Side Refine                 |
+| Tynan                   | Markarth Side Refine                 |
+| Morven                  | Markarth Side Refine                 |
 | Donnel                  | Modpocalypse                         |
+| Nimphaneth              | Kalilies NPCs                        |
+| Kibell                  | Markarth Side Refine                 |
 
 ## Hjaalmarch
 
@@ -384,17 +388,17 @@
 | Benor                | Beards of Power                |
 | Falion               | Pandorable's NPCs              |
 | Gorm                 | Northbourne NPCs of Hjaalmarch |
-| Idgrod Ravencrone    | Elevated NPCs                  |
-| Idgrod the Younger   | Elevated NPCs                  |
+| Idgrod Ravencrone    | DIbella's Blessing - Morthal   |
+| Idgrod the Younger   | DIbella's Blessing - Morthal   |
 | Jonna                | Northbourne NPCs of Hjaalmarch |
-| Lami                 | Northbourne NPCs of Hjaalmarch |
+| Lami                 | DIbella's Blessing - Morthal   |
 | Hroggar              | Northbourne NPCs of Hjaalmarch |
 | Thonnir              | Northbourne NPCs of Hjaalmarch |
 | Argi Farseer         | Modpocalypse                   |
 | Gestur Rockbreaker   | Northbourne NPCs of Hjaalmarch |
 | Jesper               | Northbourne NPCs of Hjaalmarch |
 | Pactur               | Northbourne NPCs of Hjaalmarch |
-| Sorli                | Jarls ReImagined               |
+| Sorli                | DIbella's Blessing - Morthal   |
 | Sirgar               | Northbourne NPCs of Hjaalmarch |
 | Swanhvir             | Northbourne NPCs of Hjaalmarch |
 | Talib                | Modpocalypse                   |
@@ -406,6 +410,7 @@
 | Estormo              | Modpocalypse                   |
 | Taurinus Duilis      | Northbourne NPCs of Hjaalmarch |
 | Arrald FrozenHeart   | Northbourne NPCs of Hjaalmarch |
+| Eisa                 | DIbella's Blessing - Morthal   |
 
 ## The Pale
 
@@ -418,8 +423,8 @@
 | Beitild               | A Rose in the Snow             |
 | Bulfrek               | Modpocalypse                   |
 | Frida                 | Modpocalypse                   |
-| Fruki                 | Modpocalypse                   |
-| Irgnir                | Modpocalypse                   |
+| Fruki                 | Kalilies NPCs                  |
+| Irgnir                | Kalilies NPCs                  |
 | Jod                   | Modpocalypse                   |
 | Karl                  | Modpocalypse                   |
 | Karita                | Pandorable's NPCs              |
@@ -445,7 +450,7 @@
 | Mani                  | Modpocalypse                   |
 | Ramati                | Modpocalypse                   |
 | Sudi                  | Modpocalypse                   |
-| Salma                 | Modpocalypse                   |
+| Salma                 | Kalilies NPCs                  |
 | BeemJa                | Modpocalypse                   |
 | Constantius Tituleius | Modpocalypse                   |
 | Frorkmar BannerTorn   | Modpocalypse                   |
@@ -469,7 +474,7 @@
 | Kust              | Northbourne NPCs of Falkreath Hold |
 | Runil             | Northbourne NPCs of Falkreath Hold |
 | Mathies           | Northbourne NPCs of Falkreath Hold |
-| Indara Caerellia  | Northbourne NPCs of Falkreath Hold |
+| Indara Caerellia  | Kalilies NPCs                      |
 | Lod               | Pandorable's NPCs                  |
 | Bolund            | Northbourne NPCs of Falkreath Hold |
 | Solaf             | Northbourne NPCs of Falkreath Hold |
@@ -511,41 +516,41 @@
 | Kjeld the Younger        | Modpocalypse                         |
 | Iddra                    | Pandorable's NPCs                    |
 | Kjeld                    | Beards of Power                      |
-| Verner RockChucker       | Modpocalypse                         |
-| Annekke CragJumper       | Tragedian's Fabulous Followers       |
+| Verner Rock-Chucker      | Modpocalypse                         |
+| Annekke Crag-Jumper      | Tragedian's Fabulous Followers       |
 | Sondas Drenim            | Modpocalypse                         |
 | Gilfre                   | Pandorable's NPCs                    |
-| Tormir                   | Modpocalypse                         |
+| Tormir                   | Kalilies NPCs                        |
 | Derkeethus               | Tragedian's Fabulous Followers       |
-| Roggi KnotBeard          | Tragedian's Fabulous Followers       |
+| Roggi Knot-Beard         | Tragedian's Fabulous Followers       |
 | Gemma Uriel              | Pandorable's NPCs                    |
 | Shahvee                  | Modpocalypse                         |
-| Idesa Sadri              | Modpocalypse                         |
+| Idesa Sadri              | Kalilies NPCs                        |
 | Voldsea Giryon           | Pandorable's NPCs                    |
 | Adisla                   | A Rose in the Snow                   |
-| Hillevi CruelSea         | Pandorable's NPCs                    |
-| Jora                     | Modpocalypse                         |
-| Silda the Unseen         | The Ordinary Women                   |
+| Hillevi Cruel-Sea        | Pandorable's NPCs                    |
+| Jora                     | DIbella's Blessing - Windhelm        |
+| Silda the Unseen         | DIbella's Blessing - Windhelm        |
 | Suvaris Atheron          | Pandorable's NPCs                    |
 | Niranye                  | The Ordinary Women                   |
 | Helgird                  | Modpocalypse                         |
-| Tova ShatterShield       | Pandorable's NPCs                    |
-| Bolfrida BrandyMug       | Modpocalypse                         |
+| Tova Shatter-Shield      | Pandorable's NPCs                    |
+| Bolfrida Brandy-Mug      | Modpocalypse                         |
 | Arivanya                 | Pandorable's NPCs                    |
-| Galmar StoneFist         | Beards of Power                      |
+| Galmar Stone-Fist        | Beards of Power                      |
 | Viola Giordano           | Pandorable's NPCs                    |
-| Elda EarlyDawn           | The Ordinary Women                   |
-| Susanna the Wicked       | A Rose in the Snow                   |
-| Nilsine ShatterShield    | Pandorable's NPCs                    |
-| Hermir StrongHeart       | The Ordinary Women                   |
-| ScoutsManyMarshes        | Modpocalypse                         |
+| Elda Early-Dawn          | DIbella's Blessing - Windhelm        |
+| Susanna the Wicked       | DIbella's Blessing - Windhelm        |
+| Nilsine Shatter-Shield   | Pandorable's NPCs                    |
+| Hermir Strong-Heart      | DIbella's Blessing - Windhelm        |
+| Scouts-Many-Marshes      | Modpocalypse                         |
 | Neetrenaza               | Modpocalypse                         |
-| StandsInShallows         | Modpocalypse                         |
+| Stands-In-Shallows       | Modpocalypse                         |
 | Faryl Atheron            | Modpocalypse                         |
-| Captain LonelyGale       | Pandorable's NPCs                    |
+| Captain Lonely-Gale      | Pandorable's NPCs                    |
 | Jorleif                  | Pandorable's NPCs                    |
-| Torsten CruelSea         | Modpocalypse                         |
-| Angrenor OnceHonored     | Modpocalypse                         |
+| Torsten Cruel-Sea        | Modpocalypse                         |
+| Angrenor Once-Honored    | Modpocalypse                         |
 | Belyn Hlaalu             | Modpocalypse                         |
 | Tulvur                   | Modpocalypse                         |
 | Revyn Sadri              | Pandorable's NPCs                    |
@@ -553,39 +558,39 @@
 | Adonato Leotelli         | Pandorable's NPCs                    |
 | Ravam Verethi            | Modpocalypse                         |
 | Ambarys Rendar           | Pandorable's NPCs                    |
-| Torbjorn ShatterShield   | Modpocalypse                         |
+| Torbjorn Shatter-Shield  | Modpocalypse                         |
 | Val Atheron              | Pandorable's NPCs                    |
 | Ulundil                  | Pandorable's NPCs                    |
-| Oengul WarAnvil          | Pandorable's NPCs                    |
+| Oengul War-Anvil         | Pandorable's NPCs                    |
 | Lortheim                 | Modpocalypse                         |
 | Wuunferth the Unliving   | Beards of Power                      |
 | Nurelion                 | Modpocalypse                         |
-| Brunwulf FreeWinter      | Jarls ReImagined                     |
+| Brunwulf Free-Winter     | Jarls ReImagined                     |
 | Calixto Corrium          | Pandorable's NPCs                    |
 | Nils                     | Modpocalypse                         |
 | Quintus Navale           | Pandorable's NPCs                    |
 | Ulfric Stormcloak        | BB's Ulfric Stormcloak               |
 | Malthyr Elenil           | Modpocalypse                         |
 | Sond                     | Modpocalypse                         |
-| Asta                     | Modpocalypse                         |
+| Asta                     | Kalilies NPCs                        |
 | Chief Mauhulakh          | Beards of Power                      |
 | Bolar                    | Metalsabers Beautiful Orcs of Skyrim |
 | Yatul                    | Metalsabers Beautiful Orcs of Skyrim |
 | Urog                     | Metalsabers Beautiful Orcs of Skyrim |
 | Dushnamub                | Modpocalypse                         |
-| Mul groLargash           | Modpocalypse                         |
-| Gadba groLargash         | Modpocalypse                         |
-| Lu'ah AlSkaven           | Modpocalypse                         |
+| Mul gro-Largash          | Modpocalypse                         |
+| Gadba gro-Largash        | Modpocalypse                         |
+| Lu'ah Al-Skaven          | Kalilies NPCs                        |
 | Sifnar Ironkettle        | Modpocalypse                         |
 | Rolff StoneFist          | Modpocalypse                         |
-| Luaffyn                  | The Ordinary Women                   |
-| J'datharr                | Modpocalypse                         |
+| Luaffyn                  | DIbella's Blessing - Windhelm        |
+| J'datharr                | Project ja-Kha'jay                   |
 | Hrollod                  | Modpocalypse                         |
-| Yrsarald ThricePierced   | Modpocalypse                         |
+| Yrsarald Thrice-Pierced  | Modpocalypse                         |
 | Christer                 | Modpocalypse                         |
 | Calder                   | Tragedian's Fabulous Followers       |
 | Stenvar                  | Tragedian's Fabulous Followers       |
-| Tova ShatterShield       | The Ordinary Women                   |
+| Tova Shatter-Shield      | The Ordinary Women                   |
 
 ## Whiterun Hold
 
@@ -604,33 +609,33 @@
 | Bjorlam               | Northbourne NPCs of Whiterun Hold |
 | Rorik                 | Northbourne NPCs of Whiterun Hold |
 | Jouane Manette        | Northbourne NPCs of Whiterun Hold |
-| Reldith               | Northbourne NPCs of Whiterun Hold |
+| Reldith               | Kalilies NPCs                     |
 | Mralki                | Northbourne NPCs of Whiterun Hold |
 | Lemkil                | Beards of Power                   |
 | Anoriath              | Pandorable's NPCs                 |
-| Saffir                | Pandorable's NPCs                 |
-| Carlotta Valentina    | Bijin NPCs                        |
+| Saffir                | DIbella's Blessing - Whiterun     |
+| Carlotta Valentina    | DIbella's Blessing - Whiterun     |
 | Avulstein GrayMane    | Northbourne NPCs of Whiterun Hold |
 | Olfina GrayMane       | Pandorable's NPCs                 |
-| Fralia GrayMane       | Project Cougar                    |
+| Fralia GrayMane       | DIbella's Blessing - Whiterun     |
 | Eorlund GrayMane      | Beards of Power                   |
 | Elrindir              | Pandorable's NPCs                 |
 | Ulfberth WarBear      | Northbourne NPCs of Whiterun Hold |
 | Belethor              | Beards of Power                   |
-| Saadia                | A Rose in the Snow                |
+| Saadia                | Pandorable's NPCs                 |
 | Hulda                 | Northbourne NPCs of Whiterun Hold |
-| Arcadia               | The Ordinary Women                |
+| Arcadia               | Kalilies NPCs                     |
 | Danica PureSpring     | Pandorable's NPCs                 |
 | Brenuin               | Northbourne NPCs of Whiterun Hold |
 | Andurs                | Northbourne NPCs of Whiterun Hold |
 | Amren                 | Northbourne NPCs of Whiterun Hold |
 | Ysolda                | Bijin Wives                       |
 | Heimskr               | Elevated NPCs                     |
-| Olava the Feeble      | Project Cougar                    |
+| Olava the Feeble      | DIbella's Blessing - Whiterun     |
 | Alfhild BattleBorn    | Pandorable's NPCs                 |
 | Jon BattleBorn        | Elevated NPCs                     |
 | Idolaf BattleBorn     | Pandorable's NPCs                 |
-| Bergritte BattleBorn  | A Rose in the Snow                |
+| Bergritte BattleBorn  | DIbella's Blessing - Whiterun     |
 | Olfrid BattleBorn     | Northbourne NPCs of Whiterun Hold |
 | Vignar GrayMane       | Northbourne NPCs of Whiterun Hold |
 | Tilma the Haggard     | Project Cougar                    |
@@ -655,9 +660,9 @@
 | Skjor                 | Pandorable's NPCs                 |
 | Farkas                | BB's The Companions Revised       |
 | Vilkas                | Tragedian's Fabulous Followers    |
-| Aela the Huntress     | The Huntress Reborn               |
+| Aela the Huntress     | DIbella's Blessing - Whiterun     |
 | Athis                 | Tragedian's Fabulous Followers    |
-| Ria                   | Shield Sisters ReImagined         |
+| Ria                   | DIbella's Blessing - Whiterun     |
 | Njada Stonearm        | Pandorable's Shield Sisters       |
 | Torvar                | Tragedian's Fabulous Followers    |
 | Ennis                 | Northbourne NPCs of Whiterun Hold |
@@ -670,8 +675,8 @@
 | Gloth                 | Northbourne NPCs of Whiterun Hold |
 | Orthorn               | Northbourne NPCs of Whiterun Hold |
 | Rissing               | Modpocalypse                      |
-| Ra'kheran             | Modpocalypse                      |
-| J'Kier                | Modpocalypse                      |
+| Ra'kheran             | Project ja-Kha'jay                |
+| J'Kier                | Project ja-Kha'jay                |
 | Eriana                | A Rose in the Snow                |
 | Sabjorn               | Northbourne NPCs of Whiterun Hold |
 | Mallus Maccius        | Northbourne NPCs of Whiterun Hold |
@@ -694,15 +699,16 @@
 | Sinmir                | Modpocalypse                      |
 | Quentin Cipius        | Northbourne NPCs of Whiterun Hold |
 | Hjornskar HeadSmasher | Northbourne NPCs of Whiterun Hold |
-| Uthgerd the Unbroken  | GLAM Uthgerd                      |
+| Uthgerd the Unbroken  | DIbella's Blessing - Whiterun     |
 | Wilmuth               | Northbourne NPCs of Whiterun Hold |
 | Lydia                 | Mare Follower or Lydia Replacer   |
 | Eimar                 | Northbourne NPCs of Whiterun Hold |
-| Jenassa               | Shield Sisters ReImagined         |
+| Jenassa               | Tragedian's Fabulous Followers    |
 | Gerda                 | Pandorable's NPCs                 |
 | Sigurd                | Northbourne NPCs of Whiterun Hold |
 | Fianna                | Pandorable's NPCs                 |
 | Lund                  | Northbourne NPCs of Whiterun Hold |
+| The Caller            | Kalilies NPCs                     |
 
 ## Winterhold
 
@@ -718,10 +724,10 @@
 | Ranmir            | Northbourne NPCs of Winterhold   |
 | Burna             | Pandorable's NPCs                |
 | Korir             | Jarls ReImagined                 |
-| Thaena            | Pandorable's NPCs                |
+| Thaena            | DIbella's Blessing - Winterhold  |
 | Urag groShub      | College of Winterhold ReImagined |
 | Onmund            | Tragedian's Fabulous Followers   |
-| J'zargo           | Tragedian's Fabulous Followers   |
+| J'zargo           | Project ja-Kha'jay               |
 | Brelyna Maryon    | Tragedian's Fabulous Followers   |
 | Faralda           | Pandorable's NPCs                |
 | Drevis Neloren    | Pandorable's NPCs                |
@@ -750,8 +756,8 @@
 | Umana             | Modpocalypse                     |
 | Endrast           | Modpocalypse                     |
 | Yag graGortwog    | Modpocalypse                     |
-| J'zhar            | Modpocalypse                     |
-| J'darr            | Modpocalypse                     |
+| J'zhar            | Project ja-Kha'jay               |
+| J'darr            | Project ja-Kha'jay               |
 | Irlof             | Modpocalypse                     |
 | Alding            | Modpocalypse                     |
 | Gjuk              | Modpocalypse                     |
@@ -762,12 +768,13 @@
 | Badnir            | Northbourne NPCs of Winterhold   |
 | Gunding           | Northbourne NPCs of Winterhold   |
 | Angvid            | Northbourne NPCs of Winterhold   |
+| Birna             | DIbella's Blessing - Winterhold  |
 
 ## Sovngarde
 
 | NPC               | NPC Replacer      |
 |----------------------|-------------------|
-| Gormlaith GoldenHilt | Pandorable's NPCs |
+| Gormlaith GoldenHilt | Kalilies NPCs     |
 | Felldir the Old      | Pandorable's NPCs |
 | Hakon OneEye         | Pandorable's NPCs |
 | Tsun                 | Pandorable's NPCs |
@@ -784,19 +791,19 @@
 
 | NPC               | NPC Replacer      |
 |----------------------|--------------------------------|
-| Dro'marash           | Modpocalypse                   |
-| Zaynabi              | Modpocalypse                   |
-| Ma'dran              | Modpocalypse                   |
+| Dro'marash           | Project ja-Kha'jay             |
+| Zaynabi              | Project ja-Kha'jay             |
+| Ma'dran              | Project ja-Kha'jay             |
 | Kharjo               | Tragedian's Fabulous Followers |
-| Ra'zhinda            | Modpocalypse                   |
-| Ma'jhad              | Modpocalypse                   |
-| Ahkari               | Modpocalypse                   |
-| Ma'randrujo          | Modpocalypse                   |
-| Khayla               | Modpocalypse                   |
-| Atahabh              | Modpocalypse                   |
-| Ri'saad              | Modpocalypse                   |
+| Ra'zhinda            | Project ja-Kha'jay             |
+| Ma'jhad              | Project ja-Kha'jay             |
+| Ahkari               | Project ja-Kha'jay             |
+| Ma'randrujo          | Project ja-Kha'jay             |
+| Khayla               | Project ja-Kha'jay             |
+| Atahabh              | Project ja-Kha'jay             |
+| Ri'saad              | Project ja-Kha'jay             |
 | Talsgar the Wanderer | Modpocalypse                   |
-| M'aiq the Liar       | Modpocalypse                   |
+| M'aiq the Liar       | Project ja-Kha'jay             |
 | Balbus               | Modpocalypse                   |
 
 ## Dawnguard
@@ -804,7 +811,7 @@
 | NPC               | NPC Replacer      |
 |------------------------|--------------------------------|
 | Prelate Sidanyis       | Modpocalypse                   |
-| Serana                 | Serana ReImagined              |
+| Serana                 | Kalilies Serana                |
 | Vingalmo               | Pandorable's NPCs              |
 | Orthjolf               | Pandorable's NPCs              |
 | Rargal Thrallmaster    | Northbourne NPCs of Haarfingar |
@@ -814,7 +821,7 @@
 | Feran Sadri            | Beards of Power                |
 | Ronthil                | Pandorable's NPCs              |
 | Stalf                  | Northbourne NPCs of Haarfingar |
-| Salonia Caelia         | Northbourne NPCs of Haarfingar |
+| Salonia Caelia         | Kalilies NPCs                  |
 | Isran                  | Beards of Power                |
 | Sorine Jurard          | The Ordinary Women             |
 | Gunmar                 | Pandorable's NPCs              |
@@ -829,7 +836,7 @@
 | Malkus                 | Modpocalypse                   |
 | Katria                 | Pandorable's NPCs              |
 | Dexion Evicus          | Northbourne NPCs of Hjaalmarch |
-| Ahlam                  | Modpocalypse                   |
+| Ahlam                  | DIbella's Blessing - Whiterun  |
 | Galathil               | Northbourne NPCs of The Rift   |
 | Thaer                  | Modpocalypse                   |
 | Rogen                  | Modpocalypse                   |
@@ -845,7 +852,7 @@
 | Mogrul                 | Modpocalypse                   |
 | Namasur                | Pandorable's NPCs              |
 | Modhna                 | A Rose in the Snow             |
-| Minorne                | Modpocalypse                   |
+| Minorne                | Kalilies NPCs                  |
 | Taron Dreth            | Modpocalypse                   |
 | Ingjard                | Shield Sisters ReImagined      |
 | Beleval                | Tragedian's Fabulous Followers |
@@ -871,8 +878,8 @@
 | Engar     | Northbourne NPCs of Hjaalmarch     |
 | Markus    | Modpocalypse                       |
 | Llewellyn | Northbourne NPCs of Falkreath Hold |
-| Sonir     | Northbourne NPCs of Hjaalmarch     |
-| Oriella   | Modpocalypse                       |
+| Sonir     | DIbella's Blessing - Morthal       |
+| Oriella   | Kalilies NPCs                      |
 
 ## Dragonborn
 
@@ -885,7 +892,7 @@
 | Drovas Relvi             | Modpocalypse                   |
 | Varona Nelas             | A Rose in the Snow             |
 | Ulves Romoran            | Modpocalypse                   |
-| Frea                     | Shield Sisters ReImagined      |
+| Frea                     | Pandorable's NPCs              |
 | Storn CragStrider        | Pandorable's NPCs              |
 | Ralis Sedarys            | Tragedian's Fabulous Followers |
 | Miraak                   | Modpocalypse                   |
@@ -931,7 +938,7 @@
 | Halbarn IronFur          | Pandorable's NPCs              |
 | General Falx Carius      | Modpocalypse                   |
 | Savos Rendas             | Modpocalypse                   |
-| Merilar Rendas           | Modpocalypse                   |
+| Merilar Rendas           | Kalilies NPCs                  |
 | Ancarion                 | Pandorable's NPCs              |
 | Hrothmund                | Modpocalypse                   |
 | Majni                    | Pandorable's NPCs              |
@@ -942,7 +949,7 @@
 | Bradyn                   | Modpocalypse                   |
 | Mireli                   | Modpocalypse                   |
 | Benkum                   | Modpocalypse                   |
-| Liesl                    | Modpocalypse                   |
+| Liesl                    | Kalilies NPCs                  |
 | Palevius Lex             | Modpocalypse                   |
 | Niyya                    | Pandorable's NPCs              |
 | Ebony Warrior            | Modpocalypse                   |
@@ -965,12 +972,13 @@
 | Meden Maren              | Modpocalypse                   |
 | Tolenos Omoren           | Modpocalypse                   |
 | Eydis                    | Modpocalypse                   |
+| Alphia Velothi           | Kalilies NPCs                  |
 
 ## Added Followers
 
 | NPC               | NPC Replacer      |
 |--------|-----------------------------------------|
-| Kaidan | Eeekie's Even Better Kaidan (Long Hair) |
+| Kaidan | Kaidan Silvered                         |
 | Auri   | Auri Lenka Replacer + Sharp Teeth Addon |
-| Lucien | Lucien Replacer - Ella's Version        |
-| Mirai  | Pandorable's Mirai Replacer             |
+| Lucien | Lucien NPC Overhaul                     |
+| Remiel | The Practical Dwemechanic               |
