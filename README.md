@@ -306,7 +306,7 @@ Due to requests, Arisen now offers the ability for the user to remove nudity and
         - You may also want to choose whether or not your character is the Dragonborn; and if they are not, whether or not they are able to use shouts.
      - Once you are finished choosing your options for the Alternate Start you desire, hit **Enter** again and choose **Continue**.
  - Read over the Control map.
-![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen-standard-keybinds%20(1).png)
+![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen%20Standard%20Keybinds%201.4.png)
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/Arisen_Gamepad_Keymap.png)
 
 ### In-Game MCM options
