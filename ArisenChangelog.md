@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.4.0](#140)
 - [1.3.1.3](#1313)
 - [1.3.1.2](#1312)
 - [1.3.1.1](#1311)
@@ -7,6 +8,272 @@
 - [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.4.0
+
+### Updated
+
+ - Goetia Animations - Sneak Magic
+ - Conduit - Short-term Weapon Infusions
+ - Bodyslide Output
+ - Lux
+ - Lux Orbis Misc. Patches
+ - Assorted mesh fixes
+ - Legacy of the Dragonborn (Patches)
+ - Inferno - Fire Effects Redux
+ - Arctic - Frost Effects Redux
+ - ElSopa - HD Iron Tools Redone SE
+ - Serana Dialogue Add-On
+ - Serana Dialogue Add-On Patch Hub
+ - Wait I know You - Forcegreet Tweak
+ - Conditional Expressions Extended
+ - LodGen
+ - Grass Resources
+ - TexGen
+ - DynDOLOD
+ - BodySlide Output
+ - Arisen RaceMenu Presets
+ - Deathbrand - My Version
+ - Sharpen Other Swords II
+ - Reliquary of Myth
+ - Praedy's Staves AIO Patch Hub
+ - Thaumaturgy
+ - Navigator - Navmesh Fixes
+ - SCAR
+ - Daedric Shrines - Namira Navmeshed SE
+ - FSMP - Faster HDT-SMP
+ - Precision Creatures
+ - Better Jumping
+ - Infinity UI
+ - Compass Navigation Overhaul
+ - Dragon War - A Dragon Overhaul
+ - SamsyTheUnicorn's High Poly Character Compendium - Chapter Two
+
+### Added
+
+ - NPC AI Process Position Fix - NG
+ - Daedric Shrines - Malacath
+ - Smart NPC Potions
+ - Smart NPC Potions - Enemies Use Potions and Poisons - Settings Loader
+ - For Honor in Skyrim I Nobushi
+ - FYX - RavenRock Docks and Fences Round Posts
+ - Know Your Enemy Redux
+ - Know Your Enemy Redux - Armors
+ - Know Your Enemy Redux - Expansion Patches
+ - Wintersun Bosmeri Y'ffre
+ - Kaidan 2 Revamped Armor Meshes and textures Vanilla and HIMBO
+ - Iconic's Falmer Rosetta Stone
+ - Lunar Guard Armor (I distributed this in a semi low effort way for the time being)
+ - Pronouns
+ - Swiftly Order Squad - Follower Commands UI
+ - Simply Order Summons
+ - Simple Follower Extension
+ - Party Damage Control SSE
+ - Disable Follower Collision
+ - Adamant Smithing Addon
+ - Daedric Lord Armor Retexture SE
+ - Xelzaz
+ - Nebarra
+ - Khash
+ - Remiel
+ - ENB Light - 0.95 RC2 Patch
+ - Misc Effects ENB Light - ElSopa Quivers Redone
+ - Sharpen Other Swords - Better-Shaped Weapons
+ - Constellations
+ - Phylogeny - Races of Tamriel
+ - Project ja-Kha'jay- Khajiit NPC Diversity Overhaul
+ - Project ja-Kha'jay- Interesting NPCs Khajiit Addon
+ - Arcane Accessories - Rebalance Patch
+ - After the Civil War - Siege Damage Repairs
+ - Sacrilege
+ - Growl
+ - Cover Your Head - Sacrilege
+ - Bow Rapid Combo
+ - SNIFF Simple No Internal Friendly Fire
+ - Sacrosanct and Sacrilege - Skeleton Replacer HD Patch
+ - Sacrilege - Wintersun
+ - JS Emissive Eyes SE - Skeleton Replacer HD Patch
+ - Skyrim SafeSave System Overhaul 2
+ - True Storms SE No Fog
+ - banished Knight
+ - ER Royal Greatsword
+ - ER Black Knife & Godslayer's Greatsword
+ - ER Heavy Rapier
+ - Mjolnir
+ - DUMMY THICC - Wispmommy SE *(blame certain individuals in the server for wanting this)*
+ - DUMMY THICC - Flame Atronach SE *(blame certain individuals in the server for wanting this)*
+ - Fashions of the Huntsmen
+ - Dragonborn - Shouts Perk Tree
+ - XPMSSE Spazzing Skeleton Fix
+ - Stones of Solitude - Majestic Mountains Rocks
+ - Fashions of the Huntsmen - Reintegration for Open World Loot
+ - VIGILANT - Enb light chest Fix
+ - Custom Skills Menu - A Custom Skills Framework Unified Menu
+ - Custom Skill Menu Basic Icon Pack
+ - Blursed Arisen RaceMenu Presets
+ - Custom Skills Menu NORDIC UI Patch
+ - Custom Skills - VIGILANT
+ - Custom Skills - GLENMORIL
+ - Custom Skills - VIGILANT - English Translation
+ - Custom Skills - GLENMORIL - English Translation
+ - Normal Arisen RaceMenu Presets
+ - Briarheart Fix for HIMBO with USSEP
+ - PB's Slightly Thicc 0-100 3ba Body
+ - SamsyTheUnicorn's Bodies of Nirn - Built to Destroy
+ - Natural and Realistic Bodies
+ - Apocalypse - Balance Patch
+ - Print F
+ - Fenix Stamina Overhaul
+ - SCAR - Stamina Limitation Patch
+ - Particle Lights for ENB - Light Orbs - Motes
+ - Particle Lights for ENB - Falmer Drips
+ - Skyshards
+ - Skyshards - ENB Addon
+ - Skyshard Full LOD
+ - Radiant Quests Point System
+ - RQPS - Missives
+ - RQPS - Missives Solstheim
+ - RQPS - Penitus Oculatus
+ - RQPS - Vigilant, Glenmoril, Unslaad
+ - Quests Award Perk Points
+ - QAPP - Vigilant
+ - Potion of Obtainable Progress
+ - Smart Training Tweaked
+ - Happy Little Trees
+ - Happy Little Trees 3D LOD
+ - Aspens Ablaze
+ - Aspens Ablaze Add-On - DynDOLOD 3
+ - Skyrim's Paraglider - Tarhiel's Gale Cooldown
+ - Elden Rim - Weapon Arts 1.9.9.83 (MCO)  
+    - We do not actually use this mod, but we use some assets from it for our own Special Attack/Ashes of War implementation.
+ - Hype's Farmhouse Door SE
+ - Epic Doors of Whiterun SE
+ - Infinite Dragon Variants
+ - Happy Little Logs
+ - Elder Creed - Blade
+
+### Removed
+
+ - NPC AI Process Position Fix - SSE  
+    - Reason: Redundant.  
+ - NPCs Use Potions  
+    - Reason: Caused crash issues with ZUPA.  
+ - Kinnari Armor  
+    - Reason: Armor didn't really fit well thematically and I didn't have a good idea of how to implement it.  
+ - Fists of Fury  
+    - Reason: For some reason Maul's dialogue would never trigger the progression of the quest. Unfortunately this wasn't something I was able to find or develop a fix for, so the mod was cut.  
+ - Know Your Enemy  
+    - Reason: Using the original KYE mod + Synthesis Patcher is a much less clean implementation than the newer Redux versions and was a mistaken choice in early development because I just chose what mod I had used in the past. Swapping to the SPID version should be more user friendly and less prone to compatability errors.    
+ - Nether's Follower Framework  
+    - Reason: N/A  
+ - Mirai  
+    - Reason: Decided I didn't like this follower that much and no one was using her.  
+ - Gray Cowl of Nocturnal  
+    - Reason: [I Love Democracy](https://discord.com/channels/1008047161281347606/1009605729939894343/1022166433276379257).  
+ - Duncan's Grey Cowl Paper Maps for FWMF  
+    - Reason: GCoN Depedency.  
+ - Aetherius  
+    - Reason: Didn't require this mod as a dependency for the new Race changes.  
+ - Serana Dialogue Edit - Skyrim Special Edition  
+    - Reason: SDA Update.  
+ - Post Hit Killmoves  
+    - Reason: Unnecessary mod.  
+ - CatHub
+    - Reason: Unnecessary mod.
+ - Volumetric Mists  
+    - Reason: Swapped mist mods.  
+ - Scion  
+    - Reason: Read Dev Notes.  
+ - Manbeast  
+    - Reason: Read Dev Notes.  
+ - Cover Your Head - Scion  
+    - Reason: Scion Dependency.  
+ - Archery Gameplay Overhaul  
+    - Reason: Bad mod.  
+ - Archery Gameplay Overhaul - Settings Loader  
+    - Reason: AGO Dependency.  
+ - Skyrim Search  
+    - Reason: Dev tool that user had no use for and it caused issues with starting up the game for some.  
+ - LOTD Wintersun Patch  
+    - Reason: Primarily did this to see if it has any positive or negative effect on the stuck script issue that some people experience. *(note that this is just a disabled `.esp`, it's still actually in the list if you want to enable it yourself, but if you post about the script getting stuck I will temp ban you)*  
+ - A lot of bodyslide presets
+    - Reason: I wanted to take a different approach and redo morph.ini stuff for autobody because I felt some of the presets felt out of place in the list. Due to what I did, adding bodyslides is no longer plug and play, so please read the [How to add a bodyslide](https://github.com/aljoxo/Arisen#q-how-do-i-add-a-bodyslide-to-the-list) section of the readme.  
+ - Myrkvior - The Flora of Skyrim - Trees
+    - Reason: Read Dev Notes.
+ - Morekvior
+    - Reason: Read Dev Notes. 
+ - Morekvior 3D Hybrid LOD
+    - Reason: Read Dev Notes. 
+ - Myrkvior 3D Hybrid LOD
+    - Reason: Read Dev Notes. 
+ - TFoS Aspens RAT
+    - Reason: Read Dev Notes. 
+ - TFoS Large Juniper Trees in the Reach
+    - Reason: Read Dev Notes. 
+
+### Dev Notes
+
+ - This is probably the largest content update you will ever see in the list. :)
+ - New mechanic [Special Attacks](https://github.com/aljoxo/Arisen/blob/main/Documentation/Special%20Attacks%20Wiki.md).
+ - ENB was entirely rebuilt due to Dragen's new version and the Lux update. The overall atmosphere and tone should be the same.    
+ - Massive overhaul for handplaced loot, including vanilla and unique items.  
+ - Massive Overhaul to Standing Stones and Races.
+ - Due to [popular demand](https://discord.com/channels/1008047161281347606/1009605729939894343/1021903514168999976), Sacrilege and Growl were added back to the list. Scion and Manbeast were removed.
+ - Fixed an issue where Vampiric Drain was resisted by all NPCs. (if this issue still persists with Sacrilege please share in #bug-reports, it should be fixed now)
+ - Minor perk tweaks and balancing.
+ - Serana was nerfed *slightly*.
+ - Changed MCM Setup and balancing.
+ - Increased Creature Max Poise health by 50%.
+ - Nerfed Ancano's Magicka.
+ - Buffed Minimum Level on a lot of bosses.
+ - Another Ultrawide fix....hopefully this is the last one I need for Nordic.
+ - Fixed Dunmer Scars not showing correctly in RaceMenu.
+ - Fixed Blocky Flames effects.
+ - Fixed black texture from frost spells impacting with solid objects.
+ - Fixed purple vale sabre cat pups.  
+ - Redid Tree Setup (Swapped from Myrkvior to new HLT Update)
+ - Edited Ebony Mail model to show less skin.
+ - Balanced certain weapons and armor.
+ - Apocalypse was reduced and the way in which spells were distributed in the world was redone.
+ - Fixed Nordic Carved Armor and Weapons.
+ - Nerfed CC Fishing Rings.
+ - Rebalanced added Followers to try and bring them more in line with the player and other NPCs. Lucien was not affected.
+ - New enchants for certain unique armors and weapons.
+ - ZUPA crashes should be resolved now.
+ - Fixed issue with enemies randomly dodging.
+ - Reworked Player Movement DAR structure.
+ - Reworked Attack movesets for player and NPCs.
+ - Nerfed first power attack animation on Mace as 3 hit combo for 1 input (not even needing to be chained) was too strong.
+ - Fixed the pre-hit frame on Maces so they will actually consume stamina on light attacks.  
+ - New Sword and Shield moveset. Mace and Axe now use a separate moveset from Sword. (Please give feedback on this one if you played older versions of the list)  
+ - New Battleaxe moveset.  
+ - New Sword moveset.  
+ - Sped up one of the "Artifact" movesets so it felt better to play.  
+ - New Elden Parry Sound fx and Stagger Animations.  
+ - Doubled Creature Poise to try and compensate for enemies being staggerlocked too easily.  
+ - Tweaked Skill Curve.  
+    - Was base cap of 60, increasing by 2 per level with no racial caps. Now base cap of 20, increasing by 2 per level with racial caps.  
+ - Minor tweaks to the Experience gains.
+ - Overhauled Progression System. [Democracy wins once again!](https://discord.com/channels/1008047161281347606/1009605729939894343/1025410960426549319)
+ - Fixed Thu'um animations not playing correctly.  
+ - More BURP CR.  
+ - Lots of Conflict resolution for enchantments.  
+ - (Should have) Fixed an issue with Serana paralyzing the player on rare occasions.   
+ - Lowered some sounds that were too loud. (including Meridia's Voice)  
+ - Awoken Draugr now wander the halls of the ancient Nordic tombs.  
+ - ESL'd `AdamantTalos.esp`, `AdamantSmithing.esp`, and `RealBossesLight.esp`.  
+ - NPC Replacers were Overhauled.  
+ - Redid BodySlide and AutoBody setup.
+ - Fixed issue with male Bodyslide presets not applying to nude males.
+ - Reran Nemesis.  
+ - Reran LodGen.  
+ - Rebuilt Grass Cache.  
+ - Reran TexGen.  
+ - Reran DynDOLOD.  
+ - Reorganized Synthesis patchers.  
+ - Reran Synthesis.  
+ - MO2 Separator Reorganization
+ - **This update is ABSOLUTELY NOT, UNDER ANY CIRCUMSTANCE, save safe with previous versions.**  
 
 ## 1.3.1.3
 
