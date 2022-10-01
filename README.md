@@ -443,7 +443,7 @@ Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Ylikollikas for doing the lion's share of the animation work on this project. Without his assistance and feedback, this list would be nowhere near as advanced as it currently is animations and combat wise.
+- Ylikollikas for doing the vast majority of the back end work on animations and the Special Attacks system.
 - Curly for allowing me to use his graphical baseline as the core of my list.
 - Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you're looking for a VR list).
