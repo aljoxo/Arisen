@@ -151,6 +151,7 @@
  - Infinite Dragon Variants
  - Happy Little Logs
  - Elder Creed - Blade
+ - Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
 
 ### Removed
 
