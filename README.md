@@ -179,9 +179,9 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [Olivier Kenjutsu Sword 1.1](https://drive.google.com/file/d/1A8ZQrzA675l1PcDJEOVe3j7rjcnHvp9q)
 - [OCPA 1.2](https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc)
 - [Tullfx Bloodstorm](https://drive.google.com/file/d/1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA)
-- [dint BDOR Hair pack](https://drive.google.com/file/d/16cEFQinG9utc-P5LvOJ3SFtOpfbX24M2)
 - [ADXP/SCAR Sneak Fix](https://drive.google.com/file/d/14WLQgjMaExudmcExtXUAfESc0eV_8k6N)
 - [Cosmofujia's EldenRing Spears](https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX)
+- [Cosmofujia's ER Black Knife & Godslayer's Greatsword](https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP)
 
 Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
 - [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
