@@ -60,7 +60,7 @@
 
 Arisen is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a tweaked Simonrim setup of mods to offer balanced and interesting paths of progression for the player, tuned finely to ensure compatibility with the aforementioned combat core. The list also has many hand-placed weapons and armor to maintain a fresh experience and sense of wonder while exploring.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/apotheosis).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/arisen-wabbajack).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
