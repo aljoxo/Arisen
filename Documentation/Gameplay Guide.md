@@ -189,8 +189,6 @@ When it comes to loot, boss chests are not what you should be primarily focusing
 
 ## Gameplay - Aljo's Extended Cut
 
-### Races
-
 ### Standing Stones
 
 While checking out the [Constellations](https://www.nexusmods.com/skyrimspecialedition/mods/43763) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) mod pages can give a fairly good idea as to what the standing stones do, here are the actual effects for when they are not well communicated in game.
