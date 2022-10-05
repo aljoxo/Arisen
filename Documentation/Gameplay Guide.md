@@ -77,7 +77,7 @@ Enemies have been drastically improved in Arisen to try and create a more engagi
 Arisen seeks to provide the player with lightweight systems from which to build their character off of, while this can be argued to detract from some of the RPG elements, it helps maintain the approach to balance that the list has.
  - [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) and the [Hand to Hand](https://www.nexusmods.com/skyrimspecialedition/mods/59790) addon for the perk trees. Perks have been tweaked to ensure they meld better with the rest of the gameplay in the list.
  - [Phylogeny](https://www.nexusmods.com/skyrimspecialedition/mods/44371) is the race mod of choice for the list.
- - A mashup of [Constellations](https://www.nexusmods.com/skyrimspecialedition/mods/43763) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) provide the standing stone buffs.  
+ - A mashup of [Constellations](https://www.nexusmods.com/skyrimspecialedition/mods/43763) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) provide the standing stone buffs. For more information see the [Standing Stones](LINK) section.  
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul Vampires and Werewolves.
  - [Forceful Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/36276), [Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/41950), [Sil Gahrot](https://www.nexusmods.com/skyrimspecialedition/mods/52007), and [True Teacher Durnehviir](https://www.nexusmods.com/skyrimspecialedition/mods/44969) improve the progression and learning of Shouts.
  - [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) provides the player a new gold sink and a way to improve their gear without over investing into crafting trees.
@@ -186,3 +186,36 @@ Now that that is out of the way, let's talk about loot.
  - On top of Open World Loot, I have handplaced a significant amount of "generic" and "unique" items, similar to MorrowLoot (for those who are familiar). This does mean that it is possible to get very strong loot very early on for those with the knowledge and will to seek them out.  
 
 When it comes to loot, boss chests are not what you should be primarily focusing on when trying to look for upgrades, the vast majority of Higher Tier items shall be found in the game world by way of hand placements or by way of quests. Unique items and Artifacts *should* be stronger than anything the player can enchant, outside of niche scenarios in which an enchanted item can be made for a very specific purpose. I have very little intention of changing the way loot is handled in the list, at least for the time being.  
+
+## Gameplay - Aljo's Extended Cut
+
+### Races
+
+### Standing Stones
+
+While checking out the [Constellations](https://www.nexusmods.com/skyrimspecialedition/mods/43763) and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) mod pages can give a fairly good idea as to what the standing stones do, here are the actual effects for when they are not well communicated in game.
+
+#### Mage Signs
+
+ - **The Apprentice Stone**: Magicka regenerates **100%** faster and Novice and Apprentice spells cost **50%** less Magicka. Magic Resistance is decreased by **50%**.
+ - **The Atronach Stone**: All Spells cost **25%** less Magicka and you have **25%** increased Spell Absorbtion. You can not regenerate Magicka in combat. 
+ - **The Mage Stone**: Magicka is increased by **50** points and spells are more effective and last longer when cast above **50%** Magicka.
+ - **The Ritual Stone**: Spells cast from Scrolls and Staves are **200%** stronger. Spells cast outside of combat are **50%** stronger and last **50%** longer. Spells cast in combat require **25%** more Magicka.
+
+#### Thief Signs
+
+ - **The Lover Stone**: Stamina regenerates **100%** faster and you take **25%** less damage from power attacks. Take **50%** more damage from unblocked light attacks. 
+ - **The Shadow Stone**: Sneaking is **25%** more effective and sneak attacks and spells cast while undetected deal **25%** more damage. When exposed to light, armor rating is decreased by **100** points. 
+ - **The Thief Stone**: Stamina is increased by **50** points and attacks deal **10 to 20** less damage while Stamina is above **50%**.
+ - **The Tower Stone**: Lockpicking and Pickpocketing are **25%** easier and you can detect the movement of others while sneaking and not moving. When Stamina is below **50%**, blocking is **50%** less effective.
+
+#### Warrior Signs
+
+ - **The Lady Stone**: Health regeneration is increased by **100%** and Armor is increased by **50** points. All attacks deal **25%** less damage.
+ - **The Lord Stone**: Magic, Poison, and Disease Resistance is increased by **25%** and Power Attacks deal **25%** more damage. Power Attacks cost **50%** more stamina.
+ - **The Steed Stone**: Carry Weight is increased by **100** points and Sprinting is **25%** faster. Health, Magicka, and Stamina regenerate **10%** slower.
+ - **The Warrior Stone**: Health is increased by **50** points and physical attacks deal more damage while above **50%** Health.
+
+#### Unaffiliated
+
+ - **The Serpent Stone**: Poison Resistance is increased by **50%**, potions last **50%** longer, and poisons last for an additional hit. Reflect **10%** of melee damage.
