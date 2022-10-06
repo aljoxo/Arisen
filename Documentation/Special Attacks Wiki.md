@@ -30,8 +30,7 @@ Here is a basic wiki page explaining what the special attack mechanics actually 
 
 ## How to Use
 
-(Copy Pasted from the [Gameplay Guide](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md)).  
-Special Attacks are activated pressing a modifer key and the Power Attack keybind. Special Attacks cost **magicka** and **stamina**, and the amount varies by the specific attack, to learn more about specific attacks check out the documentation [here](LINK) (putting it on a different page cause there are spoilers on it).  
+Special Attacks are activated pressing a modifer key and the Power Attack keybind. Special Attacks cost **magicka** and **stamina**, and the amount varies by the specific attack. 
  - The modifier key can be changed in the `Ashes of War.ini` found in the `[Path to Modlist]\mods\!!! Ashes of War !!!\SKSE\plugins\dtryKeyUtil\config\custom` folder. By default, the modifier key is set to `L CTRL` for Keyboards and `A` for Gamepads.  
      - **DO NOT SET THE MODIFIER KEY TO BE THE SAME AS YOUR SPRINT KEY**.  
 
