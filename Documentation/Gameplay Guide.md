@@ -30,12 +30,16 @@ Press `Enter` to start character generation and to get the popup box if you want
 You will quickly notice that Arisen is not the Skyrim that you once knew, and in conjunction with the frameworks above, many mods are used to improve upon the Combat experience.
  - [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) is the main combat mod of the list and is responsible for features like timed blocking, projectile parrying, the stamina management system, and much more. Many of these features can be tweaked via the MCM menu.
      - **Key mechanics to note**:  
-         - **Exhaustion** is a new system in Valhalla, however it is **disabled** in this list due to balance and AI issues it can cause. Successful light attacks regenertate stamina, light attacks that fail to hit an actor will instead **drain** stamina.  
+         - Valhalla's Stamina system is **disabled** in Arisen due to balancing issues.  
          - Blocking now costs Stamina, once an actor's Stamina is depleted, blocking will cost Health.  
          - Blocking Projectiles (Spells & Arrows) costs Magicka, once an actor's Magicka is depleted, blocking projectiles will cost Health.  
          - **Timed Blocks** can be achieved by pressing the block button within 0.3 seconds of being hit, timed blocks consume half as much stamina as normal blocks.  
          - **Perfect Timed Blocks** can be achieved by pressing the block button within 0.15 seconds of being hit, perfect timed blocks will fully refill your stamina bar and stagger the attacker.  
          - **Tackle** can be performed by pressing the block button during a Power Attack animation, tackle will grant 0.2 seconds of invulnerability after activated.  
+ - [Fenix Stamina Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/50502) is the framework used to modify Stamina costs.  
+     - Light attacks and power attacks now BOTH cost stamina. The Stamina cost is primarily dependent on weapon weight.  
+     - Stamina costs decrease as you become more proficient in your weapon skill.  
+     - Stamina regeneration is very high, both in and out of combat.  
  - [Elden Parry](https://www.nexusmods.com/skyrimspecialedition/mods/70240) allows you to parry attacks by pre-emptively bashing an enemy before they hit you. Light bashes will also no longer deal any damage or stagger your opponents, but they do cost stamina as they act as failed parries.
  - [POISE](https://www.nexusmods.com/skyrimspecialedition/mods/72653) and [Poisebreaker](https://www.nexusmods.com/skyrimspecialedition/mods/74032) combine to cover the core of the stagger and knockback system within the list. 
  - [Block Enchantments](https://www.nexusmods.com/skyrimspecialedition/mods/60833) and [Paulicus Poison Block](https://www.nexusmods.com/skyrimspecialedition/mods/51046) will improve the blocking experience by allowing the player (and NPCs) to block previously unblockable effects.
@@ -188,6 +192,8 @@ Now that that is out of the way, let's talk about loot.
 When it comes to loot, boss chests are not what you should be primarily focusing on when trying to look for upgrades, the vast majority of Higher Tier items shall be found in the game world by way of hand placements or by way of quests. Unique items and Artifacts *should* be stronger than anything the player can enchant, outside of niche scenarios in which an enchanted item can be made for a very specific purpose. I have very little intention of changing the way loot is handled in the list, at least for the time being.  
 
 ## Gameplay - Aljo's Extended Cut
+
+### Races
 
 ### Standing Stones
 
