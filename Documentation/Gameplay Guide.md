@@ -51,7 +51,7 @@ You will quickly notice that Arisen is not the Skyrim that you once knew, and in
 
 ### Special Attacks
 
-Special Attacks, inspired by Elden Ring's [Ashes of War](https://eldenring.wiki.fextralife.com/Ashes+of+War) are a system UNIQUE to Arisen and were developed in house. It's still a work in progress development, however as of **Version 1.4.0** they will be implemented into the list and gradually expanded upon. Special Attacks are activated pressing a modifer key and the Power Attack keybind.  
+Special Attacks, inspired by Elden Ring's [Ashes of War](https://eldenring.wiki.fextralife.com/Ashes+of+War) are a system UNIQUE to Arisen and were developed in house. It's still a work in progress development, however as of **Version 1.4.0** they will be implemented into the list and gradually expanded upon. Special Attacks are activated pressing a modifer key and the Power Attack keybind. For more information check out the Special Attacks Wiki [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Special%20Attacks%20Wiki.md).  
  - The modifier key can be changed in the `Ashes of War.ini` found in the `[Path to Modlist]\mods\!!! Ashes of War !!!\SKSE\plugins\dtryKeyUtil\config\custom` folder. By default, the modifier key is set to `L CTRL` for Keyboards and `A` for Gamepads.  
      - **DO NOT SET THE MODIFIER KEY TO BE THE SAME AS YOUR SPRINT KEY**.  
  - The default power attack key is stated in multiple places on the ReadMe and in this guide, as well as being visible on the controlmap image.
