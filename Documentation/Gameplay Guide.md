@@ -46,7 +46,6 @@ You will quickly notice that Arisen is not the Skyrim that you once knew, and in
  - [Action Based Projectiles](https://www.nexusmods.com/skyrimspecialedition/mods/54611) and my personal tweaks will make spells and arrows feel more balanced and dodgeable. Allowing for more interesting gameplay.
  - [Rapid Bow Combo](https://www.nexusmods.com/skyrimspecialedition/mods/65461) and [Bow Charge Plus](https://www.nexusmods.com/skyrimspecialedition/mods/59124) seek to provide some new gameplay benefits for Archery and Marksmanship focused gameplay. You can learn more about these mods on their mod pages.
  - [Conduit](https://www.nexusmods.com/skyrimspecialedition/mods/58023) allows you to temporarily infuse your weapon, granting a clean interaction between spell and blade.
- - [Thu'um](https://www.nexusmods.com/skyrimspecialedition/mods/50559) implements attack commitment and unique animations for shouts. The animations for Thu'um can be toggled on and off by pressing `R ALT`, I highly suggest they are left on.  
  - [ZUPA](https://www.nexusmods.com/skyrimspecialedition/mods/45182) and [Smart Optimal Salves](https://www.nexusmods.com/skyrimspecialedition/mods/42402) improve potion gameplay by adding animations for drinking potions (for both player and npc) and providing an easy keybind, changeable via MCM. (Default: `F`)
 
 ### Special Attacks
