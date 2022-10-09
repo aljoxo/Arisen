@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.4.1](#141)
 - [1.4.0](#140)
 - [1.3.1.3](#1313)
 - [1.3.1.2](#1312)
@@ -8,6 +9,94 @@
 - [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.4.1
+
+### Updated
+
+ - Phylogeny - Races of Tamriel
+ - SSE Engine Fixes
+ - Hype's Farmhouse Door
+ - Inconvenient Dungeons
+ - Draugr One-handed Animation (DAR)
+
+### Added
+
+ - Goetia Animations - Conditional Shouts
+ - Goetia Animations - Momentum Whirlwind Sprint
+ - ADXP I MCO ER Mixed Scythe (SCAR)
+ - Scythe Sword Moveset for MCO
+ - Saw Cleaver (MCO)
+ - chikage (MCO)
+ - Simple Offence Suppression
+ - Simple Offence Suppression MCM - Block Friendly Fire
+ - Divine Crusader - Crime is Justified
+ - Simple Bedrolls
+
+### Removed
+
+ - Thu'um
+    - Reason: Thu'um had some issues on the behavioral side and since I can't babysit every user it made more sense to swap to Goetia's DAR version in order to make up shouts didn't use vanilla animations.
+ - Simple No Internal Friendly Fire
+    - Reason: Believe this to be the cause of the "invulnerable enemy" bug, so swapping it out for SOS to see if the issue continues to occur.
+ - Smooth Random Magic idle Animation
+    - Reason: Caused issues with experimental magic animation tweaks and cuts down DAR Cache time.
+
+### Dev Notes
+
+ - New Special Attacks, including ones for Dawnbreaker and Volendrung. Reworked Twinblade/Quarterstaff special attack.
+ - Experimental changes for Mage Gameplay. Movement speed when casting is now slowed and added psuedo-attack commitment to casting.
+ - Experimental Combat Style tweaks to hopefully see certain enemies stop spamming power attacks.
+ - REMOVED 1 HANDED TWINBLADES BECAUSE PEOPLE WOULDN'T STOP ADDING THEM IN CONSOLE AND GIVING FALSE BUG REPORTS.
+ - Fixed some keywords that allowed unique handplacements to be disenchanted.
+ - Fixed incorrect female walk/run.
+ - Fixed shortspear movement and equip animations.
+ - Fixed Glaive keywords (idek how many glaives are in the list but fixed it anyways).
+ - Updated Bloated Mans Grotto lighting.
+ - Fixed Compass Navigation Overhaul ini file.
+ - Fixed were vampire transformation being invisible (Vigilant).
+ - Balance Tweaks to Vigilant rewards.
+ - Minor edits to generic handplacements.
+ - Fixed Imperials and Bosmer being constantly told they have Dangerous Magic. 
+ - Fixed Karliah's missing textures.
+ - Forwarded some Lux records.
+ - Nerfed some enchants that were on easily acquired/early game gear that fell outside of acceptable bounds.
+ - Slightly increased the magicka cost and tome price of **Ocato's Recital**.
+ - Cleaned up Silver Hand inventories a bit.
+ - Werewolves now have a 25% weakness to poison.
+ - Fixed poison cloak incorrectly scaling with perks.
+ - Added some new hints to Belethor's list. Also improved the visuals of the notes.
+ - Made additional pieces on armor that weren't in core slots unenchantable.
+ - Fixed the spawning on a unique handplacement.
+ - Nerfed Follower of Arkay bonus (Wintersun) from "up to 5% max hp per second based on missing health" to "up to 3% max hp per second based on missing health".
+ - Made torches brighter (again).
+ - Added Hidden Helmet to be used with Skyrim Outfit System since it was previously a component of NFF.
+ - Reduced value on Steel and Silverthorn weapons to match their new stats.
+ - New Battleaxe and Scythe animations.
+ - Giant Hunt (Special Attack) is now faster with a short dash.
+ - Stamina costs for **ALL** Special Attacks have been increased.
+ - Rebalanced magicka costs for **ALL** Special Attacks.
+ - Tweaked 2H Katana moveset.
+ - Fixed missing images in books.
+ - Fixed dynamic things alternative blood potion. Fixed Sacrilege Potion of Thaumaturgy.
+ - Fixed incorrect forwarding of Breton racial.
+ - Fixed Standing Stone descriptions.
+ - Fixed error on increased duration to spells provided by the Mage Stone.
+ - Fixed error with spells scaling improperly with the Ritual Stone.
+ - Fixed Volendrung tooltip.
+ - Fixed some keywords on certain weapons and armor.
+ - Fixed texture mismatch for vampires.
+ - *Potentially* Fixed sprint draw/sheath bug.
+ - *Potentially* Fixed candle light/lighting bug around the feet when wearing certain armors.
+ - *Potentially* Fixed the weather transition that sometimes occurred in dungeons, causing a weird lightning bug.
+ - After many complaints, drastically reduced the requirements for the Companion's questline.
+ - Improved VIGILANT's Menta Na boss fight.
+ - Perk tweaking for power attacks and certain armor perks.
+ - Rebuilt Nemesis.
+ - Reran Synthesis2.
+ - **IN ORDER TO GET THE SKILL MENU TO POP UP YOU MUST SLEEP NOW, IT NO LONGER SHOWS UP AFTER LEVELING UP. YOU CAN ALSO NOW CRAFT A PORTABLE BEDROLL AT TANNING RACKS.**
+ - **Not save safe if you play a Bosmer or Imperial (as per instruction from Phylogeny author, you're free to try to continue your save but I won't offer you support if it dies), but should be fine for everyone else.**
+ - **I suggest those continuing an existing save to run their save through resaver.**
 
 ## 1.4.0
 
