@@ -11,7 +11,7 @@ Before reading this guide, please follow the [readme](https://github.com/aljoxo/
 ### Skryim Unbound Reborn
 > *So you are the one the tides of fate carried here to stop this trangression.*
 
-Press `Enter` to start character generation and to get the popup box if you want to "Swap Gear" or choose to "Stay Here" after creating your character. On top of the chest to your left there will be a free Vanity Mirror, it is suggested that you pick it up before leaving if you wish to customize your character at any point during your playthrough (if you miss it here, then it can be crafted at a tanning rack later).
+Press `Enter` to start character generation and to get the popup box if you want to "Swap Gear" or choose to "Stay Here" after creating your character. On top of the chest to your left there will be a free Vanity Mirror, it is suggested that you pick it up before leaving if you wish to customize your character at any point during your playthrough (if you miss it here, then it can be crafted at a tanning rack later). **If you want to customize the MCM menus you must choose "Stay Here" after completing character creation.**
 
 ## Gameplay - Combat
 > *One of you must fall. Let it be your opponent.*
@@ -152,10 +152,10 @@ Arisen's "ideal" content progression is outlined in the ReadMe [here](https://gi
  - [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) and [Headhunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) overhauls the bounty system and adds onto the radiant questing system.
  - [Cheesemod](https://www.nexusmods.com/skyrimspecialedition/mods/36506), because who doesn't love some fine cheese?
 
-### Followers and NPCs
+### New Followers and NPCs
 
 What good is a world without NPCs? Here are the added followers and other NPC related mods included in the list.
- - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) and [Queen of the Damned - Dealier Serana](https://www.nexusmods.com/skyrimspecialedition/mods/16815) to make Serana a more *appealing* ~~waifu~~ follower.
+ - [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161) and [Queen of the Damned - Dealier Serana](https://www.nexusmods.com/skyrimspecialedition/mods/16815) to make Serana the best ~~waifu~~ follower.
  - [Improved Follower Dialogue - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) a complete revamp of Lydia, offering new lines, new quests, and more for one of Skyrim's most famous supporting characters.
  - [Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541) is a lore-friendly, fully voiced quest about Teldryn Sero's past.
  - [Kaidan 2](https://www.nexusmods.com/skyrimspecialedition/mods/19075) is a staple follower who swears a lot. He can be found under captivity of the Thalmor in the Abandoned Prison.
@@ -169,6 +169,16 @@ What good is a world without NPCs? Here are the added followers and other NPC re
      - According to fray, "she's an inspiring merc hoping someone will give her a chance." But I still think she's annoying.
  - [Meeko Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17572), [Vigilance Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/17571), and [Unique Barbas Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/17540) give the dogs of Skyrim a more unique look.
  - [Interesting NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/29194) and [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) make the world feel more lived in and fleshed out by adding many new, fully voiced NPCs.
+
+### Managing Followers
+
+Because people asked for it and do not know how to read mod pages, here I will go over what mods manage followers in the list.
+ - [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764) and [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774) stop friendly fire. If you're unable to kill an NPC for whatever reason, this mod is the cause. You can disable it in the MCM. 
+ - [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764) and [Simple Offence Suppression MCM - Block Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/41774) stop friendly fire. If you're unable to kill an NPC for whatever reason, this mod is the cause. You can disable it in the MCM. 
+ - [Simple Follower Extension](https://www.nexusmods.com/skyrimspecialedition/mods/36060) increases the follower count to 10 (does not include 3DNPCs, which still only allows 1, but you can use set 3dnpcfollowercount 0 in console to have more 3DNPCs followers), stops them from triggering traps, allows them to relax when waiting, tries to stop your followers from getting too far away, and tries to stop them from fighting each other. 
+ - [Party Damage Control](https://www.nexusmods.com/skyrimspecialedition/mods/62613) nerfs you and your followers based on how many people are in party (including you!).
+ - [Disable Follower Collision](https://www.nexusmods.com/skyrimspecialedition/mods/35925) simply allows you to walk through followers. This doesn't allow you to walk through Pets of Skyrim followers however, to do that you need to do setplayerteammate 1 on them in console command (bare in mind this will allow enemies to target and attack them, so consider making them essential in console too!).
+ - [Configurable Commentary Rate Slider](https://www.nexusmods.com/skyrimspecialedition/mods/38670) allows you to set how much followers talk as you explore. If they talk too little or too much, you can edit it in the MCM.
 
 ### Dungeons
 
