@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.4.2](#142)
 - [1.4.1.1](#1411)
 - [1.4.1](#141)
 - [1.4.0](#140)
@@ -10,6 +11,14 @@
 - [1.3.0.2](#1302)
 - [1.3.0.1](#1301)
 - [1.3.0](#130)
+
+## 1.4.2
+
+### Dev Notes
+
+ - This version just compiles all of the bug fixes that were posted in the discord for version 1.4.1 and 1.4.1.1.
+ - No further patch notes will be provided.
+ - Ideally this is mostly for people who are downloading the list for the first time.
 
 ## 1.4.1.1
 
