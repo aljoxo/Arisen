@@ -142,7 +142,6 @@ Arisen includes a significant amount of tweaks and improvements to the vanilla g
 ### New Quests and Content
 
 Arisen's "ideal" content progression is outlined in the ReadMe [here](https://github.com/aljoxo/Arisen/blob/main/README.md#faq), however it includes much more than what is discussed there.
- - [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802), I don't think anything needs to be said about this mod, while some may argue that it makes the game too focused on the Museum and hoarding items, I believe this to be specific to the player. This list does not include Curator's Companion which should lessen the feel that the entire game revolves around collecting for the Museum.
  - The Vicn Trilogy including [VIGILANT](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [GLENMORIL](https://www.nexusmods.com/skyrimspecialedition/mods/32998), and [UNSLAAD](https://www.nexusmods.com/skyrimspecialedition/mods/11789) comprise the core of the "added content."
  - [Identity Crisis](https://www.nexusmods.com/skyrimspecialedition/mods/39634) investigate the madness afflicting the Northern Asylum of Julianos, and encounter the Madgod himself.
  - [Waking Nightmare](https://www.nexusmods.com/skyrimspecialedition/mods/34329) a journey into Quagmire, allowing the player to earn the favor of Vaermina.
