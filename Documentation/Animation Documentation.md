@@ -1,11 +1,5 @@
 # Animations
 
-## Table of Contents
- - [Animation Baseline](#animation-baseline)
- - [Other Frameworks](#other-frameworks)
- - [Notable Mod Authors](#notable-mod-authors)
- - [Additional Tools](#additional-tools)
-
 ## Animation Baseline
  - [Dynamic Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/33746)
  - [Animation Motion Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/50258)
@@ -21,8 +15,6 @@
  - [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
  - [POISE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
  - [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
-
-
 
 ## Notable Mod Authors
 
