@@ -438,7 +438,7 @@ Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [bug-reports](https://discord.com/channels/1008047161281347606/1008052853002219683) channel in discord first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
