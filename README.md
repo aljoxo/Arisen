@@ -452,3 +452,4 @@ Please check the [bug-reports](https://discord.com/channels/1008047161281347606/
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
 - Halgari and the WJ Team for this amazing platform.
+- [Cosmofujia](https://www.patreon.com/fujiacosmo) for a significant amount of high quality Weapon Models.
