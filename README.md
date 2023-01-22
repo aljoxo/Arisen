@@ -39,6 +39,7 @@
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
       - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
+      - [Q: I leveled up but didn't get any perk points. / How do I get perk points?](#q-i-leveled-up-but-didnt-get-any-perk-points--how-do-i-get-perk-points)
       - [Q: How do I change the bodyslide on my character/on NPCs?](#q-how-do-i-change-the-bodyslide-on-my-characteron-npcs)
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
       - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
@@ -368,6 +369,9 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 #### Q: Should I be worried about the Form 43 Error in MO2?  
 A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
+
+#### Q: I leveled up but didn't get any perk points. / How do I get perk points?
+A: Read the [Progression Section](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md#progression) of the Gameplay Guide. You do not get Perks the traditional way in Arisen.
 
 #### Q: How do I change the bodyslide on my character/on NPCs?  
 A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321) instead of [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) to handle Bodyslide distributions and morphs. By default the keybind to open the AutoBody menu is `;`, but it can be changed in the AutoBody MCM menu.  
