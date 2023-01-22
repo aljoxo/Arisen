@@ -88,7 +88,7 @@ Arisen seeks to provide the player with lightweight systems from which to build 
 
 ### Progression
 
-Now that we've discussed the perks and general progression itself, let's talk about how you will actually improve your character within the list. Gone are the days of traditional Skyrim leveling. As of version 1.4, Arisen has changed to a system in which perks are rewarded by completing content and exploring.
+Now that we've discussed the perks and general progression itself, let's talk about how you will actually improve your character within the list. **YOU DO NOT RECEIVE PERK POINTS UPON LEVELING UP**, Arisen encourages exploration and being an active participant within the game world in order to progress, so here is what that will look like:
  - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Static Skill Leveling](https://www.nexusmods.com/skyrimspecialedition/mods/30410?tab=description) completely overhaul the way you improve skills and level within the list.
      - The skill caps for experience are as follows: 20 base skill, increasing by 2 every level, plus racial bonus. For example, a nord at level 2 would have a skill cap of 32 in Two-Handed (20 base + 10 from racial + 2 from level), but only a skill cap of 22 in Destruction (20 base + 0 from racial + 2 from level).
      - You must **sleep** in a bed after leveling up in order to advance your skills via the Static Skill Leveling menu.
