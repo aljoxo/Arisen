@@ -116,8 +116,8 @@ Continuing with a lightweight and balanced approach, these are some more mods yo
 For those who seek to make their gameplay a little more intense and/or immersive, Arisen includes an optional Survival Addition.
 - [SunHelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) was opted for over the Creation Club Survival Mode, due to being a relatively lightweight mod with a solid survival framework.
      - **Key mechanics to note**:  
-         - Configurable via MCM.  
-         - You **must** sleep to level up if you activate SunHelm.  
+      - Configurable via MCM.  
+      - You **must** sleep to level up if you activate SunHelm.  
 - [Harsher SunHelm Cold](https://www.nexusmods.com/skyrimspecialedition/mods/63548) makes the cold regions of Skyrim a bit more reflective of their true nature. By making the cold mechanics of SunHelm more dangerous, it is advised that you plan accordingly.
 - [SunHelm Auto Eat and Drink](https://www.nexusmods.com/skyrimspecialedition/mods/66772) is there for individuals who like playing Survival Mode for the realism and gameplay it creates, but don't enjoy the tedium of having to remember to eat and drink.
 
@@ -188,8 +188,8 @@ Because people asked for it and do not know how to read mod pages, here I will g
 Now that that is out of the way, let's talk about loot.  
  - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) is the framework utilized by Arisen to distribute loot within the world. I have made many edits to the way in which loot is distributed.
      - All mod added armors and weapons have been integrated into the loot system in one way or another. 
-         - More unique weapons and armors have been either hand placed within the world or locked behind specific quests, after which point they will become craftable (or given to the player depending on specifics).  
-         - More generic armors and weapons, especially those of the steel and under categories, have been integrated into the game world as cleanly as possible to increase diversity.  
+      - More unique weapons and armors have been either hand placed within the world or locked behind specific quests, after which point they will become craftable (or given to the player depending on specifics).  
+      - More generic armors and weapons, especially those of the steel and under categories, have been integrated into the game world as cleanly as possible to increase diversity.  
  - On top of Open World Loot, I have handplaced a significant amount of "generic" and "unique" items, similar to MorrowLoot (for those who are familiar). This does mean that it is possible to get very strong loot very early on for those with the knowledge and will to seek them out.  
 
 When it comes to loot, boss chests are not what you should be primarily focusing on when trying to look for upgrades, the vast majority of Higher Tier items shall be found in the game world by way of hand placements or by way of quests. Unique items and Artifacts *should* be stronger than anything the player can enchant, outside of niche scenarios in which an enchanted item can be made for a very specific purpose. I have very little intention of changing the way loot is handled in the list, at least for the time being.  
