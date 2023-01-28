@@ -31,7 +31,6 @@
     - [Widescreen Fixes](#widescreen-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
     - [Removing Nudity from the list](#removing-nudity-from-the-list)
-    - [Performance Options](#performance-options)
     - [Documentation](#documentation)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
@@ -40,24 +39,19 @@
   - [Updating the modlist](#updating-the-modlist)
   - [FAQ](#faq)
       - [Q: Should I be worried about the Form 43 Error in MO2?](#q-should-i-be-worried-about-the-form-43-error-in-mo2)
+      - [Q: I leveled up but didn't get any perk points. / How do I get perk points?](#q-i-leveled-up-but-didnt-get-any-perk-points--how-do-i-get-perk-points)
       - [Q: How do I change the bodyslide on my character/on NPCs?](#q-how-do-i-change-the-bodyslide-on-my-characteron-npcs)
       - [Q: I can't level up, what do I do?](#q-i-cant-level-up-what-do-i-do)
-      - [Q: How do I get the Static Skill Leveling prompt to show up after leveling up?](#q-how-do-i-get-the-static-skill-leveling-prompt-to-show-up-after-leveling-up)
-      - [Q: I leveled up but didn't get any perk points. / How do I get perk points?](#q-i-leveled-up-but-didnt-get-any-perk-points--how-do-i-get-perk-points)
-      - [Q: Why can't I damage or kill X Npc?](#q-why-cant-i-damage-or-kill-x-npc)
       - [Q: How do I start the main questline?](#q-how-do-i-start-the-main-questline)
       - [Q: When do dragons start spawning?](#q-when-do-dragons-start-spawning)
-      - [Q: Why did the dragon I kill not give me a Dragon Soul?](#q-why-did-the-dragon-i-kill-not-give-me-a-dragon-soul)
       - [Q: How do I become the Thane of Whiterun? How do I get Lydia?](#q-how-do-i-become-the-thane-of-whiterun-how-do-i-get-lydia)
       - [Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?](#q-i-cant-find-altano-in-the-windpeak-inn--how-do-i-start-vigilant)
       - [Q: Why won't Lucien talk to me?](#q-why-wont-lucien-talk-to-me)
       - [Q: I don't like the physics.](#q-i-dont-like-the-physics)
       - [Q: How do I add a Bodyslide to the list?](#q-how-do-i-add-a-bodyslide-to-the-list)
       - [Q: How do I enable my crosshair?](#q-how-do-i-enable-my-crosshair)
-      - [Q: How do I get rid of the black bars? How to disable letterbox.](#q-how-do-i-get-rid-of-the-black-bars-how-to-disable-letterbox)
       - [Q: Wasn't this modlist originally named Apotheosis? Why the name change?](#q-wasnt-this-modlist-originally-named-apotheosis-why-the-name-change)
-  - [Known Issues](#known-issues)
-  - [Tweaking the Game Settings](#tweaking-the-game-settings)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
       - [BethINI](#bethini)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
@@ -65,11 +59,9 @@
 
 ## Preamble
 
-Arisen provides a balanced, modern combat experience, featuring an expansive DAR setup, tweaked SimonRim, many hand picked visuals, and countless, hand-placed, custom weapons and armor. The list focuses and prioritizes exploration, and seeks to reward the player for engaging within the game world.
+Arisen is a Wabbajack modlist centered around providing the player a brand new combat experience by utilizing various mods such as MCO, Precision, and SCAR, as well as an extensive amount of custom movesets to help provide a strong animation foundation. The list uses a tweaked Simonrim setup of mods to offer balanced and interesting paths of progression for the player, tuned finely to ensure compatibility with the aforementioned combat core. The list also has many hand-placed weapons and armor to maintain a fresh experience and sense of wonder while exploring.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/arisen-wabbajack).
-
-It is **highly** suggested that at some point during or after install, new users read the Gameplay Guide [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md) in order to see the changes.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -83,7 +75,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 |     :---:    |     :---:     |
 | **CPU**   | R7 3700x / i5 10600k |  
 | **Video Card**    | RTX 3060 Ti / RTX 2070 / RX 6700 XT       |
-| **Ram**    | 16gb (2x8) DDR4 3200mhz RAM     |
+| **Ram**    | 16gb (2x16) DDR4 3200mhz RAM     |
 | **Storage**    | SATA SSD     |
 
 >  Due to the age of Skyrim, it's hard to pinpoint exactly what specs you will need to run this list. Out of testers who I know the hardware for, one has a 9700k/2070/32gb RAM, one has a 9900k/2080/16gb RAM, and I have a 9700k/3080/32gb RAM. Based on feedback I have gotten the list runs very well with few problematic areas, however I will collect more data before attempting to update these system requirements as to not try and mislead people. 
@@ -173,7 +165,7 @@ Downloading and installing Arisen can take a while depending on your internet co
 > The download location does not need to be on a SSD, but it makes installing faster.
 5. Press the play button to begin.
 6. Go and pet your nearest fluffy animal whilst Wabbajack does its thing. Alternatively read through this readme again.
-7. If the installation is successful, jump for joy and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below.
+7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 Some files require loverslab for this list (none of them are sex mods).
 - [Tempered Skins for Males - SOS Light Version - part 2 of 2 v2.051](https://www.loverslab.com/files/file/3692-sos-light-version-with-tempered-skins-for-males-sse/)
@@ -189,15 +181,18 @@ Sometimes Google Drive and MEGA will experience bandwidth caps, so below I have 
 - [OCPA 1.2](https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc)
 - [Tullfx Bloodstorm](https://drive.google.com/file/d/1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA)
 - [ADXP/SCAR Sneak Fix](https://drive.google.com/file/d/14WLQgjMaExudmcExtXUAfESc0eV_8k6N)
+- [Cosmofujia's EldenRing Spears](https://drive.google.com/file/d/1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX)
+- [Cosmofujia's ER Black Knife & Godslayer's Greatsword](https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP)
 
-Sometimes the SkyrimGuild website also runs into issues, here are the direct links if this is the case.
-- [ADXP 1.6.0.2](https://www.skyrim-guild.com/s/Attack-MCODXP-v1602.zip)
-- [DMCO](https://www.skyrim-guild.com/s/Dodge-MCODXP-v202.zip)
+Sometimes the SkyrimGuild website also runs into issues so I suggest downloading these in advanced as well.
+- [ADXP 1.4.3](https://www.skyrim-guild.com/s/ADXP-Beta-143.zip)
+- [DMCO](https://www.skyrim-guild.com/s/DMCO-095.7z)
 - [Impactful Blocking](https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar)
 - [MikeNike Elder Souls](https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z)
 - [Creatures DXP](https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip)
 
 Patreon downloads incase they give problems.
+- [Cosmofujia Elden Ring Twinblades](https://www.patreon.com/file?h=69418463&i=11393448)
 - [Eskyrim Fomod v1.1](https://www.patreon.com/file?h=65532242&i=10998255)
 - [Eskyrim Fomod v1.2](https://www.patreon.com/file?h=68233071&i=11449877)
 - [Eskyrim Sprint](https://www.patreon.com/file?h=68233071&i=11449874)
@@ -231,7 +226,7 @@ Arisen uses a Wabbajack feature called Stock Game to keep your Skyrim installati
 
 ### Antivirus Exceptions
 
-Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. Antivirus programs like BitDefender, Norton, and Webroot are especially aggressive, and you will very likely need to fully remove them from your PC in order to actually launch the game through MO2.
+Generally speaking, using Windows Defender is advised as it is a solid antivirus software that will have minimal interference with the game. Antivirus programs can be notorious for false flagging MO2's VFS as problematic, causing crashes or other problems. 
 
 If you use Windows Defender, it is advised that you set up an Exception for the modlist. To do this follow these steps.
  1. Press the Windows Key.
@@ -242,17 +237,24 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
  6. Windows Defender will prompt you with a run as administrator screen, just hit yes.
  7. Click the "Add an exclusion" button at the top and choose "Folder".
  8. Navigate to your Install folder for the list and click "Select Folder".
- 9. **(OPTIONAL)** You can repeat these steps for the ModOrganizer.exe (`Path to Modlist\ModOrganizer.exe`), the Nemesis Executable (`Path to Modlist\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe`), and Synthesis (`Path to Modlist\tools\Synthesis\Synthesis.exe`)
+ 9. **(OPTIONAL)** You can repeat these steps for the ModOrganizer.exe (`Path to Modlist`\ModOrganizer.exe), the Nemesis Executable (`Path to Modlist`\mods\Project New Reign - Nemesis Unlimited Behavior Engine\Nemesis_Engine\Nemesis Unlimited Behavior Engine.exe), and Synthesis (`Path to Modlist`\tools\Synthesis\Synthesis.exe)
 
 ### Widescreen Fixes
 
-Arisen offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+Arisen offers some mods to provide (potential) Ultrawide and Widescreen Support. Under the **(Possible) Ultrawide Support** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
 
-**Some additional tweaking for visual consistency:**
- 1. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
+**IN ORDER FOR THESE FIXES TO WORK YOU NEED TO DO THE FOLLOWING**
+ 1. Search for **Nordic UI XXX Patch** (XXX being the "21 by 9" or "32 by 9" depending on your screen resolution) in the left pane of MO2 and delete or hide the following files:  
+    a. /interface/tweenmenu.swf  
+ 2. Search for **SunHelm Survival** in the left pane of MO2 and delete or hide the following files:  
+    a. /interface/skyui/bottombar.swf  
+    b. /interface/skyui/itemcard.swf  
+ 3. Search for **Experience** in the left pane of MO2 and delete or hide the following files:  
+    a. /interface/statsmenu.swf  
+ 4. Search for **Compass Navigation Overhaul** in the left pane of MO2 and open the .ini file, `CompassNavigationOverhaul.ini` and edit the following line(s):  
     a. PositionX=-0.127  
 ![](https://github.com/aljoxo/Arisen/blob/main/Media/CNO%20UW%201.png)
- 2. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
+ 5. Once in game, navigate to the *TrueHUD* MCM Menu, and change the following values:
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%201.png)
  ![](https://github.com/aljoxo/Arisen/blob/main/Media/TrueHUD%20UW%202.png)
 
@@ -260,33 +262,33 @@ Arisen offers some mods to provide Ultrawide and Widescreen Support. Under the *
 ### Controller and Gamepad Setup
 
 Arisen offers some mods to provide support for individuals who wish to play with a controller or gamepad. In order to set it up correctly please follow these steps:
- 1. Under the **Gamepad Support** Separator in MO2, activate **Gamepad Controlmap Fixed** and **Gamepad OCPA ini**
+ 1. Under the **Gamepad Support** Separator in MO2, activate **Gamepad Controlmap Fixed**
  2. Go to `(Path To Modlist)\Stock Game` folder and delete *ControlMap_Custom.txt*
    a. Alternatively you can reset your controlmap in-game.
+ 3. Search for **OCPA Custom for ADXPMCO** in the left pane of MO2
+ 4. Right Click the mod > Information > INI Files and click on *SKSE\Plugins\OneClickPowerAttack.ini*
+ 5. Change the following value(s):
+   a. **Keycode=47** to **Keycode=281**
+     - This will change the power attack bind to right trigger, if you wish to use a different key please refer to [this link](https://www.creationkit.com/index.php?title=Input_Script).
 
 
 ### Removing Nudity from the list
 
 Due to requests, Arisen now offers the ability for the user to remove nudity and some NSFW elements from the list. In order to set it up correctly please follow these steps:
- 1. Under the **Non-Nude** Separator in MO2, activate **Dark Souls Undressed** and **SFW Override** mods.
+ 1. Under the **(OPTIONAL) SFW'ified Addons** Separator in MO2, activate **Dark Souls Undressed** and **SFW Override** mods.
  2. You're done. It's that easy.
  > Please note that there is some clipping on "larger" bodyslide presets with the underwear that is added by this addition. I will make 0 attempts to fix these and please do not bother the original mod author about it.
 
-### Performance Options
-
-Arisen is a pretty heavy list, in order to ease this for some lower end systems, Performance Options for some outputs have been included.
- 1. Under the **Performance Mode** Separator in MO2, activate **(Performance) NGIO**, **(Performance) TexGen - Arisen 2.0**, **(Performance) DynDOLOD - Arisen 2.0**, and **(Performance) Synthesis Output**
- 2. You're done.
- > Please note that your performance gains may vary depending on location and what was bottlenecking your system.
-
 ### Documentation
 
- - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md). **It is highly suggested that you read this guide**.
+ - For those looking for a Gameplay guide or an overview for what the list has to offer, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md).
  - To get an idea of what animations are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Animation%20Documentation.md).
  - To know what graphic mods are used in the list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Graphics%20Documentation.md)
  - To know what NPC Replacers used by this list, click [here](https://github.com/aljoxo/Arisen/blob/main/Documentation/Arisen%20NPC%20Replacers.md)
 
 ## Playing the List
+
+### Obligatory DAR Cache warning: due to the nature of this list and the amount of DAR based animations it uses, it does take some time (usually 15-30 seconds) at the start of each play session for DAR to cache all the folders and animations. While cleaning up the folder setup to try and alleviate this issue is a long term goal for the list, please do realize that this issue is out of our control as it is an issue with DAR itself since it does not allow for pre-cacheing animations via Nemesis or during loading screens. If you complain about this in the discord, on nexus, or on the github page, you will be linked back here.
 
 ### Starting the Game
  - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
@@ -315,9 +317,10 @@ Arisen is a pretty heavy list, in order to ease this for some lower end systems,
  - **Animated Overlays**: If you want to do some fun stuff with your RaceMenu overlays.
  - **AutoBody AE**: Change your *AutoBody Menu* keybind here. (Default: `;`)
  - **Better Third Person Selection**: Enables the filters to reduce the possibility that the player character accidentally steals items when trying to interact with the world. Turn these filters off if you do not like them.
- - **Bow Charge Plus**: Dodge Shot does not work with DMCO and is already implemented another way.  
- - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).  
- - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`).  
+ - **Bow Charge Plus**: Dodge Shot does not work with DMCO.
+ - **Dodge Framework**: Change your *dodge* keybind here (Default: `L Alt`).
+ - **Dual Wield Block**: Change your *Dual Wield Block* keybind here (Default: `B`). **REMEMBER TO CHANGE IT IN VALHALLA MCM MENU AS WELL**
+ - **Favourite Howls Menu**: Customize which powers will be in your favorites menu (for werewolves).
  - **Hide Your Quests**: Allows you to hide quests from your journal (not useful on startup, obviously).
  - **Improved Alternate Conversation Camera**: Tweak the dialogue camera here.
      - Notable settings include: Switch Target (for Witcher-Style Dialogue Camera), Force Third/First Person, Camera Offsets.
@@ -326,13 +329,22 @@ Arisen is a pretty heavy list, in order to ease this for some lower end systems,
  - **Optimal Potion Hotkey**: Change your *Health potion hotkey* (Default: `F`). Add a hotkey for stamina/magicka potions.
  - **Pronouns**: If you selected They/Them, you must go into the MCM and set up Fallback pronouns. If you set Multiple, you can select the % chance of pronouns.
  - **Seiro's Hotkeys**: Set up additional hotkeys here.
- - **SmoothCam**: By default the list uses a modified version of dTry's [Raven's Gaze](https://www.nexusmods.com/skyrimspecialedition/mods/63887) SmoothCam preset. You can change your shoulder swap keybind here. (Default: `Mouse4`).
+ - **Simplest Horses**: Change your *Horse Control hotkey* here (Default: `H`).
+ - **SmoothCam**: By default the list uses a modified version of dTry's [Raven's Gaze](https://www.nexusmods.com/skyrimspecialedition/mods/63887) SmoothCam preset. The list also includes [Loki's Souls-Like](https://www.nexusmods.com/skyrimspecialedition/mods/41413) Preset and [SynHC's SynErgy Preset](https://www.nexusmods.com/skyrimspecialedition/mods/46655). You can change your shoulder swap keybind here. (Default: `Mouse4`).
+ - **Static Skill Leveling**: MCM menu does not work, if you wish to tweak this, do it in xEdit. By default you get 10 skill points per level and every skill increase requires 1 point.
  - **SunHelm**: Disabled by default, can be activated through the MCM or by sleeping in a bed.
     - Please note that enabling Sunhelm will **require you to sleep** each time you want to level up.
     - I suggest putting the "Widget Display Type" to *Alpha Based*
  - **SunHelm Auto Eat and Drink**: Enabled by default. Can change the Toggle bind here. (Default: Not Set)
- - **Taunt Your Enemies**: Change you *Taunt* keybind here. (Default: `G`)
+ - **Taunt Your Enemies**: Change you *Taunt* keybind here (Default: `G`).
  - **True Directional Movement**: Change your *Target Lock* keybind here.
+ - **Valhalla Combat**: The core of the combat balance in the list. 
+    - Stamina: The settings here have been configured for what has been determined to be the most balanced gameplay. Feel free to tweak them to your liking. Please note that dTry's Exhaustion system is disabled due to causing enemy aggression problems and it was decided it would be better if it was off.
+    - Timed Block: You can enable or disable the *Tackle* mechanic (Default: `enabled`).
+    - Stun&Execution: By default the list disables dTry's stun system as it is not well balanced right now.
+    - Compatibility: Please **do not** enable the Poise compatibility option. While the list does use Poise, due to the DAR setup and witchcraft we have done to make it play nicely, enabling this compatibility option breaks the setup. If you previously changed your *Dual Wield Block* keybind in **Dual Wield Block** MCM, then please also change it here. 
+      - *TrueHUD API* should say "Not Obtained" next to it, this is due to disabling the Stun System. 
+      - If *Special Meter Control* says "Not Obtained", do not worry about this. As of current the Stun System is disabled due to balancing reasons.
 
 ### Anniversary Edition
 
@@ -340,7 +352,13 @@ Wabbajack [downgrades](https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
 ## Updating the modlist
 
-Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then check the Changelog [here](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md).
+Before updating, please check the [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) and back up your saves. You may need to start a new game after certain updates. If you are curious to know if an update is save safe or not, then refer to the version number. The first digit should indicate major version, second digit should indicate minor version (these are likely to be save safe unless otherwise specified), the third digit will mostly represent bug fixes, etc.
+  - If the modlist is updated from `1.0.0` to `2.0.0`, then this version is likely a major overhaul of at least one system and **will not** be considered save safe.
+  - If the modlist is updated from `1.0.0` to `1.1.0`, then this version is **not** save safe.
+  - If the modlist is updated from `1.0.0` to `1.0.1`, then this version is unlikely to be save safe, **unless** the changelog specifically says so. In cases where the update **is** save safe, you will need to perform additional steps to maintain the health of your save.  
+  - If the modlist is updated from `1.0.0.0` to `1.0.0.1`, then this version is a hotfix and 100% save safe.
+  - The [changelog](https://github.com/aljoxo/Arisen/blob/main/ArisenChangelog.md) will almost always have a note about whether the update is save safe, and whether there are any additional, precautionary steps you should take to ensure your saves do not have issues.
+
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
@@ -350,7 +368,10 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 #### Q: Should I be worried about the Form 43 Error in MO2?  
-A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. If you want to resave the `.esp`s in the CK to make them be form 44, feel free, it shouldn't break anything.
+A: The ["Form 43" warning](https://cdn.discordapp.com/attachments/853785456609329174/1018924398461337731/unknown.png) in the notifications section in the top right of MO2 is completely normal and can be safely ignored. It is a result of Distar not flagging ADXP as the correct Form and because it does not cause any issues, it was ignored.  
+
+#### Q: I leveled up but didn't get any perk points. / How do I get perk points?
+A: Read the [Progression Section](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md#progression) of the Gameplay Guide. You do not get Perks the traditional way in Arisen.
 
 #### Q: How do I change the bodyslide on my character/on NPCs?  
 A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/61321) instead of [OBody](https://www.nexusmods.com/skyrimspecialedition/mods/51084) to handle Bodyslide distributions and morphs. By default the keybind to open the AutoBody menu is `;`, but it can be changed in the AutoBody MCM menu.  
@@ -358,23 +379,11 @@ A: The list uses [AutoBody](https://www.nexusmods.com/skyrimspecialedition/mods/
 #### Q: I can't level up, what do I do?  
 A: You likely have SunHelm enabled, go sleep in a bed.
 
-#### Q: How do I get the Static Skill Leveling prompt to show up after leveling up?
-A: You need to sleep after leveling up to increase your skills. Unfortunately, making it so the SSL message box popped up after leveling up and leaving menu introduced some unintended bugs, so in order to fix them we had to revert to the original behavior of the mod.
-
-#### Q: I leveled up but didn't get any perk points. / How do I get perk points?
-A: Read the [Progression Section](https://github.com/aljoxo/Arisen/blob/main/Documentation/Gameplay%20Guide.md#progression) of the Gameplay Guide. You do not get Perks the traditional way in Arisen.
-
-#### Q: Why can't I damage or kill X Npc?
-A: Untick Simple Offence Suppression in the MCM. Tick it back on when you're finished.
-
 #### Q: How do I start the main questline?  
 A: If you have chosen to be Dragonborn in the Skyrim Unbound MCM settings, then upon killing your first dragon, you will be summoned by the Greybeards. If you have chosen to not be the Dragonborn, then you can not proceed with the main questline, doing so will also lock you out of a fair amount of content in the list due to the way quest progression is setup.
 
 #### Q: When do dragons start spawning?  
 A: By default, dragons are set to be delayed in their spawns from 7 to 21 days after you leave the starting room. By default, dragons will begin showing up at their Word Walls before you will encounter them in the wild.
-
-#### Q: Why did the dragon I kill not give me a Dragon Soul?
-A: Was the dragon by Valtheim Towers? Was its name Wuthahrkgolah? This dragon is a friendly NPC from the Citizens of Tamriel mod, and was not designed to be killed by the player. It doesn't give a Dragon Soul.
 
 #### Q: How do I become the Thane of Whiterun? How do I get Lydia?  
 A: You must complete [The Blessings of Nature](https://en.uesp.net/wiki/Skyrim:The_Blessings_of_Nature) quest and talk to Jarl Balgruuf when the Gildergreen tree is repaired/the sappling blooms. He'll thank you and allow you to buy the Breezehome, and the standard thaneship quest (help people of the hold and buy a house to become a thane) will be available.
@@ -404,66 +413,18 @@ A: You have two ways to go about this. The way I would suggest is to open the fo
 #### Q: How do I enable my crosshair?
 A: Disable the `Contextual Crosshair` mod, under the "Heads Up Display (HUD)" Separator in MO2.
 
-#### Q: How do I get rid of the black bars? How to disable letterbox.
-A: Open the ENB Menu (Default `Shift+Enter`), Open `ENBPOSTPASS.FX`, Scroll down until you see "letterbox" and untick it, Press the "Save Configuration" button, Close the ENB Menu.
-
 #### Q: Wasn't this modlist originally named Apotheosis? Why the name change? 
 A: There were some conversations over the name and it was decided that the name would be changed to minimize any long term drama or problems that would have arisen from it.  
-
-### Known Issues
-
-#### Being randomly attacked or arrested by NPCs!
-Solution(s)
- 1. open the console, select one of the NPCs, and type `paycrimegold 0 0`
-
-#### Tolfdir won't initiate dialogue with Ancano during the "The Eye of Magnus" quest!
-Solution(s)
- 1. Once in the Hall of the Elements, after Ancano finishes talking, click on Tolfdir in console and type `disable` followed by `enable`. This should trigger the fight to start.
-
-#### The frozen enemies in Auriel's Chapel are in the ceiling during "Touching The Sky" quest!
-Solution(s)
- 1. Open the Precision MCM, select 'Debug', and set a toggle key. Toggle Precision off before entering Auriel's Chapel, and turn it back on when all the frozen enemies are dead. 
- 2. You can use TCL and kill commands with scroll wheel to kill them one by one.
-   - Note: If you use the `killall` command, Arch-Curate Vyrthur will die when reaching him. This can break his scripted dialogue scene with Serana, thereby completely breaking the quest. It is highly suggested that you do not use the `killall` command.
-
-#### Alduin's Bane Cutscene Stuck! / Alduin not landing during Elder Scroll Cutscene!
-Solution(s)
- 1. Open console and type `setstage mq206 32` to make Alduin land on the word wall.
- 2. If this still doesn't fix the scene, type `setstage mq206 70` to learn the Dragonrend Shout.
- 3. If Alduin seems to be infinitely fighting with the NPCs, type `setstage mq206 100` to finish the cutscene and return to Throat of the World. (Note: Do not use this step as your first resort.)
-
-#### Black Screen when getting on Odahviing to travel to Skuldafn!
-Solution(s)
- 1. Deactivate Precision and Precision Creatures and rerun Nemesis (it is safe to re-enable these once you are in Skuldafn).
- 2. When mounting Odahviing to travel to Skuldafn, once he takes off the ground, open console and type `coc SkuldafnStart`. As long as the next stage of the quest is marked this should cause no bugs and let you continue the quest as normal.
-
-#### Black Screen when entering Waking Dreams after the "The Gardener of Men" quest!
-Solution(s)
- 1. Deactivate Precision and Precision Creatures and rerun Nemesis. After riding the Dragon up to Miraak's platform, it should be safe to re-enable these.
-
-#### [Insert Issue with the Civil War]
-Solution(s)
- 1. The civil war is broken in vanilla. I generally suggest not doing it.
 
 ### Tweaking the Game Settings
 
 #### BethINI
-
-Before running BethINI please make sure that your paths are correctly set. I also suggest backing up the original `.ini` files just in case. 
-
- - **Game**: `Skyrim Special Edition`
- - **Game Path**: `[Path to Modlist]\Stock Game`
-   - example: `F:\Arisen\Stock Game`
- - **Mod Organizer**: `[Path to Modlist]` 
-   - example: `F:\Arisen`
- - **INI Path**: `Mod Organizer > Arisen - Default Profile`
 
 To get some more FPS, tweak the following value in the detail section in BethINI.
 
 - `Shadow Resolution`: 2048
 - `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must, then you can.
-    - Do make note that if you remove shadows you must also disable the [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133) mod in the ENB Menu.
 
 If you want to tweak your ENB to improve performance, consider looking at Annakin's [ENB Tips](https://github.com/The-Animonculory/Modding-Resources/blob/main/ENB%20Tips.md) guide. 
 
@@ -475,26 +436,22 @@ To quote her, here is a short answer to improve performance with an ENB turned o
 > - Uncheck `EnableTessellation` in `WATER`.
 > - Uncheck `ComplexFireLights` and `ComplexFireLights` OR
 >   - Uncheck `EnableBigRange` in these two settings.
-> - Uncheck `Detailed Shadows`
-> - Uncheck `Complex Grass Collision`
-> - Uncheck `Complex Grass`
 
 ## Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
 ## Contact
 
-Please check the [issues](https://github.com/aljoxo/Arisen/issues) tab on github first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
+Please check the [bug-reports](https://discord.com/channels/1008047161281347606/1008052853002219683) channel in discord first if you have any issues. **PLEASE DO NOT DM ME ON DISCORD.** If you have an issue with the list, please join the [Waking Dreams](https://discord.gg/WakingDreams) discord server for support.
 
 ## Credits and Thanks
 
 - _YOU_ for reading this.
 - Ylikollikas for doing the vast majority of the back end work on animations and the Special Attacks system.
-- Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
 - Curly for allowing me to use his graphical baseline as the core of my list.
+- Bingus for helping me with ENB tweaking, playtesting, nifs, mod page screenshots, the final version of the logo/banner, and the MO2 splash.
 - iAmMe for helping me with the CK, documentation, and general WJ related things. As well as fixing some of the FaceGen (check out [Tahrovin](https://github.com/iAmMe27/Tahrovin) if you're looking for a VR list).
-- Chanka and fray for their help with moderation, playtesting, and documentation.
-- Everyone who helped beta test.
+- Chanka and fray for help with playtesting and documentation.
 - [Jolly Co-Operators](https://discord.gg/jolly-coop) for getting me more comfortable with modding.
 - JustThatKing and jdsmith2816 for their help with graphics and some miscellaneous.
 - Noggog for Mutagen and the xEdit team for xEdit and their tools.
