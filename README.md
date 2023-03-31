@@ -1,4 +1,7 @@
 # Arisen
+
+# <ins**This list is no longer supported.**<ins>
+
 ![](https://raw.githubusercontent.com/aljoxo/Arisen/main/Media/Arisen_Banner_with_Logo.png)
 
 
